@@ -1,0 +1,746 @@
+{
+  "search_metadata": {
+    "id": "64e53ad7ce87f86585971699",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f2bc7962bfd64950/64e53ad7ce87f86585971699.json",
+    "created_at": "2023-08-22 22:46:47 UTC",
+    "processed_at": "2023-08-22 22:46:47 UTC",
+    "google_jobs_url": "https://www.google.ca/search?q=Data+Analyst&ibp=htl;jobs&uule=w+CAIQICIGQ2FuYWRh&hl=en&gl=ca",
+    "raw_html_file": "https://serpapi.com/searches/f2bc7962bfd64950/64e53ad7ce87f86585971699.html",
+    "total_time_taken": 1.23
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Canada",
+    "location_used": "Canada",
+    "google_domain": "google.ca",
+    "hl": "en",
+    "gl": "ca"
+  },
+  "jobs_results": [
+    {
+      "title": "Data Analyst",
+      "company_name": "Peroptyx",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "We are hiring Remote Workers in Canada!\n\nAt Peroptyx, we are looking for Data Analysts who will review mapping data for digital mapping applications.\n\nYour research capabilities will validate and ensure that the navigation of certain routes are accurate and safe. As part of this role you will verify that business names and opening hours are correct. You will check that the distance from a starting point to an end destination is listed accurately resulting in better user experiences.\n\nWith this job you can plan your days around this highly flexible working schedule, work weekends or late evenings, all from the comfort of your own office. The flexibility of our roles minimizes the impact on your daily routine.\n\nSo, whether you are a student looking to earn as you learn, a retiree looking for a new challenge a part-time/full time professional or a work from home parent, Peroptyx has the right role for you!\n\nIdeal Candidate\n• Fluent in English.\n• Excellent research skills.\n• Excellent... local knowledge of your home country.\n• Good understanding and general knowledge of the geography and culture of Canada.\n• Analytical mindset.\n\nJob Requirements\n• You must be living in the Canada for a minimum of 5 consecutive years so that you are familiar with your local geography.\n• Must pass an online open-book exam that can verify your full understanding of the material and concepts.\n• Must be willing to work a minimum of 10 hours and up to 20 hours per week depending on task availability.\n• Good working knowledge of search engines, map applications and familiarity with social media platforms.\n• Strong ability to learn, understand and apply multiple sets of different instructions.\n• All work must be of an independent nature.\n\nTechnical requirements to perform the work\n• Access to a laptop or computer which uses:\n• A log on account unique to you\n• Anti-virus solution that is kept up to date, with regular scans performed\n• Only one member per household may apply\n\nNB. All products should be provided at your own expense.\n\nBenefits\n\n· Work up to 20 hours per week.\n\n· Earn a competitive rate of pay.\n\n· Develop your research skills.\n\n· Avoid the long commute.\n\n· Work from the comfort of your home office.\n\n· Enjoy the flexibility of setting your own working hours!\n\nApply Online Today!\n• This is a freelance, independent contractor position",
+      "job_highlights": [
+        {
+          "items": [
+            "We are hiring Remote Workers in Canada!\n\nAt Peroptyx, we are looking for Data Analysts who will review mapping data for digital mapping applications.\n\nYour research capabilities will validate and ensure that the navigation of certain routes are accurate and safe. As part of this role you will verify that business names and opening hours are correct. You will check that the distance from a starting point to an end destination is listed accurately resulting in better user experiences.\n\nWith this job you can plan your days around this highly flexible working schedule, work weekends or late evenings, all from the comfort of your own office. The flexibility of our roles minimizes the impact on your daily routine.\n\nSo, whether you are a student looking to earn as you learn, a retiree looking for a new challenge a part-time/full time professional or a work from home parent, Peroptyx has the right role for you!\n\nIdeal Candidate\n• Fluent in English.\n• Excellent research skills.\n• Excellent... local knowledge of your home country.\n• Good understanding and general knowledge of the geography and culture of Canada.\n• Analytical mindset.\n\nJob Requirements\n• You must be living in the Canada for a minimum of 5 consecutive years so that you are familiar with your local geography.\n• Must pass an online open-book exam that can verify your full understanding of the material and concepts.\n• Must be willing to work a minimum of 10 hours and up to 20 hours per week depending on task availability.\n• Good working knowledge of search engines, map applications and familiarity with social media platforms.\n• Strong ability to learn, understand and apply multiple sets of different instructions.\n• All work must be of an independent nature.\n\nTechnical requirements to perform the work\n• Access to a laptop or computer which uses:\n• A log on account unique to you\n• Anti-virus solution that is kept up to date, with regular scans performed\n• Only one member per household may apply\n\nNB. All products should be provided at your own expense.\n\nBenefits\n\n· Work up to 20 hours per week.\n\n· Earn a competitive rate of pay.\n\n· Develop your research skills.\n\n· Avoid the long commute.\n\n· Work from the comfort of your home office.\n\n· Enjoy the flexibility of setting your own working hours!\n\nApply Online Today!\n• This is a freelance, independent contractor position"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.peroptyx.com/",
+          "text": "peroptyx.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Peroptyx&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCJcI",
+          "text": "See web results for Peroptyx"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZo3znAMmrSEND6INPoofeA4y8dcnG317iXYH8Lo&s",
+      "extensions": [
+        "6 hours ago",
+        "Part-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 hours ago",
+        "schedule_type": "Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InVma3NacGNHQTNrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXVFQkNxSUJRVTFyTW14c1RERk5aeTFUY0U1MVptRmFSa3htZEZKR2NXOUhjVm95ZEhkeFRsbHNZbmxLVTNwclFtaEtPRGg1YUhoaFJXRXhTM1I1U2tGRVlqZDZTelJpVGt0RGJsUlNkMFZWVEhKVVNFTnlXbVZWVUhGcWVFdHljSGR4VERocFRucHFiRzFpYVhWd2EzQlBaamQwTnpoNGVETmhlRFZLZGt3NVl6SjVja05CVWtOcFNqazRSRFYyUlhkamVGazVWMmxoUjNCWlp6SjBkV1JaU3kxRlRUUlJFaFl5UkhKc1drOXRTRUp2WDNRdFFXSllhelJUWjBSbkdpSkJURVZUT1hWUWVIZEtjbkJtUVhKak0wMDBSVGhYUzI5RWRsazFNWFIzTTI1QiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtYW5hbHlzdC1hdC1wZXJvcHR5eC0zNzAxMTQwMjMwP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Applicantz",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "• Remote Work*\n\nOur large, Fortune Technology client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader.\n\nLooking for a Data Analyst who will drive operations and campaign decisions by delivering insights on user behavior, product adoption and conversion rates, as well as insights used to shape digital campaigns and new strategies.\n\nResponsibilities:\n• You have a growth mindset. You will identify business challenges and opportunities for improvement and solve for them using data analysis and data mining to make strategic or tactical recommendations.\n• You will support analytics and provide critical insights around product usage... campaign performance, funnel metrics, segmentation, conversion, and revenue growth.\n• You will build ad-hoc analysis, long-term projects, reports and dashboards to find new insights and to measure progress in key initiatives.\n• You will work closely with business stakeholders to understand and maintain focus on their analytical needs, including identifying critical metrics and KPIs.\n• You will partner with different teams within the organization to understand business needs and requirements.\n• You will deliver presentations that will distill complex problems into clear insights.\n\nQualifications:\n• Bachelor’s degree or higher in a quantitative field\n• 3+ years of experience in data analysis role\n• 3+ years of experience in Python, SQL, and visualization tool like Looker/PowerBI\n• A proven track record of decision making and problem solving based on analytics.\n• Conceptual thinking skills must be complemented by a strong quantitative orientation.\n• Strong business judgment, leadership, and integrity. You should be a tenacious decision maker, able to bring a healthy, aggressive, yet responsible approach to business.\n• Excellent written and oral communication skills, coupled with strategic influencing skills and the ability to drive agreement through intellect, interpersonal and negotiation.\n• Self-starter and adaptable. You’re energized and thrive in a fast-paced environment.\n• Solid understanding of databases and proficient in writing SQL in systems like Hive, Snowflake and Presto.\n• Strong skills in BI tools and Excel. Knowledge of PowerBI a plus\n\nBonus Points:\n• Skilled in using data mining techniques, including supervised and unsupervised learning.\n• Experienced in coding and debugging data issues with Spark/PySpark\n• Familiar with Airflow for workflow management\n• Able to collaborate effectively within a cross-functional, matrix environment",
+      "job_highlights": [
+        {
+          "items": [
+            "• Remote Work*\n\nOur large, Fortune Technology client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader.\n\nLooking for a Data Analyst who will drive operations and campaign decisions by delivering insights on user behavior, product adoption and conversion rates, as well as insights used to shape digital campaigns and new strategies.\n\nResponsibilities:\n• You have a growth mindset. You will identify business challenges and opportunities for improvement and solve for them using data analysis and data mining to make strategic or tactical recommendations.\n• You will support analytics and provide critical insights around product usage... campaign performance, funnel metrics, segmentation, conversion, and revenue growth.\n• You will build ad-hoc analysis, long-term projects, reports and dashboards to find new insights and to measure progress in key initiatives.\n• You will work closely with business stakeholders to understand and maintain focus on their analytical needs, including identifying critical metrics and KPIs.\n• You will partner with different teams within the organization to understand business needs and requirements.\n• You will deliver presentations that will distill complex problems into clear insights.\n\nQualifications:\n• Bachelor’s degree or higher in a quantitative field\n• 3+ years of experience in data analysis role\n• 3+ years of experience in Python, SQL, and visualization tool like Looker/PowerBI\n• A proven track record of decision making and problem solving based on analytics.\n• Conceptual thinking skills must be complemented by a strong quantitative orientation.\n• Strong business judgment, leadership, and integrity. You should be a tenacious decision maker, able to bring a healthy, aggressive, yet responsible approach to business.\n• Excellent written and oral communication skills, coupled with strategic influencing skills and the ability to drive agreement through intellect, interpersonal and negotiation.\n• Self-starter and adaptable. You’re energized and thrive in a fast-paced environment.\n• Solid understanding of databases and proficient in writing SQL in systems like Hive, Snowflake and Presto.\n• Strong skills in BI tools and Excel. Knowledge of PowerBI a plus\n\nBonus Points:\n• Skilled in using data mining techniques, including supervised and unsupervised learning.\n• Experienced in coding and debugging data issues with Spark/PySpark\n• Familiar with Airflow for workflow management\n• Able to collaborate effectively within a cross-functional, matrix environment"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Applicantz&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCMgI",
+          "text": "See web results for Applicantz"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZIPZijnwC9DSFVR295F5fqEy9jAaRTvYz5RdB14&s",
+      "extensions": [
+        "17 hours ago",
+        "$40 an hour",
+        "Contractor"
+      ],
+      "detected_extensions": {
+        "posted_at": "17 hours ago",
+        "schedule_type": "Contractor"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImJPSUV1RmtLTG9vQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL2NhLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZGF0YS1hbmFseXN0LWF0LWFwcGxpY2FudHotMzY5MjM2ODQyNT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Data Analyst (Edtech)",
+      "company_name": "Springpod",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "About Us:\n\nSpringpod was born from our desire to transform the way young people engage with employers and universities. We empower students to take control of their career paths by connecting them with leading employers and education providers. From work experience placements to apprenticeships and beyond, we are determined to help students discover their future careers – before they leave education. The use of data is pivotal at all levels at Springpod.\n\nAs we scale up our team internationally, we have a fantastic opportunity for a talented and driven Senior Data Analyst to join our Data team. This role will play a key part in expanding our use of data to benefit our users and client partners. The candidate will be a key liaison between business and data areas. The candidate will contribute to creating a set of best practices in partnership with the Data Architect. The successful candidate will be highly motivated and ambitious and must thrive in a fast-paced environment with a high... degree of autonomy.\n\nKey Responsibilities:\n• Gather business requirements directly from key stakeholders\n• Build data visualizations\n• Contribute to data assets catalogs and documentation by using standards previously set\n• Contribute to building Springpod’s analytical ecosystem following architecture principles set by the Data and Analytics area\n\nExperience\n• Essential\n• Experience gathering business requirements from key stakeholders\n• Experience performing data cleaning, preprocessing, and transformation tasks to ensure data quality and consistency\n• Experience creating and following documentation guidelines and development best practices\n• Experience implementing data lakes and data warehouses in cloud environments\n• Familiarity with data quality concepts\n• Desirable\n• Experience working with user data, with student (13-18) data being beneficial\n• Experience working across multiple stacks, include LAMP\n• Basic knowledge and/or experience on ML/AI projects\n\nKnowledge\n• Essential\n• Strong knowledge on a variety of BI reporting tools. Amazon Quicksight and Holistics are a bonus\n• Proficiency in SQL\n• Advanced data quality and data warehousing concepts\n• Desirable\n• Data security and privacy policies to ensure compliance with applicable laws and regulations\n• Knowledge of early careers sector is a bonus\n• Certifications in the Business Analysis field are valuable (IBAA-ECBA, etc.)\n• Familiarity with Data Governance concepts\n\nSkills\n• Essential\n• Problem-solving and troubleshooting - You should be able to identify and resolve issues related to data processing, data quality, and data transfer\n• Communication and collaboration - Effective communication and collaboration skills are essential for working with cross-functional teams and stakeholders, including data analysts, product managers, and other engineers\n• Self-starter - You should be curious, eager to learn, and have a passion for solving complex data problems, with a high degree of autonomy\n• Given his seniority, it is expected high level of autonomy and proactive collaboration\n\nSalary: C$65k-C$75k\n\nLocation: Vancouver, Canada (Hybrid)\n\nWorking hours: Canada East Coast (EDT or EST) when remote. The position requires some time overlap with United Kingdom time (GMT or BST",
+      "job_highlights": [
+        {
+          "items": [
+            "About Us:\n\nSpringpod was born from our desire to transform the way young people engage with employers and universities. We empower students to take control of their career paths by connecting them with leading employers and education providers. From work experience placements to apprenticeships and beyond, we are determined to help students discover their future careers – before they leave education. The use of data is pivotal at all levels at Springpod.\n\nAs we scale up our team internationally, we have a fantastic opportunity for a talented and driven Senior Data Analyst to join our Data team. This role will play a key part in expanding our use of data to benefit our users and client partners. The candidate will be a key liaison between business and data areas. The candidate will contribute to creating a set of best practices in partnership with the Data Architect. The successful candidate will be highly motivated and ambitious and must thrive in a fast-paced environment with a high... degree of autonomy.\n\nKey Responsibilities:\n• Gather business requirements directly from key stakeholders\n• Build data visualizations\n• Contribute to data assets catalogs and documentation by using standards previously set\n• Contribute to building Springpod’s analytical ecosystem following architecture principles set by the Data and Analytics area\n\nExperience\n• Essential\n• Experience gathering business requirements from key stakeholders\n• Experience performing data cleaning, preprocessing, and transformation tasks to ensure data quality and consistency\n• Experience creating and following documentation guidelines and development best practices\n• Experience implementing data lakes and data warehouses in cloud environments\n• Familiarity with data quality concepts\n• Desirable\n• Experience working with user data, with student (13-18) data being beneficial\n• Experience working across multiple stacks, include LAMP\n• Basic knowledge and/or experience on ML/AI projects\n\nKnowledge\n• Essential\n• Strong knowledge on a variety of BI reporting tools. Amazon Quicksight and Holistics are a bonus\n• Proficiency in SQL\n• Advanced data quality and data warehousing concepts\n• Desirable\n• Data security and privacy policies to ensure compliance with applicable laws and regulations\n• Knowledge of early careers sector is a bonus\n• Certifications in the Business Analysis field are valuable (IBAA-ECBA, etc.)\n• Familiarity with Data Governance concepts\n\nSkills\n• Essential\n• Problem-solving and troubleshooting - You should be able to identify and resolve issues related to data processing, data quality, and data transfer\n• Communication and collaboration - Effective communication and collaboration skills are essential for working with cross-functional teams and stakeholders, including data analysts, product managers, and other engineers\n• Self-starter - You should be curious, eager to learn, and have a passion for solving complex data problems, with a high degree of autonomy\n• Given his seniority, it is expected high level of autonomy and proactive collaboration\n\nSalary: C$65k-C$75k\n\nLocation: Vancouver, Canada (Hybrid)\n\nWorking hours: Canada East Coast (EDT or EST) when remote. The position requires some time overlap with United Kingdom time (GMT or BST"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.springpod.co.uk/",
+          "text": "springpod.co.uk"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Springpod&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCPsI",
+          "text": "See web results for Springpod"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAb4qAa1SC9pC31_HPcpOHDeotzT2gjqI96g8PcDk&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKEVkdGVjaCkiLCJodGlkb2NpZCI6IkJ1OVlUSUxLUWk4QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXVFQkNxSUJRVTFyTW14c1N6UlZiRWxHVmtaTVVFVllNVE16ZUZvMVZYcExMVmhXTURWelNVMWplbmxZTjNSSU1tTjJjR1JuZVdSVk5HUk1aa2haZFhGUmExVlhNRzFoZVc1U2Eyc3pkRzlHT0dwcFZDMXFRbXhwYzFGamVuZHJhVXB5YUZVNWVWbHlUMGxRVUVWWlRFa3lSREIwVUVSQ1oxZHZVVGh0UVhKSGJWTmpRVUpzVlVGTWMxSkNXR1V6V21wdU5rSnVWakJJUVRkNmNqWlRVQzAyVWxGV2RuSlJFaFl5UkhKc1drOXRTRUp2WDNRdFFXSllhelJUWjBSbkdpSkJURVZUT1hWUU4xWmhjMEU0ZEZGTVMyRnZVRFpWVW5NMVVrNVVNbWhVVmtwbiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtYW5hbHlzdC1lZHRlY2gtYXQtc3ByaW5ncG9kLTM3MDAzNDQ5MzY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Legend Boats",
+      "location": "  Canada   ",
+      "via": "via Indeed",
+      "description": "Legend Boats, a leading name in the boating industry, invites applications from enthusiastic and skilled Intermediate Data Analysts to join our dynamic team. If you possess a passion for delving into data insights while maintaining a collaborative spirit, we welcome you to embark on this exciting journey with us!\n\nPlease note that this position is exclusively an in-office role, designed to foster collaboration and teamwork among our talented professionals. Our office, nestled in the charming community of Whitefish, ON provides an inspiring backdrop for innovation and growth. The scenic beauty and welcoming atmosphere of Whitefish offer the perfect environment for you to thrive both personally and professionally.\n\nWhat You’ll Love About Us:\n• Great Company Culture! Legend Boats is a family-run business and we treat it that way. Our company culture encourages everyone to help others by “creating memories”\n• We live our Core Values! Boating and the Marine Lifestyle are awesome, you know... it, we know it, everyone who comes to visit us knows it! This is why we work towards having fun everyday (never at the expense of production or customer satisfaction of course).\n• Legend University! Legend Boats is committed to the development and potential of all employees. We have a large workforce and many career options that can provide advantages for growth opportunities and new skills training.\n• Genuine work life balance! 2 weeks paid vacation, 9 paid holidays, PLUS take advantage of our Flexible Vacation plans for more planned time off.\n• Health Benefits! After 6 months of employment, you will be eligible for our Medical, Dental and Travel Insurance!\n• Company Paid Life and Disability Insurance benefits after 6 months employment!\n• Prepare for the Future! Our Pension plan includes a company match up to 3%.\n• Live the Legend Program! You will be able to borrow a Legend Boat package during the boating season whether it is a day, a weekend or a week’s vacation!\n• Our Team prioritizes having fun! From Semi annual paid fun staff appreciation days to holiday celebrations to annual Health Challenges with monetary rewards and so much more!\n\nQualifications and Skills:\n• Proven experience as a Data Analyst or equivalent.\n• Proficiency in Excel, Google Sheets, SQL, and databases.\n• Expertise in Power BI, Tableau, or CRM Analytics.\n• Strong analytical and problem-solving skills.\n• Excellent communication skills, both written and verbal.\n• Detail-oriented with a keen eye for accuracy.\n• Collaborative team player with the ability to engage with stakeholders at all levels.\n• Knowledge of data sources, storage, and statistical methodologies.\n• Curiosity to explore and solve data mysteries.\n\nKey Responsibilities:\n• Create comprehensive Salesforce reports and Dashboards across all departments.\n• Utilize Tableau CRM to develop sophisticated reports that provide unique insights beyond standard reporting.\n• Conduct in-depth analyses of company data to identify trends that enhance efficiency, revenue, and customer experiences.\n• Ensure data accuracy and consistency, maintaining its reliability akin to a compass on open waters.\n• Stay informed about platform advancements, from Salesforce reporting to Tableau CRM excellence.\n• Analyze historical sales data to optimize inventory levels for serialized and unserialized products.\n• Provide insightful data and analytics support to the accounting and finance teams.\n• Monitor customer accounts to ensure smooth financial transactions.\n• Assist with data entry and project support for the Accounting team.\n• Handle complex reconciliations and maintain general ledger accounts.\n• Act as a reliable anchor for the Accounting team, offering support as required.\n• Undertake various accounting duties, including research, reconciliation, and data analysis.\n\nCompensation:\n• Competitive annual salary ranging from $51,000 to $70,000, commensurate with experience.\n\nAt Legend Boats, we believe in fostering connections, creating memorable experiences, and providing exciting career opportunities. If you're ready to dive into a role that combines your analytical prowess with a passion for boating, we invite you to join our team. Become part of an organization that values your expertise and is dedicated to supporting your growth. Your journey to success starts with us",
+      "job_highlights": [
+        {
+          "items": [
+            "Legend Boats, a leading name in the boating industry, invites applications from enthusiastic and skilled Intermediate Data Analysts to join our dynamic team. If you possess a passion for delving into data insights while maintaining a collaborative spirit, we welcome you to embark on this exciting journey with us!\n\nPlease note that this position is exclusively an in-office role, designed to foster collaboration and teamwork among our talented professionals. Our office, nestled in the charming community of Whitefish, ON provides an inspiring backdrop for innovation and growth. The scenic beauty and welcoming atmosphere of Whitefish offer the perfect environment for you to thrive both personally and professionally.\n\nWhat You’ll Love About Us:\n• Great Company Culture! Legend Boats is a family-run business and we treat it that way. Our company culture encourages everyone to help others by “creating memories”\n• We live our Core Values! Boating and the Marine Lifestyle are awesome, you know... it, we know it, everyone who comes to visit us knows it! This is why we work towards having fun everyday (never at the expense of production or customer satisfaction of course).\n• Legend University! Legend Boats is committed to the development and potential of all employees. We have a large workforce and many career options that can provide advantages for growth opportunities and new skills training.\n• Genuine work life balance! 2 weeks paid vacation, 9 paid holidays, PLUS take advantage of our Flexible Vacation plans for more planned time off.\n• Health Benefits! After 6 months of employment, you will be eligible for our Medical, Dental and Travel Insurance!\n• Company Paid Life and Disability Insurance benefits after 6 months employment!\n• Prepare for the Future! Our Pension plan includes a company match up to 3%.\n• Live the Legend Program! You will be able to borrow a Legend Boat package during the boating season whether it is a day, a weekend or a week’s vacation!\n• Our Team prioritizes having fun! From Semi annual paid fun staff appreciation days to holiday celebrations to annual Health Challenges with monetary rewards and so much more!\n\nQualifications and Skills:\n• Proven experience as a Data Analyst or equivalent.\n• Proficiency in Excel, Google Sheets, SQL, and databases.\n• Expertise in Power BI, Tableau, or CRM Analytics.\n• Strong analytical and problem-solving skills.\n• Excellent communication skills, both written and verbal.\n• Detail-oriented with a keen eye for accuracy.\n• Collaborative team player with the ability to engage with stakeholders at all levels.\n• Knowledge of data sources, storage, and statistical methodologies.\n• Curiosity to explore and solve data mysteries.\n\nKey Responsibilities:\n• Create comprehensive Salesforce reports and Dashboards across all departments.\n• Utilize Tableau CRM to develop sophisticated reports that provide unique insights beyond standard reporting.\n• Conduct in-depth analyses of company data to identify trends that enhance efficiency, revenue, and customer experiences.\n• Ensure data accuracy and consistency, maintaining its reliability akin to a compass on open waters.\n• Stay informed about platform advancements, from Salesforce reporting to Tableau CRM excellence.\n• Analyze historical sales data to optimize inventory levels for serialized and unserialized products.\n• Provide insightful data and analytics support to the accounting and finance teams.\n• Monitor customer accounts to ensure smooth financial transactions.\n• Assist with data entry and project support for the Accounting team.\n• Handle complex reconciliations and maintain general ledger accounts.\n• Act as a reliable anchor for the Accounting team, offering support as required.\n• Undertake various accounting duties, including research, reconciliation, and data analysis.\n\nCompensation:\n• Competitive annual salary ranging from $51,000 to $70,000, commensurate with experience.\n\nAt Legend Boats, we believe in fostering connections, creating memorable experiences, and providing exciting career opportunities. If you're ready to dive into a role that combines your analytical prowess with a passion for boating, we invite you to join our team. Become part of an organization that values your expertise and is dedicated to supporting your growth. Your journey to success starts with us"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Legend+Boats&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCKwJ",
+          "text": "See web results for Legend Boats"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfxsNie6Pd4pGSBcJfSipHcGq1Y-zFgLXY3szJpw&s",
+      "extensions": [
+        "20 hours ago",
+        "$51K–$70K a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "20 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjhzMFBYQVlQdERVQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBJbmRlZWQiLCJsaW5rIjoiaHR0cHM6Ly9jYS5pbmRlZWQuY29tL3ZpZXdqb2I/ams9ZDhmYTY3MzYyMjUzYTU0YVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Virtual Data Analyst / Entry level (Remote)",
+      "company_name": "Talentify.io",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "Join employer as a Virtual Data Analyst and unlock the opportunity to work remotely while making a meaningful impact on our organization. As a highly motivated and detail-oriented individual, you will have the chance to analyze large datasets, generate valuable insights, and effectively communicate your findings to stakeholders. With a focus on data-driven strategies, you will collaborate with cross-functional teams to support business needs and drive positive outcomes. If you have a passion for problem-solving and a desire to contribute to a diverse and inclusive work environment, apply now!\n\nResponsibilities\n• Collect and analyze large datasets using various tools and techniques\n• Identify trends, patterns, and anomalies in data and communicate findings to stakeholders\n• Develop and maintain dashboards and visualizations to provide stakeholders with a clear understanding of data trends\n• Assist in the development of data-driven strategies to improve business outcomes\n• Collaborate... with cross-functional teams to support business needs and provide insights\n\nQualifications\n• Bachelor's degree in a related field such as Mathematics, Statistics, Economics, or Computer Science\n• Strong analytical and problem-solving skills\n• Proficiency in SQL, Python, and/or R\n• Knowledge of data visualization tools such as Tableau or Power BI\n• Excellent communication skills, both written and verbal\n• Ability to work independently and as part of a team\n\nBenefits\n• Competitive salary and benefits package\n• Flexible work schedule\n• Opportunity for growth and advancement within the organization\n• Collaborative and inclusive work environment\n• Work from the comfort of your own home\n• Access to professional development and training opportunities\n\nAdditional Information\n• At employer, we value diversity and are committed to creating an inclusive environment for all employees. We believe that everyone has a unique perspective to bring to the table and that our differences make us stronger.\n\nTalentify helps candidates around the world to discover and stay focused on the jobs they want until they can complete a full application in the hiring company career page/ATS",
+      "job_highlights": [
+        {
+          "items": [
+            "Join employer as a Virtual Data Analyst and unlock the opportunity to work remotely while making a meaningful impact on our organization. As a highly motivated and detail-oriented individual, you will have the chance to analyze large datasets, generate valuable insights, and effectively communicate your findings to stakeholders. With a focus on data-driven strategies, you will collaborate with cross-functional teams to support business needs and drive positive outcomes. If you have a passion for problem-solving and a desire to contribute to a diverse and inclusive work environment, apply now!\n\nResponsibilities\n• Collect and analyze large datasets using various tools and techniques\n• Identify trends, patterns, and anomalies in data and communicate findings to stakeholders\n• Develop and maintain dashboards and visualizations to provide stakeholders with a clear understanding of data trends\n• Assist in the development of data-driven strategies to improve business outcomes\n• Collaborate... with cross-functional teams to support business needs and provide insights\n\nQualifications\n• Bachelor's degree in a related field such as Mathematics, Statistics, Economics, or Computer Science\n• Strong analytical and problem-solving skills\n• Proficiency in SQL, Python, and/or R\n• Knowledge of data visualization tools such as Tableau or Power BI\n• Excellent communication skills, both written and verbal\n• Ability to work independently and as part of a team\n\nBenefits\n• Competitive salary and benefits package\n• Flexible work schedule\n• Opportunity for growth and advancement within the organization\n• Collaborative and inclusive work environment\n• Work from the comfort of your own home\n• Access to professional development and training opportunities\n\nAdditional Information\n• At employer, we value diversity and are committed to creating an inclusive environment for all employees. We believe that everyone has a unique perspective to bring to the table and that our differences make us stronger.\n\nTalentify helps candidates around the world to discover and stay focused on the jobs they want until they can complete a full application in the hiring company career page/ATS"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://talentifyhr.com/",
+          "text": "talentifyhr.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Talentify.io&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCN8J",
+          "text": "See web results for Talentify.io"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiG1XqS45dxlq1jSaWlWdEUmoqOCCoL3sfm_WtrtM&s",
+      "extensions": [
+        "13 hours ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "13 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJWaXJ0dWFsIERhdGEgQW5hbHlzdCAvIEVudHJ5IGxldmVsIChSZW1vdGUpIiwiaHRpZG9jaWQiOiJNbXZNX25wTkZid0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJmYyI6IkV1RUJDcUlCUVUxck1teHNUSFZLZG5VdE0zaFVPRGRoVW1kR04yOVhVR1Z3TTB4YWVqZHdSamxtY1U4NU1VWnJVM1JOV0RoRU5qSktZMFJaZGpZeGNrcHdabnBRYWt4S1JVMW5TMkZuYUVaNFJrdDNlak5vWmpkVVdGcHVaa3BYTmtGQmFVUkxPVzV2UVZGS05FMUJkWFZ2WWxSRWFITjNWa2xwYVhCeFZtSjVaM0psT0dOMGNtSllWamhuYlY4elNVSTJVVTUwU0ZwbWRuVnhPWHAwU1VndFRFRkZlVGwzRWhZeVJISnNXazl0U0VKdlgzUXRRV0pZYXpSVFowUm5HaUpCVEVWVE9YVk5OMFZGUms1MGJXUmFUWEZoZVV4eE1scFpPRTVHZDJ0WWFrMTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vY2EubGlua2VkaW4uY29tL2pvYnMvdmlldy92aXJ0dWFsLWRhdGEtYW5hbHlzdC1lbnRyeS1sZXZlbC1yZW1vdGUtYXQtdGFsZW50aWZ5LWlvLTM3MDA4NTc4NDI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "UBC The University of British Columbia",
+      "location": "  Canada   ",
+      "via": "via Workday",
+      "description": "Staff - Non Union Job Category M&P - AAPS Job Profile AAPS Salaried - Research and Facilitation, Level A Job Title Data Analyst Department Tomek Laboratory | Department of Obstetrics and Gynaecology | Faculty of Medicine Compensation Range $4,688.67 - $6,754.00 CAD Monthly The Compensation Range is the span between the minimum and maximum base salary for a position. The midpoint of the range is approximately halfway between the minimum and the maximum and represents an employee that possesses full job knowledge, qualifications and experience for the position. In the normal course, employees will be hired, transferred or promoted between the minimum and midpoint of the salary range for a job. Posting End Date August 28, 2023 Note: Applications will be accepted until 11:59 PM on the day prior to the Posting End Date above. Job End Date Sept 15, 2024 This position is located within a health-care facility, therefore, the successful candidate will be required to provide verification of... full vaccination against Covid-19 provided prior to the start date, as required by a provincial health mandate. This offer is conditional upon successful completion of a Criminal Record Check. With your application, please include an example of your statistical code from a recent project. At UBC, we believe that attracting and sustaining a diverse workforce is key to the successful pursuit of excellence in research, innovation, and learning for all faculty, staff and students. Our commitment to employment equity helps achieve inclusion and fairness, brings rich diversity to UBC as a workplace, and creates the necessary conditions for a rewarding career. Job Summary The data analyst will work under the supervision of Dr. Jennifer Hutcheon, a Faculty Epidemiologist in the Department of Obstetrics and Gynaecology, and Dr Jessica Liauw, a Maternal-Fetal Medicine Physician and researcher in the Department of Obstetrics and Gynaecology. The position will be responsible for conducting data analyses and reporting for the team’s research program to identify policies and practices that improve the health of pregnant women/individuals and their infants. The data analyst will conduct data management, statistical analysis, and preparation of results sections of publications and presentation. Experience with epidemiologic analyses, statistical software packages, and analysis of large population data registries is essential; experience in the area of perinatal medicine or maternal and child health, and experience using Stata software will be an asset. This is a full-time (1.0FTE), temporary position (1 year with possibility of extension) with 35 hours per week. Organizational Status The data analyst is supervised by and reports to the co-Principal Investigators. The incumbent will also correspond and work closely with Co-Investigators and Client coordinators at the BC Ministry of Health Data Innovation Program. Work Performed Working under the direction of the PI and Co-Investigators, implements study research plans, methods of analysis and interpretation Performs the extraction and linkage of population data to derive analytic cohorts and the generation of study variables Performs data analysis using statistical software as appropriate Conducts multivariable regression analysis as described in research proposal, which may include: (a) generalized linear models b) interrupted time series models, or (c) regression discontinuity analysis. Prepares results section (including tables) for publications/presentations Interprets and summarizes analysis and results for research reports and publications Disseminates and presents analysis and evaluation information to research team In conjunction with research teams, assists in the writing and editing of research reports, and articles for publication Prepares summary reports, tables and charts Other duties as directed by the Principal Investigators (or designate) Consequence of Error/Judgement The data analyst is required to conduct all research activities in an ethical manner, suited to proper activities of the University and to the professional organizations governing themselves (as applicable) and those governing the activities of the Principal Investigator and all other investigators. Any procedures or data recorded as part of the study must be accurate and must accurately reflect the work performed. Strict confidentiality of all data must be adhered to. All activities involving participants are accountable to the Principal Investigator, the Department Head, and the Data Analyst’s governing professional organization, as applicable. Release of data and results will be governed by Data Access Agreements and contracts between the Data Stewards and Investigator(s). Errors made could influence the ability of researchers and research staff to meet critical deadlines, as well as compromise the results of research projects, and therefore impact the credibility of the investigators, the research results, and the quality of the research program. Supervision Received Most of the work will be done independently or in conjunction with the Principal Investigator. Supervision Given Not applicable. Minimum Qualifications Undergraduate degree in a relevant discipline. Minimum of two years of related experience, or an equivalent combination of education and experience. - Willingness to respect diverse perspectives, including perspectives in conflict with one’s own - Demonstrates a commitment to enhancing one’s own awareness, knowledge, and skills related to equity, diversity, and inclusion Preferred Qualifications · Master’s-level degree in Epidemiology, Public Health, Biostatistics, or equivalent, with interest in health research is preferred · Experience in a health research environment including experience with statistical applications in population/clinical/health services research or an equivalent combination of education and experience · Thorough understanding of epidemiologic methods and data management · High level of knowledge of statistical analysis software (STATA, SAS and/or R). Experience in STATA is an asset. · Experience working with large administrative health databases and/or International Classification of Diseases codes is an asset. Skills · Proficient in use of Microsoft Office applications (Word, Excel, and PowerPoint) · Advanced statistical skills, including ability to conduct multivariable regression analysis · Proven track record of coordinating the data management and statistical analysis of new projects · Strong analytical, problem solving and decision-making skills · Excellent communication (oral and written), interpersonal, organizational and time management skills · Familiarity in working with confidential information; maintaining professionalism, diplomacy, and tact in the work setting · Ability to collaborate effectively with an interdisciplinary research team, including clinicians, epidemiologists, research administrative staff, students, and scientists · Demonstrated capability to work independently and make sound decisions without constant supervision The University of British Columbia is a global centre for research and teaching, consistently ranked among the top 20 public universities globally. A large part of what makes us unique is the community of engaged students, faculty, and staff who are collectively committed to shaping a better world. Recognized as a leading employer in British Columbia and Canada, UBC supports inspired students, faculty and staff on their journey of discovery, and challenges them to realize their greatest potential. New ideas, changing infrastructure, innovative technology, and fresh approaches are opening up possibilities for the future of research, teaching, and work. Are you ready to embrace the future together? Equity and diversity are essential to academic excellence. An open and diverse community fosters the inclusion of voices that have been underrepresented or discouraged. We encourage applications from members of groups that have been marginalized on any grounds enumerated under the B.C. Human Rights Code, including sex, sexual orientation, gender identity or expression, racialization, disability, political belief, religion, marital or family status, age, and/or status as a First Nation, Metis, Inuit, and/or Indigenous person. All qualified candidates are encouraged to apply; however Canadians and permanent residents will be given priority",
+      "job_highlights": [
+        {
+          "items": [
+            "Staff - Non Union Job Category M&P - AAPS Job Profile AAPS Salaried - Research and Facilitation, Level A Job Title Data Analyst Department Tomek Laboratory | Department of Obstetrics and Gynaecology | Faculty of Medicine Compensation Range $4,688.67 - $6,754.00 CAD Monthly The Compensation Range is the span between the minimum and maximum base salary for a position. The midpoint of the range is approximately halfway between the minimum and the maximum and represents an employee that possesses full job knowledge, qualifications and experience for the position. In the normal course, employees will be hired, transferred or promoted between the minimum and midpoint of the salary range for a job. Posting End Date August 28, 2023 Note: Applications will be accepted until 11:59 PM on the day prior to the Posting End Date above. Job End Date Sept 15, 2024 This position is located within a health-care facility, therefore, the successful candidate will be required to provide verification of... full vaccination against Covid-19 provided prior to the start date, as required by a provincial health mandate. This offer is conditional upon successful completion of a Criminal Record Check. With your application, please include an example of your statistical code from a recent project. At UBC, we believe that attracting and sustaining a diverse workforce is key to the successful pursuit of excellence in research, innovation, and learning for all faculty, staff and students. Our commitment to employment equity helps achieve inclusion and fairness, brings rich diversity to UBC as a workplace, and creates the necessary conditions for a rewarding career. Job Summary The data analyst will work under the supervision of Dr. Jennifer Hutcheon, a Faculty Epidemiologist in the Department of Obstetrics and Gynaecology, and Dr Jessica Liauw, a Maternal-Fetal Medicine Physician and researcher in the Department of Obstetrics and Gynaecology. The position will be responsible for conducting data analyses and reporting for the team’s research program to identify policies and practices that improve the health of pregnant women/individuals and their infants. The data analyst will conduct data management, statistical analysis, and preparation of results sections of publications and presentation. Experience with epidemiologic analyses, statistical software packages, and analysis of large population data registries is essential; experience in the area of perinatal medicine or maternal and child health, and experience using Stata software will be an asset. This is a full-time (1.0FTE), temporary position (1 year with possibility of extension) with 35 hours per week. Organizational Status The data analyst is supervised by and reports to the co-Principal Investigators. The incumbent will also correspond and work closely with Co-Investigators and Client coordinators at the BC Ministry of Health Data Innovation Program. Work Performed Working under the direction of the PI and Co-Investigators, implements study research plans, methods of analysis and interpretation Performs the extraction and linkage of population data to derive analytic cohorts and the generation of study variables Performs data analysis using statistical software as appropriate Conducts multivariable regression analysis as described in research proposal, which may include: (a) generalized linear models b) interrupted time series models, or (c) regression discontinuity analysis. Prepares results section (including tables) for publications/presentations Interprets and summarizes analysis and results for research reports and publications Disseminates and presents analysis and evaluation information to research team In conjunction with research teams, assists in the writing and editing of research reports, and articles for publication Prepares summary reports, tables and charts Other duties as directed by the Principal Investigators (or designate) Consequence of Error/Judgement The data analyst is required to conduct all research activities in an ethical manner, suited to proper activities of the University and to the professional organizations governing themselves (as applicable) and those governing the activities of the Principal Investigator and all other investigators. Any procedures or data recorded as part of the study must be accurate and must accurately reflect the work performed. Strict confidentiality of all data must be adhered to. All activities involving participants are accountable to the Principal Investigator, the Department Head, and the Data Analyst’s governing professional organization, as applicable. Release of data and results will be governed by Data Access Agreements and contracts between the Data Stewards and Investigator(s). Errors made could influence the ability of researchers and research staff to meet critical deadlines, as well as compromise the results of research projects, and therefore impact the credibility of the investigators, the research results, and the quality of the research program. Supervision Received Most of the work will be done independently or in conjunction with the Principal Investigator. Supervision Given Not applicable. Minimum Qualifications Undergraduate degree in a relevant discipline. Minimum of two years of related experience, or an equivalent combination of education and experience. - Willingness to respect diverse perspectives, including perspectives in conflict with one’s own - Demonstrates a commitment to enhancing one’s own awareness, knowledge, and skills related to equity, diversity, and inclusion Preferred Qualifications · Master’s-level degree in Epidemiology, Public Health, Biostatistics, or equivalent, with interest in health research is preferred · Experience in a health research environment including experience with statistical applications in population/clinical/health services research or an equivalent combination of education and experience · Thorough understanding of epidemiologic methods and data management · High level of knowledge of statistical analysis software (STATA, SAS and/or R). Experience in STATA is an asset. · Experience working with large administrative health databases and/or International Classification of Diseases codes is an asset. Skills · Proficient in use of Microsoft Office applications (Word, Excel, and PowerPoint) · Advanced statistical skills, including ability to conduct multivariable regression analysis · Proven track record of coordinating the data management and statistical analysis of new projects · Strong analytical, problem solving and decision-making skills · Excellent communication (oral and written), interpersonal, organizational and time management skills · Familiarity in working with confidential information; maintaining professionalism, diplomacy, and tact in the work setting · Ability to collaborate effectively with an interdisciplinary research team, including clinicians, epidemiologists, research administrative staff, students, and scientists · Demonstrated capability to work independently and make sound decisions without constant supervision The University of British Columbia is a global centre for research and teaching, consistently ranked among the top 20 public universities globally. A large part of what makes us unique is the community of engaged students, faculty, and staff who are collectively committed to shaping a better world. Recognized as a leading employer in British Columbia and Canada, UBC supports inspired students, faculty and staff on their journey of discovery, and challenges them to realize their greatest potential. New ideas, changing infrastructure, innovative technology, and fresh approaches are opening up possibilities for the future of research, teaching, and work. Are you ready to embrace the future together? Equity and diversity are essential to academic excellence. An open and diverse community fosters the inclusion of voices that have been underrepresented or discouraged. We encourage applications from members of groups that have been marginalized on any grounds enumerated under the B.C. Human Rights Code, including sex, sexual orientation, gender identity or expression, racialization, disability, political belief, religion, marital or family status, age, and/or status as a First Nation, Metis, Inuit, and/or Indigenous person. All qualified candidates are encouraged to apply; however Canadians and permanent residents will be given priority"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.ubc.ca/",
+          "text": "ubc.ca"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=UBC+The+University+of+British+Columbia&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCJEK",
+          "text": "See web results for UBC The University of British Columbia"
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InFhWjZ4RndqQVdZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXFFQ0N1SUJRVTFyTW14c1N6YzVVa3hCYlVzeFJtVnVjMjVFZGxwWVJsOTFXa1JWVVdaTmRraHNYM2h2ZGtReldXcEZWV1p5UmsweFJXeGtaM2xaYjBrNE56WXdSamxPZW1Wd2MybE5UbWhIZW1jeVFVbG5hRkF0WW14cmRtZFhlbXR3YmpCU1ZuVnBiRU53ZURaYWQxaG5Oa3gwYlZKRVEyMW5kRzl1Yms1RU5uVnRlR05yYkRWS1MzSm1jM0pTU0VNNWRVdDBMVmhSVFdKRWFWTnFSV3hGUmpKdE1UUmpVV2RmYUhSRExVbHVOUzFMVjNCSlJtNTJSbE5uYkRWZmRtNWZZMnBLVTFWTU5uSk1VM0p5UW10V01sYzBObE4yYkdsWmNHcGtTMjAwTFZOQmJURm5aeElXTWtSeWJGcFBiVWhDYjE5MExVRmlXR3MwVTJkRVp4b2lRVXhGVXpsMVRURmxNVnA2ZFhjMFQxUklNbnBvZUdaVlptWTJiMHBHUVRWWlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXb3JrZGF5IiwibGluayI6Imh0dHBzOi8vdWJjLndkMTAubXl3b3JrZGF5am9icy5jb20vZW4tVVMvdWJjc3RhZmZqb2JzL2pvYi9VQkMtT2ZmLUNhbXB1cy1Ib3NwaXRhbC1TaXRlcy9EYXRhLUFuYWx5c3RfSlIxNDE4OT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Data Analyst - Contractor",
+      "company_name": "TELUS",
+      "location": "  Canada   ",
+      "via": "via Workopolis",
+      "description": "Data Analyst- Contractor (1 year with an opportunity for full time roles)\n\nDescription\n\nThe TELUS Business Marketing Team is looking for a talented, driven, passionate individual with strong analytical and interpersonal skills. Our Team – TELUS Business Solutions Marketing BI - has a mandate to build solutions for our stakeholders using data from various sources, building algorithms that can predict customer loyalty, churn and stickiness. We love to turn data into stories - stories about money falling through the cracks, success stories about our products and services, but most importantly stories about our customers and how we can enhance their experience.\n\nCandidates are able to communicate with business stakeholders, gather requirements, develop, design and implement reporting solutions in an agile-type environment. They must be able to shift effortlessly between business conversations about performance analytics and technical conversations around databases, SQL and Domo with their... stakeholders and peers. A successful candidate has strong business analysis, problem solving and critical thinking skills. In this role\n\nYou will:\n• Develop new analytical solutions to provide timely insights to the business\n• Assemble multiple data sources across various databases to build foundational data marts\n• Build repeatable processes and automation to create standardized datasets, reports and analysis\n• Implement business intelligence and rules, optimize data processes and perform data quality audits\n• Proactively work with business stakeholders, manage relationships and lead marketing programs from a data standpoint\n• Effectively communicate with leadership and stakeholders\n\nQualifications\n\nYou're the missing piece of the puzzle if\n• You love digging into quantitative and qualitative data; you analyze it, pivot it and distill issues to their core to provide insights\n• You have expert knowledge and understanding of global best practices in business intelligence tools (e.g. Big Query, SQL,SAS,DOMO, Tableau)\n• You have advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases\n• You are recognized for your curiosity and growth mindset\n• You see the bigger picture of the problem you are trying to solve, and will proactively out new data points from varied sources to complement your analysis\n• You have excellent attention to detail, a structured approach to analysis and ability to tell the story behind the data\n• You have minimum 3 years of experience in a similar role and/or related education with demonstrated performance\n\nGreat-to-haves\n• Prior telecommunications expertise\n• SAS experience\n• B2B marketing\n\nA bit about us\n\nOur business is connecting Canadians. Our social impact is using our world-leading technology to create meaningful change, give back to help communities thrive, and help those who need it most. When you join our team, you're helping us make the future friendly. We're committed to diversity and equitable access to employment opportunities based on ability — your unique contributions and talents will be valued and respected here.\n\nPrimary Location: Ontario, British Columbia, Alberta, Quebec\n\nSchedule: Contract Full-time",
+      "job_highlights": [
+        {
+          "items": [
+            "Data Analyst- Contractor (1 year with an opportunity for full time roles)\n\nDescription\n\nThe TELUS Business Marketing Team is looking for a talented, driven, passionate individual with strong analytical and interpersonal skills. Our Team – TELUS Business Solutions Marketing BI - has a mandate to build solutions for our stakeholders using data from various sources, building algorithms that can predict customer loyalty, churn and stickiness. We love to turn data into stories - stories about money falling through the cracks, success stories about our products and services, but most importantly stories about our customers and how we can enhance their experience.\n\nCandidates are able to communicate with business stakeholders, gather requirements, develop, design and implement reporting solutions in an agile-type environment. They must be able to shift effortlessly between business conversations about performance analytics and technical conversations around databases, SQL and Domo with their... stakeholders and peers. A successful candidate has strong business analysis, problem solving and critical thinking skills. In this role\n\nYou will:\n• Develop new analytical solutions to provide timely insights to the business\n• Assemble multiple data sources across various databases to build foundational data marts\n• Build repeatable processes and automation to create standardized datasets, reports and analysis\n• Implement business intelligence and rules, optimize data processes and perform data quality audits\n• Proactively work with business stakeholders, manage relationships and lead marketing programs from a data standpoint\n• Effectively communicate with leadership and stakeholders\n\nQualifications\n\nYou're the missing piece of the puzzle if\n• You love digging into quantitative and qualitative data; you analyze it, pivot it and distill issues to their core to provide insights\n• You have expert knowledge and understanding of global best practices in business intelligence tools (e.g. Big Query, SQL,SAS,DOMO, Tableau)\n• You have advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases\n• You are recognized for your curiosity and growth mindset\n• You see the bigger picture of the problem you are trying to solve, and will proactively out new data points from varied sources to complement your analysis\n• You have excellent attention to detail, a structured approach to analysis and ability to tell the story behind the data\n• You have minimum 3 years of experience in a similar role and/or related education with demonstrated performance\n\nGreat-to-haves\n• Prior telecommunications expertise\n• SAS experience\n• B2B marketing\n\nA bit about us\n\nOur business is connecting Canadians. Our social impact is using our world-leading technology to create meaningful change, give back to help communities thrive, and help those who need it most. When you join our team, you're helping us make the future friendly. We're committed to diversity and equitable access to employment opportunities based on ability — your unique contributions and talents will be valued and respected here.\n\nPrimary Location: Ontario, British Columbia, Alberta, Quebec\n\nSchedule: Contract Full-time"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://stores.telus.com/",
+          "text": "stores.telus.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=TELUS&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCMIK",
+          "text": "See web results for TELUS"
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBDb250cmFjdG9yIiwiaHRpZG9jaWQiOiJzRVBROGROWUFuOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVUxck1teHNTbVpvT1VGUmRGZDBhbTR5Ym5kRllUaFBYMlZQTnpSU2VVSnNhVVZIUjJKSmVGaGFVVGxsYWtGMVQyOVJWSFUyU25ReGJIWk5VR3BtTTJ0MmMzZHhkVGR3V0dWQlUxWnZSRWRpTm1VelQyUnVlVXBOUzBkbFpHeDNTRTEzV2tGMWJrWk5SM2xpTWtnNU1qVTNjWFV6ZFVsQ05HRjJZbVl0YUcwMVgxOWFaRlJWZVRoS1R6QVNGakpFY214YVQyMUlRbTlmZEMxQllsaHJORk5uUkdjYUlrRk1SVk01ZFU0eVFqUnhRbGx1VnpCVlMyYzVaRFJTYVRrM1oweFRhV2RtVTBFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXb3Jrb3BvbGlzIiwibGluayI6Imh0dHBzOi8vd3d3LndvcmtvcG9saXMuY29tL2pvYnNlYXJjaC92aWV3am9iL0FVaGM0cjIxRWgtQ21tbTlPX09RaW5DNHRBdXptSlBiWktrTndjMHYyNWVwR2NVc1FPN3B6S1ZOLWpfWnJRczY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Stonar School",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "Stonar School, located in Toronto, Canada, is seeking a Data Analyst to join our team. Founded in 1895, Stonar is a co-educational day and boarding school that offers a nurturing environment and broad curriculum for students aged 2-18. The school is also home to the UK’s finest riding academy. The role of Data Analyst will involve analyzing and interpreting complex data sets to help support the school's strategic initiatives and enhance its educational practices. The successful candidate will have the opportunity to work in a supportive environment, nestled in the stunning Wiltshire countryside, where they can contribute to the ongoing success of this prestigious institution.\n\nTasks\n• Collect and analyze data from various sources using statistical techniques\n• Identify patterns, trends, and insights in the data to support decision-making\n• Clean and preprocess data to ensure accuracy and reliability\n• Create visualizations and reports to communicate findings to stakeholders\n•... Collaborate with cross-functional teams to identify data requirements and provide recommendations for improvement\n\nRequirements\n• Bachelor's degree in a relevant field such as data science, statistics, or mathematics\n• Proven experience as a data analyst or in a similar role\n• Strong analytical and problem-solving skills\n• Proficiency in data analysis tools and programming languages such as Python or R\n• Ability to interpret and present data findings effectively\n\nBenefits\n\nBenefits:\n\n401(k)\n\nHealth insurance\n\nPaid time off\n\nDental insurance\n\nVision insurance",
+      "job_highlights": [
+        {
+          "items": [
+            "Stonar School, located in Toronto, Canada, is seeking a Data Analyst to join our team. Founded in 1895, Stonar is a co-educational day and boarding school that offers a nurturing environment and broad curriculum for students aged 2-18. The school is also home to the UK’s finest riding academy. The role of Data Analyst will involve analyzing and interpreting complex data sets to help support the school's strategic initiatives and enhance its educational practices. The successful candidate will have the opportunity to work in a supportive environment, nestled in the stunning Wiltshire countryside, where they can contribute to the ongoing success of this prestigious institution.\n\nTasks\n• Collect and analyze data from various sources using statistical techniques\n• Identify patterns, trends, and insights in the data to support decision-making\n• Clean and preprocess data to ensure accuracy and reliability\n• Create visualizations and reports to communicate findings to stakeholders\n•... Collaborate with cross-functional teams to identify data requirements and provide recommendations for improvement\n\nRequirements\n• Bachelor's degree in a relevant field such as data science, statistics, or mathematics\n• Proven experience as a data analyst or in a similar role\n• Strong analytical and problem-solving skills\n• Proficiency in data analysis tools and programming languages such as Python or R\n• Ability to interpret and present data findings effectively\n\nBenefits\n\nBenefits:\n\n401(k)\n\nHealth insurance\n\nPaid time off\n\nDental insurance\n\nVision insurance"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.stonarschool.com/",
+          "text": "stonarschool.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Stonar+School&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCPMK",
+          "text": "See web results for Stonar School"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiaSXVc043uq1xfYLSac8goe3DaNPXGa2NelZj&s=0",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjRoMVA0SzRCeGZRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXVFQkNxSUJRVTFyTW14c1Ntd3lVREJIUVRCdU5sZDJhSE56VGpSWGEwbEVaWEZZZEVkdmRHRlNkemR6U0dWU1REZG1kM1UwWjBOTWF6QldSWGRxU21GWWExbEtiMGd0ZGpOelQxOXBSM0pGWTJKVmQweDJMVWRZYzFSVVJXczFaVmxGUW5kc1FrRjRMVVpPT1VKMFJEWnBWM3ByUjNkQmFsaE1RaTE2T1RKU1FsaGhjbVk0UTI4d1JWTnlkbVJRY0ROeVgxVmxaMWwyWVdKQk5GaFlWblpqYlVoUE1ITkJFaFl5UkhKc1drOXRTRUp2WDNRdFFXSllhelJUWjBSbkdpSkJURVZUT1hWUVNUWTBiSFJZZVVwU1ZGSkJNR1IzWjNOb2NURkhka2xZUzJKUiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtYW5hbHlzdC1hdC1zdG9uYXItc2Nob29sLTM2OTk3OTUwOTY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "National Jr. Applications & Data Analyst",
+      "company_name": "JDRF",
+      "location": "  Canada   ",
+      "via": "via CharityVillage",
+      "description": "JDRF if growing our IT team and we’re searching for a detail-oriented data analyst for the role of National Jr. Applications & Data Analyst. In this new role, you will partner with regional field staff in maintaining accurate participant and donor information in the online fundraising system and will maximize data integrity by proactively monitoring and cleaning the data in JDRF’s CRM (ClearView).",
+      "job_highlights": [
+        {
+          "items": [
+            "JDRF if growing our IT team and we’re searching for a detail-oriented data analyst for the role of National Jr. Applications & Data Analyst. In this new role, you will partner with regional field staff in maintaining accurate participant and donor information in the online fundraising system and will maximize data integrity by proactively monitoring and cleaning the data in JDRF’s CRM (ClearView)."
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.jdrf.org/",
+          "text": "jdrf.org"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=JDRF&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCKIL",
+          "text": "See web results for JDRF"
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJOYXRpb25hbCBKci4gQXBwbGljYXRpb25zIFx1MDAyNiBEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IkJQY21haTdqbHpZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVTFyTW14c1NuTnBXV1IwVldweFExSnllR0ZaWWpKTldrVnpWWEJvVG0weE5XUmlXRWRMVUdWUFRXTnpZVkJ4YzAweWFqTlVNa3B0ZFRaalUzUjVRVjh0YkRsbGFsQmlZWGRMWW5kSE1sVkhkSEpGTlVORFRWTlNXVFl0UlhkeVVUaHllSEIzVnpSRFQwdGZhM2h1V1ZRekxVWjJiM2QzUkVsbk0xcGtUalpNVnpVMVgwVk5RMEpVWW1ZU0ZqSkVjbXhhVDIxSVFtOWZkQzFCWWxock5GTm5SR2NhSWtGTVJWTTVkVkJRY1hGTmVrWnpabUpHUkdNMmJFdE1iMFpzVjBoQmQzbHhiMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENoYXJpdHlWaWxsYWdlIiwibGluayI6Imh0dHBzOi8vY2hhcml0eXZpbGxhZ2UuY29tL2pvYnMvbmF0aW9uYWwtanItYXBwbGljYXRpb25zLWRhdGEtYW5hbHlzdC1yZW1vdGUtaW4tbmF0aW9ud2lkZS1jYS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Behaviour Interactive Inc.",
+      "location": "  Canada   ",
+      "via": "via BeBee Canada",
+      "description": "Since several work modes are offered to all our employees (100% from home, Flex, 100% in-office), job opportunities posted here are available whether you live in Quebec or Ontario, unless indicated otherwise.\n\nAs a Data Analyst at Behaviour, you will be responsible for the implementation and maintenance of effective tracking tools used for performance and quality reporting and analysis of assigned projects.\n\nAs data expert on your project, you will be part of a multidisciplinary team, and your role will be to ensure analytical insight about challenges faced during the different phases of production.\nIn this role you will :\n• Develop telemetry during game production to ensure that player behaviour can be analysed;\n• Identify, develop, and provide analytical answers to challenges faced by partners involved in game development;\n• Develop optimized and clear output/outcome (dashboard reports and analyses) to meet the needs identified;\n• Promote knowledge and understanding of player... behaviour at studio level through clear and well-documented analyses;\n• Establish strong working relationships with partners and colleagues built on trust and proximity;\n• Work with different teams to adapt approaches and tools to solve complex problems and find good balance between velocity, accuracy, and quality.\nWhat we're looking for :\n• 2-3 years of experience in the field of analytics;\n• Excellent knowledge of how to use databases, particularly complicated data processing of large data sets with SQL and NoSQL;\n• Excellent data visualization skills (Power BI is a plus);\n• Curious about what can be learned from data analysis;\n• Autonomy and excellent organization skills;\n• Good communication skills;\n• Fluent English;\n• Team player (humor is an asset).\n\nBonus :\n• Programming skills: experience with Python / R ;\n• Experience with AWS and/or Snowflake tools;\n• Experience in the world of video games.\nDans ce rôle vous devrez :\n• Développer la télémétrie lors de la phase de production du jeu afin de s'assurer que le comportement des joueurs pourra être analysé ;\n• Identifier, proposer et développer des réponses analytiques aux enjeux des partenaires impliqués sur un jeu ;\n• Développer des sorties de résultats (tableaux de bords, rapports, analyses) optimisées et lisibles qui répondront aux besoins identifiés ;\n• Promouvoir la connaissance et la compréhension des joueurs à travers la compagnie grâce à des analyses claires et documentées ;\n• Nouer des relations fortes avec vos partenaires et collègues afin de travailler dans un contexte de confiance et proximité ;\n• S'épanouir face au défi et à l'incertitude : en travaillant avecdifférenteséquipes, vous devrez résoudre des problèmes, adapter votre approche et vos outils pour répondre à des questions complexes et trouver le juste équilibre entre rapidité, précision et qualité des différentes approches.\nCe que nous recherchons :\n• 2-3 ans d'expérience dans un domaine analytique ;\n• Excellentes compétences en manipulation de bases de données : traitement complexe de larges ensembles de données à l'aide de SQL, NoSQL ;\n• Excellentes compétences en visualisation de données (Power BI est un atout) ;\n• Curieux des enseignements à tirer des analyses de données ;\n• Autonomie et sens aigu de l'organisation ;\n• Bonnes compétences de communication ;\n• Anglais courant ;\n• Joueur d'équipe (l'humour est un atout).\n\nAtouts :\n• Compétences en programmation: une expérience avec Python / R ;\n• Expérience des outils AWS et/ou Snowflake ;\n• Expérience dans l'univers du jeu vidéo.\n\nToutes nos opportunités d'emploi sont offertes aux résidents du Québec et de l'Ontario et le mode de travail est choisi par l'employé (100% télétravail, Flex. ou 100% au bureau), sauf indication contraire.\n\nEntant qu'expert des données sur votre projet, vous travaillez au sein d'une équipe multidisciplinaire et avez pourrôle d'assurer une vision analytique surles différentsdéfis rencontrés lors de la production et la croissance d'un jeu vidéo",
+      "job_highlights": [
+        {
+          "items": [
+            "Since several work modes are offered to all our employees (100% from home, Flex, 100% in-office), job opportunities posted here are available whether you live in Quebec or Ontario, unless indicated otherwise.\n\nAs a Data Analyst at Behaviour, you will be responsible for the implementation and maintenance of effective tracking tools used for performance and quality reporting and analysis of assigned projects.\n\nAs data expert on your project, you will be part of a multidisciplinary team, and your role will be to ensure analytical insight about challenges faced during the different phases of production.\nIn this role you will :\n• Develop telemetry during game production to ensure that player behaviour can be analysed;\n• Identify, develop, and provide analytical answers to challenges faced by partners involved in game development;\n• Develop optimized and clear output/outcome (dashboard reports and analyses) to meet the needs identified;\n• Promote knowledge and understanding of player... behaviour at studio level through clear and well-documented analyses;\n• Establish strong working relationships with partners and colleagues built on trust and proximity;\n• Work with different teams to adapt approaches and tools to solve complex problems and find good balance between velocity, accuracy, and quality.\nWhat we're looking for :\n• 2-3 years of experience in the field of analytics;\n• Excellent knowledge of how to use databases, particularly complicated data processing of large data sets with SQL and NoSQL;\n• Excellent data visualization skills (Power BI is a plus);\n• Curious about what can be learned from data analysis;\n• Autonomy and excellent organization skills;\n• Good communication skills;\n• Fluent English;\n• Team player (humor is an asset).\n\nBonus :\n• Programming skills: experience with Python / R ;\n• Experience with AWS and/or Snowflake tools;\n• Experience in the world of video games.\nDans ce rôle vous devrez :\n• Développer la télémétrie lors de la phase de production du jeu afin de s'assurer que le comportement des joueurs pourra être analysé ;\n• Identifier, proposer et développer des réponses analytiques aux enjeux des partenaires impliqués sur un jeu ;\n• Développer des sorties de résultats (tableaux de bords, rapports, analyses) optimisées et lisibles qui répondront aux besoins identifiés ;\n• Promouvoir la connaissance et la compréhension des joueurs à travers la compagnie grâce à des analyses claires et documentées ;\n• Nouer des relations fortes avec vos partenaires et collègues afin de travailler dans un contexte de confiance et proximité ;\n• S'épanouir face au défi et à l'incertitude : en travaillant avecdifférenteséquipes, vous devrez résoudre des problèmes, adapter votre approche et vos outils pour répondre à des questions complexes et trouver le juste équilibre entre rapidité, précision et qualité des différentes approches.\nCe que nous recherchons :\n• 2-3 ans d'expérience dans un domaine analytique ;\n• Excellentes compétences en manipulation de bases de données : traitement complexe de larges ensembles de données à l'aide de SQL, NoSQL ;\n• Excellentes compétences en visualisation de données (Power BI est un atout) ;\n• Curieux des enseignements à tirer des analyses de données ;\n• Autonomie et sens aigu de l'organisation ;\n• Bonnes compétences de communication ;\n• Anglais courant ;\n• Joueur d'équipe (l'humour est un atout).\n\nAtouts :\n• Compétences en programmation: une expérience avec Python / R ;\n• Expérience des outils AWS et/ou Snowflake ;\n• Expérience dans l'univers du jeu vidéo.\n\nToutes nos opportunités d'emploi sont offertes aux résidents du Québec et de l'Ontario et le mode de travail est choisi par l'employé (100% télétravail, Flex. ou 100% au bureau), sauf indication contraire.\n\nEntant qu'expert des données sur votre projet, vous travaillez au sein d'une équipe multidisciplinaire et avez pourrôle d'assurer une vision analytique surles différentsdéfis rencontrés lors de la production et la croissance d'un jeu vidéo"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.bhvr.com/",
+          "text": "bhvr.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Behaviour+Interactive+Inc.&sa=X&ved=0ahUKEwjp04-prPGAAxWPNt4KHdcJAeQQmJACCNML",
+          "text": "See web results for Behaviour Interactive Inc."
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZz0Oiy-ZXkezHscW6EN2RQzQzGPMdgTPJWp_c&s=0",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjdZM19mdi0xWkNNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRW9zQ0Nzd0JRVTFyTW14c1RHdFBUMnRYUlZFMVNERlZiMk5uWkY5cFMzTklURXRRU1VsU1JuQlFOM0pMUTNaRlFYRlpaVkJNTkVsb2FETkplbDl6VDJsd1JuVnhja3hDV0d4VU9VWlZhRTFUWkdRd01sQmxlbEpRUjAwdGEyMUVhM2QwYkZCMFF6ZFhTSFIyZHpKU1UwbGtibWhuU2xZMWRYaFBjRXQwZUdWaGIxWkRNbUo2U3pGTE4yOUpVbWxOVTBkWGF6Y3pRblJ4V1daRWVsWnlaVkJGVEUxUGFscGtPV3BwT1cxaU1HdE1TVWM0TjNGM2VISnRPWHB2V0RSZlV6TjVNMGhrUlhOdE9EWlVOV1prVVhwcUVoWXlSSEpzV2s5dFNFSnZYM1F0UVdKWWF6UlRaMFJuR2lKQlRFVlRPWFZQUlhOUVpHcHJUblZ1WkhaTVNUSjNhMEZDWjJzdFJtZG5UbEZCIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCZUJlZSBDYW5hZGEiLCJsaW5rIjoiaHR0cHM6Ly9jYS5iZWJlZS5jb20vam9iLzIwMjMwODIxLWY2Nzg0MDQwZDg1ZDU2MzAxZTg2NDk4MDUzZGY3Zjg2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Data analyst",
+          "value": "data analyst"
+        },
+        {
+          "text": "Analyst",
+          "value": "analyst"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Data scientist",
+          "value": "data scientist"
+        },
+        {
+          "text": "Senior analyst",
+          "value": "senior analyst"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Business analyst",
+          "value": "business analyst"
+        },
+        {
+          "text": "Coordinator",
+          "value": "coordinator"
+        },
+        {
+          "text": "Data modeler",
+          "value": "data modeler"
+        },
+        {
+          "text": "Data science",
+          "value": "data science"
+        },
+        {
+          "text": "Director",
+          "value": "director"
+        },
+        {
+          "text": "Intelligence analyst",
+          "value": "intelligence analyst"
+        },
+        {
+          "text": "Management manager",
+          "value": "management manager"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Operations analyst",
+          "value": "operations analyst"
+        },
+        {
+          "text": "Operations engineer",
+          "value": "operations engineer"
+        },
+        {
+          "text": "Organizational",
+          "value": "organizational"
+        },
+        {
+          "text": "Quality analyst",
+          "value": "quality analyst"
+        },
+        {
+          "text": "Quality coordinator",
+          "value": "quality coordinator"
+        },
+        {
+          "text": "Researcher",
+          "value": "researcher"
+        },
+        {
+          "text": "Senior business",
+          "value": "senior business"
+        },
+        {
+          "text": "Services",
+          "value": "services"
+        },
+        {
+          "text": "Specialist",
+          "value": "specialist"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Design Services",
+          "value": "/business/naics2007/5414"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Professional Services",
+          "value": "/business/naics2007/5419"
+        },
+        {
+          "text": "Professional, Scientific, and Technical Services",
+          "value": "/business/naics2007/54"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Toiletries",
+          "value": "/business/naics2007/3256"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Randstad",
+          "value": "/m/08pt1z"
+        },
+        {
+          "text": "The University of British Columbia",
+          "value": "/m/017cy9"
+        },
+        {
+          "text": "Virtual Employee",
+          "value": "/g/11h1y7yphw"
+        },
+        {
+          "text": "ETeam",
+          "value": "/g/11fy26_wgn"
+        },
+        {
+          "text": "Dropbox",
+          "value": "/m/0rn_22y"
+        },
+        {
+          "text": "Omnitrance Solutions Inc",
+          "value": "/g/11f013630x"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "Springpod",
+          "value": "/g/11fm59w_vh"
+        },
+        {
+          "text": "Unito",
+          "value": "/m/02bd_f"
+        },
+        {
+          "text": "10 CAE Canada Inc",
+          "value": "/m/03ktvb"
+        },
+        {
+          "text": "A2X",
+          "value": "/g/11h71nr5lj"
+        },
+        {
+          "text": "ATB Financial",
+          "value": "/m/03srq1"
+        },
+        {
+          "text": "Agnico Eagle Mines Limited",
+          "value": "/m/03jzm5"
+        },
+        {
+          "text": "Apollo.io",
+          "value": "/g/11dxq0610g"
+        },
+        {
+          "text": "Aurecon Group",
+          "value": "/m/0cc8c5d"
+        },
+        {
+          "text": "Autodesk",
+          "value": "/m/018nm3"
+        },
+        {
+          "text": "BCLC",
+          "value": "/m/027ykv_"
+        },
+        {
+          "text": "BRP",
+          "value": "/m/0343nb"
+        },
+        {
+          "text": "Barrick / Nevada Gold",
+          "value": "/g/11h7fynwcb"
+        },
+        {
+          "text": "Behaviour Interactive Inc.",
+          "value": "/m/0byspf"
+        },
+        {
+          "text": "Beiersdorf AG",
+          "value": "/m/04zs10"
+        },
+        {
+          "text": "Brandt Group of Companies",
+          "value": "/g/11f017j2t7"
+        },
+        {
+          "text": "Canadian Tire Corporation, Limited",
+          "value": "/m/0184gy"
+        },
+        {
+          "text": "Chainalysis",
+          "value": "/g/11f01b38yg"
+        },
+        {
+          "text": "Clio - Cloud-Based Legal Technology",
+          "value": "/g/11fmc0r09t"
+        },
+        {
+          "text": "Community Care Access Centre",
+          "value": "/g/11g9n18y0q"
+        },
+        {
+          "text": "Docker, Inc",
+          "value": "/g/11c58pb160"
+        },
+        {
+          "text": "EBlock Corp.",
+          "value": "/g/11f014xm2k"
+        },
+        {
+          "text": "Electronic Arts",
+          "value": "/m/01n073"
+        },
+        {
+          "text": "Evenbreak",
+          "value": "/g/11h6rxrn9b"
+        },
+        {
+          "text": "Faire",
+          "value": "/g/11f00_sw_8"
+        },
+        {
+          "text": "Financial Services Regulatory Authority of Ontario",
+          "value": "/m/04jg6pr"
+        },
+        {
+          "text": "Gartner",
+          "value": "/m/01l4jh"
+        },
+        {
+          "text": "Genesys",
+          "value": "/m/0j241mt"
+        },
+        {
+          "text": "Getty Images",
+          "value": "/m/01wxvs"
+        },
+        {
+          "text": "Hootsuite",
+          "value": "/m/080chm5"
+        },
+        {
+          "text": "ICONMA, LLC",
+          "value": "/g/1dv2wb5f"
+        }
+      ]
+    }
+  ]
+}

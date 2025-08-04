@@ -1,0 +1,636 @@
+{
+  "search_metadata": {
+    "id": "64e29712cca01459a78398e9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/379617db085d1472/64e29712cca01459a78398e9.json",
+    "created_at": "2023-08-20 22:43:30 UTC",
+    "processed_at": "2023-08-20 22:43:30 UTC",
+    "google_jobs_url": "https://www.google.ca/search?q=Full+Stack+Developer&ibp=htl;jobs&uule=w+CAIQICIGQ2FuYWRh&hl=en&gl=ca",
+    "raw_html_file": "https://serpapi.com/searches/379617db085d1472/64e29712cca01459a78398e9.html",
+    "total_time_taken": 1.85
+  },
+  "search_parameters": {
+    "q": "Full Stack Developer",
+    "engine": "google_jobs",
+    "location_requested": "Canada",
+    "location_used": "Canada",
+    "google_domain": "google.ca",
+    "hl": "en",
+    "gl": "ca"
+  },
+  "jobs_results": [
+    {
+      "title": "Full Stack Developer",
+      "company_name": "BC Public Service",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "Ministry of Citizens’ Services\n\nMultiple Locations\n\nFull Stack Developer\n\n$80,652.20 - $91,992.70 annually plus 9.9% TMA\n\nHybrid\n\nDedicated to making life better for British Columbians, the Ministry of Citizens' Services (CITZ) delivers key services that people rely on. CITZ delivers accessible, multi-channel services, through a single-point-of-contact service approach to people in urban and rural communities through Service BC, and delivers the digital face of government at www.gov.bc.ca. CITZ also provides support for the expansion of high-speed internet connectivity throughout the province, leadership across government to modernize information management and technology resources, trusted data services to government agencies, prompt and relevant responses to freedom of information requests, and statistical and economic research, information and analysis to businesses and the public sector.\n\nAs a Full Stack Developer, you will be focused on developing, integrating, and consolidating... enterprise applications in support of ministry or government strategic and operational goals, and functions within the Agile Scrum Team as a Project Lead. This work involves leading the design, development, integration and implementation of large-scale applications for the ministry. You will also be responsible for coordinating the development and delivery of scalable web applications in a continuous deployment environment.\n\nQualifications for this role include:\n• Post-secondary degree in Computer Science, Computer or Software Engineering or related technical field, AND a minimum three (3) years’*related experience; OR,\n• Diploma in Computer Science, Computer or Software Engineering or related technical field, AND a minimum four (4) years’ *related experience; OR,\n• Certification(s) in Computer Science, Computer or Software Engineering or related technical field AND a minimum five (5) years’ *related experience; OR,\n• A combination of education and *related experience may be considered.\n• Related experience must include the minimum number of years of experience for each of the following requirements corresponding to the education listed above:\n• Experience in a full stack developer role.\n• Experience using a variety of modern development tools, such as HTML, CSS and JavaScript libraries, relational and non-relational databases.\n• Experience with development in continuous integration and deployment environments.\n\nFor more information and to apply online by September 4, 2023, please go to: https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/103832",
+      "job_highlights": [
+        {
+          "items": [
+            "Ministry of Citizens’ Services\n\nMultiple Locations\n\nFull Stack Developer\n\n$80,652.20 - $91,992.70 annually plus 9.9% TMA\n\nHybrid\n\nDedicated to making life better for British Columbians, the Ministry of Citizens' Services (CITZ) delivers key services that people rely on. CITZ delivers accessible, multi-channel services, through a single-point-of-contact service approach to people in urban and rural communities through Service BC, and delivers the digital face of government at www.gov.bc.ca. CITZ also provides support for the expansion of high-speed internet connectivity throughout the province, leadership across government to modernize information management and technology resources, trusted data services to government agencies, prompt and relevant responses to freedom of information requests, and statistical and economic research, information and analysis to businesses and the public sector.\n\nAs a Full Stack Developer, you will be focused on developing, integrating, and consolidating... enterprise applications in support of ministry or government strategic and operational goals, and functions within the Agile Scrum Team as a Project Lead. This work involves leading the design, development, integration and implementation of large-scale applications for the ministry. You will also be responsible for coordinating the development and delivery of scalable web applications in a continuous deployment environment.\n\nQualifications for this role include:\n• Post-secondary degree in Computer Science, Computer or Software Engineering or related technical field, AND a minimum three (3) years’*related experience; OR,\n• Diploma in Computer Science, Computer or Software Engineering or related technical field, AND a minimum four (4) years’ *related experience; OR,\n• Certification(s) in Computer Science, Computer or Software Engineering or related technical field AND a minimum five (5) years’ *related experience; OR,\n• A combination of education and *related experience may be considered.\n• Related experience must include the minimum number of years of experience for each of the following requirements corresponding to the education listed above:\n• Experience in a full stack developer role.\n• Experience using a variety of modern development tools, such as HTML, CSS and JavaScript libraries, relational and non-relational databases.\n• Experience with development in continuous integration and deployment environments.\n\nFor more information and to apply online by September 4, 2023, please go to: https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/103832"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=BC+Public+Service&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCLgJ",
+          "text": "See web results for BC Public Service"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAv-jr-mSyCF2obnQBX4lK7_BKVo1UgJgF-MfOTPg&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiRVJHdVllOEFsaXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vY2EubGlua2VkaW4uY29tL2pvYnMvdmlldy9mdWxsLXN0YWNrLWRldmVsb3Blci1hdC1iYy1wdWJsaWMtc2VydmljZS0zNjkwNzczMzUyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Full Stack Developer",
+      "company_name": "Absorb Software",
+      "location": "  Canada   ",
+      "via": "via Glassdoor",
+      "description": "\"Over my 4 years at Absorb, I have been able to grow into a full-stack developer by actively contributing to an exciting product while learning the latest technology. The best part about working at Absorb is that no matter the team, the people have been amazing and are always willing to help each other.\" - Paul, Developer, Calgary\n\nAbsorb is looking for a motivated and energetic individual to join our team in Calgary, or remotely in Canada, as a Senior Full-Stack Developer. The successful applicant will join a fun and challenging multi-disciplinary group focused on the development of our new single-page application LMS application built on C#, Entity-Framework, and React. This role will focus on solving customer issues by working on both new features and bugs as part of an Agile delivery team. A passion for solving difficult problems & customers' first attitude is a must.\n\nYou will be working on the Learner Experience team where you will build and maintain our SaaS web application... which is used by millions of people around the world. You will focus on feature development that enhances learner efficiencies and engagement, improves the social learning capability initiatives for our users, and augment our performance and scalability in an agile environment. You will also help with product support by fixing both back and front-end bugs and assist with the identification and resolution of production issues.\n\nYou will bring a passion for technology, a desire to work as a part of an agile team, and will be eager to learn the best modern software development practices. Lastly, as a Senior Full-Stack Developer who will help guide, mentor, and develop junior team members so that they can continue to learn, achieve their goals and become integral members of this growing organization.\n\nCheck out what Colin Kirk, Team Lead, Development has to say about working at Absorb Software on the Product team:\n\nColin Kirk\n\nWhat you'll do:\n• Work in an Agile (Scrum/Kanban) environment and be involved in all technical activities within the team such as estimation, sprint planning, software development life cycle activities, code reviews, research, and documentation.\n• Participate in a cross-functional team tackling exciting new features, challenging bugs, and performance issues.\n• Contribute as a full-stack developer, working closely with our back-end and front-end stacks.\n• Ensure software deliverables align with the technical architecture, development standards, and quality practices.\n• Assist in building and executing unit tests.\n• Develop well documented, intent-revealing code.\n• Assist in monitoring the team’s code in a live environment.\n• Participate in a learning environment through collaboration, knowledge sharing, and leadership.\n• Work within your agile team to gather production metrics and stakeholder feedback using them to iterate and grow your team’s projects.\n\nWhat you'll bring:\n• A Bachelor’s degree in Computer Science or Software Engineering equivalent professional experience is required.\n• Minimum 5 years of related industry experience\n• Passion for improving the customer experience\n• Familiarity of Agile (Scum/Kanban) practices and concepts\n• Familiarity with HTML/JavaScript, TypeScript, React (or other modern front-end frameworks).\n• Strong knowledge of C# (or Java and interest in learning C#), Web API, REST, Micro Services\n• Strong Object-Oriented Programming (OOP) skills.\n• Experience with Object Relational Mappers such as Entity Framework or Dapper\n• Extensive experience with writing RESTful APIs and web development best practices.\n• Must be able to write clean, well-factored code based on S.O.L.I.D. principles.\n• Experience in writing, analyzing, and tuning well-performing TSQL queries.\n• Experience with Test Driven Development is an asset.\n• Self-motivated and driven to meet long-term goals.\n• Ability to independently manage time to meet project deadlines.\n• Strong interpersonal skills and ability to work collaboratively with other team members.\n• Excellent written and verbal communication skills.\n• Can operate under tight deadlines.\n\nAdditional preferred qualifications:\n• Understanding Object-Relational Mappers such as Entity Framework.\n• General cloud-computing concepts (AWS).\n• Experience with microservice architectures.\n\nTechnologies we use:\n• Absorb LMS, C#, HTML, CSS, JavaScript, TypeScript, React, ASP.NET/Web API, SQL Server\n\nWhat we offer:\n• Fully remote-first work with flexible work arrangements.\n• Comprehensive Health and Wellness Benefits including retirement savings programs, eligibility for two different bonus plans, generous time off, comprehensive medical and dental benefits based on your country of location.\n• New Hire Equipment Allowance and monthly Flex Allowance to support your success. Endless opportunity for career growth and internal mobility.\n• Employee driven DE&I programs.\n\nWho are we?\n\nAbsorb Software is a remote-first company that provides online training solutions to leading organizations around the world. Absorb is a cloud-based learning management system (LMS) engineered to inspire learning and fuel business productivity. Our online learning platform combines forward-thinking technology built to scale as our customer’s organizations grow. We empower learners to enrich their lives, workplaces and communities.\n\nOur values are simple:\n• We achieve exceptional results by genuinely caring about each other and the work we do\n• We’re united, and we grow through our commitment to elevating continual learning!\n\nAbsorb is proud to be an equal opportunity employer, we celebrate diversity and are committed to creating a safe and inclusive environment for all our people. All employment decisions are based on business needs, job requirements and individual qualifications. In the event a current Absorb employee would like to apply for this role they will inform their supervisor prior to submitting their application. Successful candidates for this position will be subject to pre-employment background screening, including a criminal record check and must be able to show proof of legal eligibility to work in the country they have applied to without sponsorship.\n\nShould you require any accommodation during the recruitment process, please indicate this on your application and we will work with you to meet your accessibility needs. For any questions, please contact us at accessiblecareers@absorblms.com\n\n#LI-REMOTE",
+      "job_highlights": [
+        {
+          "items": [
+            "\"Over my 4 years at Absorb, I have been able to grow into a full-stack developer by actively contributing to an exciting product while learning the latest technology. The best part about working at Absorb is that no matter the team, the people have been amazing and are always willing to help each other.\" - Paul, Developer, Calgary\n\nAbsorb is looking for a motivated and energetic individual to join our team in Calgary, or remotely in Canada, as a Senior Full-Stack Developer. The successful applicant will join a fun and challenging multi-disciplinary group focused on the development of our new single-page application LMS application built on C#, Entity-Framework, and React. This role will focus on solving customer issues by working on both new features and bugs as part of an Agile delivery team. A passion for solving difficult problems & customers' first attitude is a must.\n\nYou will be working on the Learner Experience team where you will build and maintain our SaaS web application... which is used by millions of people around the world. You will focus on feature development that enhances learner efficiencies and engagement, improves the social learning capability initiatives for our users, and augment our performance and scalability in an agile environment. You will also help with product support by fixing both back and front-end bugs and assist with the identification and resolution of production issues.\n\nYou will bring a passion for technology, a desire to work as a part of an agile team, and will be eager to learn the best modern software development practices. Lastly, as a Senior Full-Stack Developer who will help guide, mentor, and develop junior team members so that they can continue to learn, achieve their goals and become integral members of this growing organization.\n\nCheck out what Colin Kirk, Team Lead, Development has to say about working at Absorb Software on the Product team:\n\nColin Kirk\n\nWhat you'll do:\n• Work in an Agile (Scrum/Kanban) environment and be involved in all technical activities within the team such as estimation, sprint planning, software development life cycle activities, code reviews, research, and documentation.\n• Participate in a cross-functional team tackling exciting new features, challenging bugs, and performance issues.\n• Contribute as a full-stack developer, working closely with our back-end and front-end stacks.\n• Ensure software deliverables align with the technical architecture, development standards, and quality practices.\n• Assist in building and executing unit tests.\n• Develop well documented, intent-revealing code.\n• Assist in monitoring the team’s code in a live environment.\n• Participate in a learning environment through collaboration, knowledge sharing, and leadership.\n• Work within your agile team to gather production metrics and stakeholder feedback using them to iterate and grow your team’s projects.\n\nWhat you'll bring:\n• A Bachelor’s degree in Computer Science or Software Engineering equivalent professional experience is required.\n• Minimum 5 years of related industry experience\n• Passion for improving the customer experience\n• Familiarity of Agile (Scum/Kanban) practices and concepts\n• Familiarity with HTML/JavaScript, TypeScript, React (or other modern front-end frameworks).\n• Strong knowledge of C# (or Java and interest in learning C#), Web API, REST, Micro Services\n• Strong Object-Oriented Programming (OOP) skills.\n• Experience with Object Relational Mappers such as Entity Framework or Dapper\n• Extensive experience with writing RESTful APIs and web development best practices.\n• Must be able to write clean, well-factored code based on S.O.L.I.D. principles.\n• Experience in writing, analyzing, and tuning well-performing TSQL queries.\n• Experience with Test Driven Development is an asset.\n• Self-motivated and driven to meet long-term goals.\n• Ability to independently manage time to meet project deadlines.\n• Strong interpersonal skills and ability to work collaboratively with other team members.\n• Excellent written and verbal communication skills.\n• Can operate under tight deadlines.\n\nAdditional preferred qualifications:\n• Understanding Object-Relational Mappers such as Entity Framework.\n• General cloud-computing concepts (AWS).\n• Experience with microservice architectures.\n\nTechnologies we use:\n• Absorb LMS, C#, HTML, CSS, JavaScript, TypeScript, React, ASP.NET/Web API, SQL Server\n\nWhat we offer:\n• Fully remote-first work with flexible work arrangements.\n• Comprehensive Health and Wellness Benefits including retirement savings programs, eligibility for two different bonus plans, generous time off, comprehensive medical and dental benefits based on your country of location.\n• New Hire Equipment Allowance and monthly Flex Allowance to support your success. Endless opportunity for career growth and internal mobility.\n• Employee driven DE&I programs.\n\nWho are we?\n\nAbsorb Software is a remote-first company that provides online training solutions to leading organizations around the world. Absorb is a cloud-based learning management system (LMS) engineered to inspire learning and fuel business productivity. Our online learning platform combines forward-thinking technology built to scale as our customer’s organizations grow. We empower learners to enrich their lives, workplaces and communities.\n\nOur values are simple:\n• We achieve exceptional results by genuinely caring about each other and the work we do\n• We’re united, and we grow through our commitment to elevating continual learning!\n\nAbsorb is proud to be an equal opportunity employer, we celebrate diversity and are committed to creating a safe and inclusive environment for all our people. All employment decisions are based on business needs, job requirements and individual qualifications. In the event a current Absorb employee would like to apply for this role they will inform their supervisor prior to submitting their application. Successful candidates for this position will be subject to pre-employment background screening, including a criminal record check and must be able to show proof of legal eligibility to work in the country they have applied to without sponsorship.\n\nShould you require any accommodation during the recruitment process, please indicate this on your application and we will work with you to meet your accessibility needs. For any questions, please contact us at accessiblecareers@absorblms.com\n\n#LI-REMOTE"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.absorblms.com/",
+          "text": "absorblms.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Absorb+Software&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCOoJ",
+          "text": "See web results for Absorb Software"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDO2S88TZJlKeMZMErARyXfCXWupF_qTQqjwzOl0&s",
+      "extensions": [
+        "21 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "21 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnVsbCBTdGFjayBEZXZlbG9wZXIiLCJodGlkb2NpZCI6InRobHVKNUxvVWxZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVTFyTW14c1NXUmhRMmhNWm1oSldsZFNTa2h0TjBoVU1sSlFSRlJRWjBscWRtY3lTVkZFWm5VM1MxOWpjWFJaYm1sdVZGZERjVzV1Y0VGblVUZE5lRWxVVG5kcmRXOUJNM00yU1RkNk4wMVJhM2MwWWt3NVZISTVPRVZ6WnpsR1JtaDZla3RPYjJwRk5WRlFUbVkzZVhkU1FtaFhOWEpFUlZWb04xbGtOM2xpWTAwNFRqZHRkSFpqVjJrMFVESmtibGt0T1daaldqaG1Ua2hFZEdoT1YzZHNSR3RrU0VKWU5ta3dPV2s1WWxsdVVrVXdha3hWRWhkRk5XWnBXa3RIVEVNM1UySnpaVTFRTW5CbFpqUkJWUm9pUVV4RlV6bDFUVXcwVTFaV2QxWm5abXBoZVRob1ZVRTNTa2x4YjFseWNHbFpVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR2xhc3Nkb29yIiwibGluayI6Imh0dHBzOi8vd3d3LmdsYXNzZG9vci5jYS9qb2ItbGlzdGluZy9zZW5pb3ItZnVsbC1zdGFjay1kZXZlbG9wZXItYWJzb3JiLXNvZnR3YXJlLUpWX0tPMCwyN19LRTI4LDQzLmh0bT9qbD0xMDA4Nzg4MjQzOTc2XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Full Stack Developer",
+      "company_name": "Talent Connect360",
+      "location": "  Canada   ",
+      "via": "via Monster.ca",
+      "description": "Description:\nClient : Humana Inc\nWork location : Halifax, NS (Permanent remote)\nRates :\nCAD 70/hour for 7+ years experienced candidates\nCAD 63/hour for 5-7 years experienced candidates\n\nNote : We need to look for senior developers with 10+ years of experience. Seasoned .Net developer, who can work well on API/services (SOAP, rest etc.). Strong hands on SQL. Experience working with financial data is a plus.\n\nDescription: The Full Stack Developer codes software applications based on business requirements. The Full Stack Developer work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action.\n\nThe Full Stack Developer standardizes the quality assurance procedure for software. Oversees testing and debugging and develops fixes. Researches complaints and makes necessary adjustments and/or recommendations to resolve complex software related issues. Understands department, segment, and organizational strategy and operating... objectives, including their linkages to related areas. Makes decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed. Follows established guidelines/procedures.\n\nRequired Qualifications\nBachelor's Degree in Computer Science or related field\n3-5 years of experience in systems analysis or application programming development Must be passionate about contributing to an organization focused on continuously improving consumer experiences\n\nPreferred Qualifications\nMaster's Degree\n\nAdditional Details\n• Skill Category : Regular\n• ICIMS RR ID # : NA\n• Client Name : Humana Inc.\n• Engagement Type : T&M Competitive 1-3\n• Vertical : HPLS\n• Must-Have Primary Skill : Application Management-Development-Full Stack .Net developer (.Net + Angular + WebServices + Web API)\n• Primary Skill: Yrs Experience : Expert (5+ Years Experience)\n• COVID-19 Vaccine Required? : (No Value)\n• Client-Accepted Visa Types : (No Value)\n\nRemote\n\nAbout the Company:\nTalent Connect360",
+      "job_highlights": [
+        {
+          "items": [
+            "Description:\nClient : Humana Inc\nWork location : Halifax, NS (Permanent remote)\nRates :\nCAD 70/hour for 7+ years experienced candidates\nCAD 63/hour for 5-7 years experienced candidates\n\nNote : We need to look for senior developers with 10+ years of experience. Seasoned .Net developer, who can work well on API/services (SOAP, rest etc.). Strong hands on SQL. Experience working with financial data is a plus.\n\nDescription: The Full Stack Developer codes software applications based on business requirements. The Full Stack Developer work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action.\n\nThe Full Stack Developer standardizes the quality assurance procedure for software. Oversees testing and debugging and develops fixes. Researches complaints and makes necessary adjustments and/or recommendations to resolve complex software related issues. Understands department, segment, and organizational strategy and operating... objectives, including their linkages to related areas. Makes decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed. Follows established guidelines/procedures.\n\nRequired Qualifications\nBachelor's Degree in Computer Science or related field\n3-5 years of experience in systems analysis or application programming development Must be passionate about contributing to an organization focused on continuously improving consumer experiences\n\nPreferred Qualifications\nMaster's Degree\n\nAdditional Details\n• Skill Category : Regular\n• ICIMS RR ID # : NA\n• Client Name : Humana Inc.\n• Engagement Type : T&M Competitive 1-3\n• Vertical : HPLS\n• Must-Have Primary Skill : Application Management-Development-Full Stack .Net developer (.Net + Angular + WebServices + Web API)\n• Primary Skill: Yrs Experience : Expert (5+ Years Experience)\n• COVID-19 Vaccine Required? : (No Value)\n• Client-Accepted Visa Types : (No Value)\n\nRemote\n\nAbout the Company:\nTalent Connect360"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Talent+Connect360&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCJoK",
+          "text": "See web results for Talent Connect360"
+        }
+      ],
+      "extensions": [
+        "4 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoibGxlVWQ1RS03YlVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIE1vbnN0ZXIuY2EiLCJsaW5rIjoiaHR0cHM6Ly93d3cubW9uc3Rlci5jYS9qb2Itb3BlbmluZ3MvZnVsbC1zdGFjay1kZXZlbG9wZXItLWRkNTJjYmMwLTUxOWYtNDkzNS04MmFiLTUzMWM4OTZlMzY4Yj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Full Stack Developer with Cache",
+      "company_name": "Sunrise Group Inc.",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "Role: Full Stack Developer with Cache and Java Expertise\n\nLocation: Remote ( Anywhere in Canada )\n\nWe are seeking an experienced Cache Developer to join our team. As a Cache Developer, you will utilize your extensive Cache knowledge and expertise within a Scaled Agile Framework (SAFe Agile) to design, develop, and maintain enterprise applications. Requires experience in Laboratory and Genetic testing pre-authorization and the understanding and skills for building the Genetic family history forms & workflows required. In addition, experience in API Services communicating with major insurance companies is required. You will work on all phases of the software development life cycle, collaborating with cross-functional teams and stakeholders to deliver high-quality solutions. If you have a strong background in Cache development and are passionate about creating efficient and reliable applications, we encourage you to apply.\n\nResponsibilities:\n• Analyze, design, develop, and maintain... enterprise applications using Cache/Cache Object Script, Cache Objects, Cache Web Services, CSP, Java, and J2EE technologies.\n• Utilizing SAFe Agile practices by attending quarterly PI Planning and a Daily Stand Up meeting - understand business processes and requirements and develop solutions that meet business needs.\n• Collaborate regularly with business stakeholders, project managers, and QA teams to ensure via regular demos that implemented solutions satisfy requirements.\n• Design, develop, and monitor claims systems using InterSystems Cache technology, including Cache Object Script, Cache Objects, and Cache Server Pages.\n• Conduct code and technical design review meetings to ensure compliance with industry and internal standards. Conduct unit testing to ensure the quality and functionality of developed applications.\n• When necessary, serve as a Cache database administrator, handling tasks such as database configuration, license management, scheduled job monitoring, and performance tuning.\n• Coordinate with offshore team members, providing guidance and support for development activities.\n• Familiarity with HL7 and ANSI X12 healthcare standards, such as 270/271, 837, 278, 834, and 999.\n• Utilize version control tools like GIT, Perforce, Win CVS, Perforce, and code defect tracking tools such as Quality Center, Microsoft TFS.\n• Collaborate with technical and functional subject matter experts to implement process improvement methodologies.\n\nRequirements:\n• Over 10 years of experience in Cache development , preferably in the healthcare domain.\n• Strong proficiency in Cache Object Script, Cache Objects, Cache Web Services, and Cache Server Pages.\n• Experience with Java, J2EE, JavaScript, HTML, XHTML, and UI technologies/design/development.\n• Knowledge of databases such as Cache, Oracle, and DB2.\n• Familiarity with change management tools like Win CVS, Perforce, GIT and Deltanji.\n• Experience with IDEs and tools such as Cache Studio, Eclipse, and Visio.\n• Familiarity with Agile/Scrum SAFe Agile methodologies.\n• Strong problem-solving and analytical skills.\n• Excellent communication and collaboration skills.\n• Ability to work effectively in a team and coordinate with offshore team members.\n• Bachelor's degree in a relevant field",
+      "job_highlights": [
+        {
+          "items": [
+            "Role: Full Stack Developer with Cache and Java Expertise\n\nLocation: Remote ( Anywhere in Canada )\n\nWe are seeking an experienced Cache Developer to join our team. As a Cache Developer, you will utilize your extensive Cache knowledge and expertise within a Scaled Agile Framework (SAFe Agile) to design, develop, and maintain enterprise applications. Requires experience in Laboratory and Genetic testing pre-authorization and the understanding and skills for building the Genetic family history forms & workflows required. In addition, experience in API Services communicating with major insurance companies is required. You will work on all phases of the software development life cycle, collaborating with cross-functional teams and stakeholders to deliver high-quality solutions. If you have a strong background in Cache development and are passionate about creating efficient and reliable applications, we encourage you to apply.\n\nResponsibilities:\n• Analyze, design, develop, and maintain... enterprise applications using Cache/Cache Object Script, Cache Objects, Cache Web Services, CSP, Java, and J2EE technologies.\n• Utilizing SAFe Agile practices by attending quarterly PI Planning and a Daily Stand Up meeting - understand business processes and requirements and develop solutions that meet business needs.\n• Collaborate regularly with business stakeholders, project managers, and QA teams to ensure via regular demos that implemented solutions satisfy requirements.\n• Design, develop, and monitor claims systems using InterSystems Cache technology, including Cache Object Script, Cache Objects, and Cache Server Pages.\n• Conduct code and technical design review meetings to ensure compliance with industry and internal standards. Conduct unit testing to ensure the quality and functionality of developed applications.\n• When necessary, serve as a Cache database administrator, handling tasks such as database configuration, license management, scheduled job monitoring, and performance tuning.\n• Coordinate with offshore team members, providing guidance and support for development activities.\n• Familiarity with HL7 and ANSI X12 healthcare standards, such as 270/271, 837, 278, 834, and 999.\n• Utilize version control tools like GIT, Perforce, Win CVS, Perforce, and code defect tracking tools such as Quality Center, Microsoft TFS.\n• Collaborate with technical and functional subject matter experts to implement process improvement methodologies.\n\nRequirements:\n• Over 10 years of experience in Cache development , preferably in the healthcare domain.\n• Strong proficiency in Cache Object Script, Cache Objects, Cache Web Services, and Cache Server Pages.\n• Experience with Java, J2EE, JavaScript, HTML, XHTML, and UI technologies/design/development.\n• Knowledge of databases such as Cache, Oracle, and DB2.\n• Familiarity with change management tools like Win CVS, Perforce, GIT and Deltanji.\n• Experience with IDEs and tools such as Cache Studio, Eclipse, and Visio.\n• Familiarity with Agile/Scrum SAFe Agile methodologies.\n• Strong problem-solving and analytical skills.\n• Excellent communication and collaboration skills.\n• Ability to work effectively in a team and coordinate with offshore team members.\n• Bachelor's degree in a relevant field"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Sunrise+Group+Inc.&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCMoK",
+          "text": "See web results for Sunrise Group Inc."
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyNowDAjovtILsQTgfPT7ofzG6Cfx67O7Isof7fd0&s",
+      "extensions": [
+        "3 days ago",
+        "Contractor"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Contractor"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciB3aXRoIENhY2hlIiwiaHRpZG9jaWQiOiJGZGNSb0c4Z0dWTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L2Z1bGwtc3RhY2stZGV2ZWxvcGVyLXdpdGgtY2FjaGUtYXQtc3VucmlzZS1ncm91cC1pbmMtMzY5MDEyMzc5NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Full Stack Developer",
+      "company_name": "Redman Technologies Inc.",
+      "location": "  Edmonton, AB   ",
+      "via": "via Workopolis",
+      "description": "\"We are currently accepting applications exclusively from candidates residing in Edmonton or within the province of Alberta.\"\n\nAbout PLACE:\n\nPLACE is an end-to-end technology and business services platform designed to simplify the real estate lifecycle for both consumers and their real estate agents. Top producing real estate teams partner with PLACE because we take care of bookkeeping, human resources, in-house legal, design and marketing, talent acquisition, business training and coaching. Consumers choose real estate teams Powered by PLACE because our partners are positioned to deliver a better experience to their valued clients.\n\nYour Opportunity:\n\nJoin PLACE Inc. and contribute to the growth of one of the most successful real estate technology and business services platforms. With a recent $100 million fundraise at a $1 billion valuation, our profitable and rapidly expanding company offers ample opportunities for you to advance your expertise and career. We prioritize your... development - both professionally and personally - and provide a comprehensive compensation package that includes revenue share, health benefits, stock options, and RRSP matching. Embrace the flexibility of working from anywhere and discover the success path we've designed for you.\n\nWe are currently seeking a talented Full Stack Developer with a passion for programming and writing elegant code. As part of our dynamic team, you will be responsible for creating custom tools and web applications tailored for the real estate industry. We are dedicated to delivering simple, functional, and powerful user interfaces, APIs, and information storage systems that streamline and enhance the user experience.\n\nWhat You Excel At:\n\nYou are driven by delivering exceptional user experiences, excelling in creating feature-rich and easily navigable products.\n\nWhat You'll Accomplish:\n• Execute projects of varying sizes, crafting innovative solutions for real estate and consumer services\n• Implement automated tests alongside new features to identify and resolve bugs\n• Analyze end-to-end initiatives, assessing performance, complexity, scalability, quality, and security\n• Evaluate technical debt and propose strategies for reduction\n• Mentor and support junior engineers in their growth\n\nSkills You Possess:\n• 3+ years of full stack engineering experience\n• Expertise in JavaScript, with proficiency in React and Redux; familiarity with Node.js is a plus\n• Strong understanding of asynchronous requests, including partial page updates, loading states, and error handling\n• Proficiency in code documentation and testing\n• Experience using various documentation and project-tracking software\n\nComprehensive Benefits for Employees and Qualified Dependents:\n• Medical coverage\n• Dental coverage\n• Vision coverage\n\nEmployees are eligible to participate in the company's yearly Stock Purchase Program.\n\nWe are an equal-opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit, and business need. We are committed to creating an inclusive environment for all employees",
+      "job_highlights": [
+        {
+          "items": [
+            "\"We are currently accepting applications exclusively from candidates residing in Edmonton or within the province of Alberta.\"\n\nAbout PLACE:\n\nPLACE is an end-to-end technology and business services platform designed to simplify the real estate lifecycle for both consumers and their real estate agents. Top producing real estate teams partner with PLACE because we take care of bookkeeping, human resources, in-house legal, design and marketing, talent acquisition, business training and coaching. Consumers choose real estate teams Powered by PLACE because our partners are positioned to deliver a better experience to their valued clients.\n\nYour Opportunity:\n\nJoin PLACE Inc. and contribute to the growth of one of the most successful real estate technology and business services platforms. With a recent $100 million fundraise at a $1 billion valuation, our profitable and rapidly expanding company offers ample opportunities for you to advance your expertise and career. We prioritize your... development - both professionally and personally - and provide a comprehensive compensation package that includes revenue share, health benefits, stock options, and RRSP matching. Embrace the flexibility of working from anywhere and discover the success path we've designed for you.\n\nWe are currently seeking a talented Full Stack Developer with a passion for programming and writing elegant code. As part of our dynamic team, you will be responsible for creating custom tools and web applications tailored for the real estate industry. We are dedicated to delivering simple, functional, and powerful user interfaces, APIs, and information storage systems that streamline and enhance the user experience.\n\nWhat You Excel At:\n\nYou are driven by delivering exceptional user experiences, excelling in creating feature-rich and easily navigable products.\n\nWhat You'll Accomplish:\n• Execute projects of varying sizes, crafting innovative solutions for real estate and consumer services\n• Implement automated tests alongside new features to identify and resolve bugs\n• Analyze end-to-end initiatives, assessing performance, complexity, scalability, quality, and security\n• Evaluate technical debt and propose strategies for reduction\n• Mentor and support junior engineers in their growth\n\nSkills You Possess:\n• 3+ years of full stack engineering experience\n• Expertise in JavaScript, with proficiency in React and Redux; familiarity with Node.js is a plus\n• Strong understanding of asynchronous requests, including partial page updates, loading states, and error handling\n• Proficiency in code documentation and testing\n• Experience using various documentation and project-tracking software\n\nComprehensive Benefits for Employees and Qualified Dependents:\n• Medical coverage\n• Dental coverage\n• Vision coverage\n\nEmployees are eligible to participate in the company's yearly Stock Purchase Program.\n\nWe are an equal-opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit, and business need. We are committed to creating an inclusive environment for all employees"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Redman+Technologies+Inc.&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCPkK",
+          "text": "See web results for Redman Technologies Inc."
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiRkdiVGVEV25HSWtBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdvcmtvcG9saXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cud29ya29wb2xpcy5jb20vam9ic2VhcmNoL3ZpZXdqb2IvQ2F2OHl2cFczOWJJTlNQaDZuQW5HRG1RT2IxdjBHUk9ndWplY2VzUHlyX2FseTEweEN5c0NlM29BNWhFR0JFUj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "ISL 24R - Full Stack Developer",
+      "company_name": "BC Public Service",
+      "location": "  Canada   ",
+      "via": "via Indeed",
+      "description": "Posting Title\n\nISL 24R - Full Stack Developer\n\nPosition Classification\n\nInformation Systems R24\n\nUnion\n\nGEU\n\nWork Options\n\nRemote\n\nLocation\n\nMultiple Locations, BC CA (Primary)\n\nVictoria, BC V9B 6X2 CA\n\nSalary Range\n\n$73,855.42 - $84,134.34 annually plus 6.6% TMA\n\nClose Date\n\n9/4/2023\n\nJob Type\n\nRegular Full Time\n\nTemporary End Date\n\nMinistry/Organization\n\nBC Public Service -> Education and Child Care\n\nMinistry Branch / Division\n\nDigital Strategies & Services/Services & Technology\n\nJob Summary\n\nSupport the transformation of government services in this dynamic team.\n\nThe Digital Strategies and Services Branch provides a range of information technology and information management services for the Ministry. The Branch works closely with the Office of the Chief Information Officer (OCIO) to ensure ministry plans and initiatives are aligned with government’s overall technology direction and standards. Services provided include an IT Helpdesk, advice and support on protecting and optimizing... the ministry’s information assets, and services and strategies relating to infrastructure and application management, workstations and devices, enterprise architecture, and business analysis.\n\nThis position is responsible for the development and delivery of scalable web applications in a continuous deployment environment.\n\nJob Requirements:\n• Bachelor’s degree in Computer Science, Software Engineering, or related technical field, and 1 year related experience*; OR\n• Diploma in Computer Science, Software Engineering, or related technical field, and 2 years related experience*; OR\n• Some post-secondary education in Computer Science, Software Engineering, or related technical field, and 3 years related experience*.\n• Related Experience must include:\n• KExperience with full-stack development including frontend (e.g., Angular, React, or Vue) AND backend (e.g., NodeJS, Python, .NET Core) technologies.\n• Experience using modern development tools, such as HTML, CSS and Javascript libraries.\n• Experience with API development and integration and continuous development environments.\n\nPreference may be given to applicants with the following:\n• Experience with integrating applications with relational OR non-relational databases\n• Experience with version control technologies in an open-source environment\n\nFor questions regarding this position, please contact Laura.Hutchinson@gov.bc.ca.\n\nAbout this Position:\n\nRemote work is allowed, this position can work up to full time from their home in British Columbia subject to an approved telework agreement. The locations listed above are to assist applicants in searching for this opportunity and are not a complete list of locations.\n\nEmployees of the BC Public Service must be located in BC at the time of employment\n\nAn eligibility list may be established.\n\nWorking for the BC Public Service:\n\nThe BC Public Service is committed to creating a diverse workplace to represent the population we serve and to better meet the needs of our citizens. Consider joining our team and being part of an innovative, inclusive and rewarding workplace.\n\nThe Indigenous Applicant Advisory Service is available to applicants that self-identify as Indigenous (First Nations, status or non-status, Métis, or Inuit) seeking work or already employed in the BC Public Service. For guidance on applying and interviewing, please contact IndigenousApplicants@gov.bc.ca or 778-405-3452.\n\nThe BC Public Service is an award-winning employer and offers employees competitive benefits, amazing learning opportunities and a chance to engage in rewarding work with exciting career development opportunities. For more information, please see What We Offer.\n\nHow to Apply:\nYour application must clearly demonstrate how you meet the job requirements listed above.\n\nCover Letter: NO - Please do not submit a cover letter as it will not be reviewed.\n\nResume: YES - A resume is required as part of your application, however, it may not be used for initial shortlisting purposes.\n\nQuestionnaire: YES - You will need to complete a comprehensive questionnaire to demonstrate how you meet the job requirements. Include all relevant information about your educational accomplishments and employment history including job titles, start and end dates (month and year) of your employment, and how you obtained your relevant experience. The questionnaire will take approximately 60 minutes to complete.\n\nHelpful tips, videos and more regarding the application process can be found on the Your Job Application page of MyHR. If you are experiencing technical difficulty applying, e-mail BCPSA.Hiring.Centre@gov.bc.ca, before the stated closing time, and we will respond as soon as possible.\n\nAdditional Information:\nA Criminal Record Check (CRC) will be required.\n\nApplicants selected to move forward in the hiring process may be assessed on the Knowledge, Skills, Abilities and Competencies as outlined in the attached Job Profile located at the bottom of the posting.\n\nApplications will be accepted until 11:00 pm Pacific Standard Time on the closing date of the competition.\n\nJob Category\n\nInformation Management/Information Technology",
+      "job_highlights": [
+        {
+          "items": [
+            "Posting Title\n\nISL 24R - Full Stack Developer\n\nPosition Classification\n\nInformation Systems R24\n\nUnion\n\nGEU\n\nWork Options\n\nRemote\n\nLocation\n\nMultiple Locations, BC CA (Primary)\n\nVictoria, BC V9B 6X2 CA\n\nSalary Range\n\n$73,855.42 - $84,134.34 annually plus 6.6% TMA\n\nClose Date\n\n9/4/2023\n\nJob Type\n\nRegular Full Time\n\nTemporary End Date\n\nMinistry/Organization\n\nBC Public Service -> Education and Child Care\n\nMinistry Branch / Division\n\nDigital Strategies & Services/Services & Technology\n\nJob Summary\n\nSupport the transformation of government services in this dynamic team.\n\nThe Digital Strategies and Services Branch provides a range of information technology and information management services for the Ministry. The Branch works closely with the Office of the Chief Information Officer (OCIO) to ensure ministry plans and initiatives are aligned with government’s overall technology direction and standards. Services provided include an IT Helpdesk, advice and support on protecting and optimizing... the ministry’s information assets, and services and strategies relating to infrastructure and application management, workstations and devices, enterprise architecture, and business analysis.\n\nThis position is responsible for the development and delivery of scalable web applications in a continuous deployment environment.\n\nJob Requirements:\n• Bachelor’s degree in Computer Science, Software Engineering, or related technical field, and 1 year related experience*; OR\n• Diploma in Computer Science, Software Engineering, or related technical field, and 2 years related experience*; OR\n• Some post-secondary education in Computer Science, Software Engineering, or related technical field, and 3 years related experience*.\n• Related Experience must include:\n• KExperience with full-stack development including frontend (e.g., Angular, React, or Vue) AND backend (e.g., NodeJS, Python, .NET Core) technologies.\n• Experience using modern development tools, such as HTML, CSS and Javascript libraries.\n• Experience with API development and integration and continuous development environments.\n\nPreference may be given to applicants with the following:\n• Experience with integrating applications with relational OR non-relational databases\n• Experience with version control technologies in an open-source environment\n\nFor questions regarding this position, please contact Laura.Hutchinson@gov.bc.ca.\n\nAbout this Position:\n\nRemote work is allowed, this position can work up to full time from their home in British Columbia subject to an approved telework agreement. The locations listed above are to assist applicants in searching for this opportunity and are not a complete list of locations.\n\nEmployees of the BC Public Service must be located in BC at the time of employment\n\nAn eligibility list may be established.\n\nWorking for the BC Public Service:\n\nThe BC Public Service is committed to creating a diverse workplace to represent the population we serve and to better meet the needs of our citizens. Consider joining our team and being part of an innovative, inclusive and rewarding workplace.\n\nThe Indigenous Applicant Advisory Service is available to applicants that self-identify as Indigenous (First Nations, status or non-status, Métis, or Inuit) seeking work or already employed in the BC Public Service. For guidance on applying and interviewing, please contact IndigenousApplicants@gov.bc.ca or 778-405-3452.\n\nThe BC Public Service is an award-winning employer and offers employees competitive benefits, amazing learning opportunities and a chance to engage in rewarding work with exciting career development opportunities. For more information, please see What We Offer.\n\nHow to Apply:\nYour application must clearly demonstrate how you meet the job requirements listed above.\n\nCover Letter: NO - Please do not submit a cover letter as it will not be reviewed.\n\nResume: YES - A resume is required as part of your application, however, it may not be used for initial shortlisting purposes.\n\nQuestionnaire: YES - You will need to complete a comprehensive questionnaire to demonstrate how you meet the job requirements. Include all relevant information about your educational accomplishments and employment history including job titles, start and end dates (month and year) of your employment, and how you obtained your relevant experience. The questionnaire will take approximately 60 minutes to complete.\n\nHelpful tips, videos and more regarding the application process can be found on the Your Job Application page of MyHR. If you are experiencing technical difficulty applying, e-mail BCPSA.Hiring.Centre@gov.bc.ca, before the stated closing time, and we will respond as soon as possible.\n\nAdditional Information:\nA Criminal Record Check (CRC) will be required.\n\nApplicants selected to move forward in the hiring process may be assessed on the Knowledge, Skills, Abilities and Competencies as outlined in the attached Job Profile located at the bottom of the posting.\n\nApplications will be accepted until 11:00 pm Pacific Standard Time on the closing date of the competition.\n\nJob Category\n\nInformation Management/Information Technology"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=BC+Public+Service&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCKkL",
+          "text": "See web results for BC Public Service"
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "$73,855.42–$84,134.34 a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJJU0wgMjRSIC0gRnVsbCBTdGFjayBEZXZlbG9wZXIiLCJodGlkb2NpZCI6InVYdllsbndSX1FZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBJbmRlZWQiLCJsaW5rIjoiaHR0cHM6Ly9lbXBsb2lzLmNhLmluZGVlZC5jb20vdmlld2pvYj9qaz0zZmU3ZmIzNTRlMzBkODAzXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Full Stack Developer",
+      "company_name": "Motion Recruitment",
+      "location": "  Canada   ",
+      "via": "via BeBee Canada",
+      "description": "We've opened a series of Full-Stack Development roles with our client in the service industry, exclusively working with FAANG level and big tech organizations.\n\nOn a project with a FAANG organization, they are looking to add several developers skilled with Java, Spring Boot, and either Angular or React on the front-end. The split is around 70% BE and 30% FE.\n\nThis is a fully remote opportunity all through Canada, and can accommodate various time zones. Apply today to be considered\nRequired Skills & Experience\n• Java\n• Spring Boot\n• Angular or React experience\n• 3 or more years of professional software engineering experience\nDesired Skills & Experience\n• Bachelors of Computer Science degree or equivalent education level\nWhat You Will Be Doing\n\nTech Breakdown\n• 70% Java and related frameworks, tools\n• 30% front-end and associated technologies\n\nDaily Responsibilities\n• 80% Hands On\n• 20% Team Collaboration\nThe Offer\n\nYou will receive the following benefits:\n• Medical, dental, vision... Insurance\n• Vacation time, 3 weeks\n• RRSP\n• Bonus structure, to be discussed during interview/offer process\n\nApplicants must be currently authorized to work in the Canada on a full-time basis now and in the future",
+      "job_highlights": [
+        {
+          "items": [
+            "We've opened a series of Full-Stack Development roles with our client in the service industry, exclusively working with FAANG level and big tech organizations.\n\nOn a project with a FAANG organization, they are looking to add several developers skilled with Java, Spring Boot, and either Angular or React on the front-end. The split is around 70% BE and 30% FE.\n\nThis is a fully remote opportunity all through Canada, and can accommodate various time zones. Apply today to be considered\nRequired Skills & Experience\n• Java\n• Spring Boot\n• Angular or React experience\n• 3 or more years of professional software engineering experience\nDesired Skills & Experience\n• Bachelors of Computer Science degree or equivalent education level\nWhat You Will Be Doing\n\nTech Breakdown\n• 70% Java and related frameworks, tools\n• 30% front-end and associated technologies\n\nDaily Responsibilities\n• 80% Hands On\n• 20% Team Collaboration\nThe Offer\n\nYou will receive the following benefits:\n• Medical, dental, vision... Insurance\n• Vacation time, 3 weeks\n• RRSP\n• Bonus structure, to be discussed during interview/offer process\n\nApplicants must be currently authorized to work in the Canada on a full-time basis now and in the future"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://motionrecruitment.com/",
+          "text": "motionrecruitment.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Motion+Recruitment&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCNwL",
+          "text": "See web results for Motion Recruitment"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5LxXoGYDDv6lvj2s6FK0d_DEhZWyW2kLteN2K&s=0",
+      "extensions": [
+        "15 hours ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "15 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnVsbCBTdGFjayBEZXZlbG9wZXIiLCJodGlkb2NpZCI6IkY2UTF5OG9tN2FrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVTFyTW14c1MxWkNMV1ZFVTFwNldXOW1Wa1ZJTWxkWFdYTmhOVVoxYkZKS2JIZEpVMTlyWDNCVU0yWjRNVEZJWWtVM1oyTlVlWHB3ZEZkMk9IUlRlVmcyWlVaSFVsUmZXRFpsYlhvd2NHSTJlak4wTTJWTU16WjBialU1VlVsWk1Xc3liV1JaYldGUWEwZG5VMUZRWlY4MlUycEtXSFl3ZFRKWFRrRkNMUzFaV1doVGFsUmhXbGd6WTFWbWNsZHVlRGRSY2xGdlNrRm9XaTFWWXpaamFFSjBVMWxYWkZweU9EaEphMFo2VEdsS1JFMXROMVpyRWhkRk5XWnBXa3RIVEVNM1UySnpaVTFRTW5CbFpqUkJWUm9pUVV4RlV6bDFUVUZMYWw5c2FIaHZjbFpOVVZaNWFrazNWVTVGYTJKa1ZtczBadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQmVCZWUgQ2FuYWRhIiwibGluayI6Imh0dHBzOi8vY2EuYmViZWUuY29tL2pvYi8yMDIzMDgyMC0wMmM3ZGNjMjA3NDliZjVlYmZjZDZlOTE1NzhhZjQyYz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Full Stack Developer (23-003)",
+      "company_name": "Punchcard Systems",
+      "location": "  Edmonton, AB   ",
+      "via": "via Monster.ca",
+      "description": "At Punchcard, we’re in the process of inventing a new type of consulting agency, and we need great people to come along this journey with us. Our clients come to us to help them solve interesting challenges using technology. We’re scaling our team of software developers and are currently looking for a Full Stack Developer.\n\nYou'll be joining our team at an interesting time; we are still small, but we are beginning to grow, and we need people to help shape the future of Punchcard. If you have several years of experience as a software developer, have worked on projects with a variety of clients and users and are excited about the opportunity to work with a growing team and roll up your sleeves to create some amazing software, then this could be the role for you\n\nHere's your chance to work on something that really matters and do the best work of your career.\n\nThis is a remote-first role with our head office based in Edmonton, Alberta.\n\nResponsibilities\n• Work with design teams and... product managers to ideate software solutions\n• Develop and manage well-functioning databases and web and mobile applications\n• Test software to ensure responsiveness and efficiency\n• Troubleshoot, debug and upgrade software\n• Create security and data protection settings\n• Build features and applications with a mobile responsive design\n• Communicate with your peers via work tracking, source control and messaging\nNecessary Skills and Experience\n• A love of solving interesting problems.\n• 1+ years of actual experience working as a software developer.\n• Experience with React, Angular.js or another JavaScript framework.\n• Experience with C#, SQL Server, VSCode/Studio and Microsoft Azure.\n• Experience developing web and mobile applications.\n• Excellent written and oral communication skills.\n• Strong analytical and problem-solving skills.\n• Ability to multi-task to manage competing demands.\n• A degree in computer science, design, business, or technology or comparable work experience.\n• High personal integrity and team-orientation.\n• An entrepreneurial spirit.\nWhat to Expect\n• Engaging and challenging projects – if you want to do the same thing over and over again, Punchcard isn’t for you. If like puzzles and solving problems, then we are for you.\n• A competitive salary, commensurate with your experience.\n• Employee group benefits (including disability and life insurance, dental, and extended health).\n• Flexible hours.\n• A team dedicated to creativity, including regular company-wide hack days to experiment and innovate with different teams.\n• A highly collaborative work environment, with a group of people who love what they do.\n• Challenging projects while working with the most interesting cutting-edge technologies.\n• A company that’s invested in Edmonton’s future, with members engaged with and sitting on the boards of groups centered around development, technology, and innovation.\n• Opportunities for advancement, professional development, and the chance to be mentored by industry leaders.\n• An opportunity to work with and learn from passionate and highly skilled team members who work together to ensure everyone succeeds.\n\nWe always look for people who are comfortable wearing different hats, so don’t worry if you don’t think you’re a perfect fit for the role – we’re still interested in hearing from you.\n\nAt Punchcard, we are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.\n\nAbout the Company:\nPunchcard Systems",
+      "job_highlights": [
+        {
+          "items": [
+            "At Punchcard, we’re in the process of inventing a new type of consulting agency, and we need great people to come along this journey with us. Our clients come to us to help them solve interesting challenges using technology. We’re scaling our team of software developers and are currently looking for a Full Stack Developer.\n\nYou'll be joining our team at an interesting time; we are still small, but we are beginning to grow, and we need people to help shape the future of Punchcard. If you have several years of experience as a software developer, have worked on projects with a variety of clients and users and are excited about the opportunity to work with a growing team and roll up your sleeves to create some amazing software, then this could be the role for you\n\nHere's your chance to work on something that really matters and do the best work of your career.\n\nThis is a remote-first role with our head office based in Edmonton, Alberta.\n\nResponsibilities\n• Work with design teams and... product managers to ideate software solutions\n• Develop and manage well-functioning databases and web and mobile applications\n• Test software to ensure responsiveness and efficiency\n• Troubleshoot, debug and upgrade software\n• Create security and data protection settings\n• Build features and applications with a mobile responsive design\n• Communicate with your peers via work tracking, source control and messaging\nNecessary Skills and Experience\n• A love of solving interesting problems.\n• 1+ years of actual experience working as a software developer.\n• Experience with React, Angular.js or another JavaScript framework.\n• Experience with C#, SQL Server, VSCode/Studio and Microsoft Azure.\n• Experience developing web and mobile applications.\n• Excellent written and oral communication skills.\n• Strong analytical and problem-solving skills.\n• Ability to multi-task to manage competing demands.\n• A degree in computer science, design, business, or technology or comparable work experience.\n• High personal integrity and team-orientation.\n• An entrepreneurial spirit.\nWhat to Expect\n• Engaging and challenging projects – if you want to do the same thing over and over again, Punchcard isn’t for you. If like puzzles and solving problems, then we are for you.\n• A competitive salary, commensurate with your experience.\n• Employee group benefits (including disability and life insurance, dental, and extended health).\n• Flexible hours.\n• A team dedicated to creativity, including regular company-wide hack days to experiment and innovate with different teams.\n• A highly collaborative work environment, with a group of people who love what they do.\n• Challenging projects while working with the most interesting cutting-edge technologies.\n• A company that’s invested in Edmonton’s future, with members engaged with and sitting on the boards of groups centered around development, technology, and innovation.\n• Opportunities for advancement, professional development, and the chance to be mentored by industry leaders.\n• An opportunity to work with and learn from passionate and highly skilled team members who work together to ensure everyone succeeds.\n\nWe always look for people who are comfortable wearing different hats, so don’t worry if you don’t think you’re a perfect fit for the role – we’re still interested in hearing from you.\n\nAt Punchcard, we are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.\n\nAbout the Company:\nPunchcard Systems"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Punchcard+Systems&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCIsM",
+          "text": "See web results for Punchcard Systems"
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciAoMjMtMDAzKSIsImh0aWRvY2lkIjoiTWowOU1CU2wyOTBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE1vbnN0ZXIuY2EiLCJsaW5rIjoiaHR0cHM6Ly93d3cubW9uc3Rlci5jYS9qb2Itb3BlbmluZ3MvZnVsbC1zdGFjay1kZXZlbG9wZXItMjMtMDAzLWVkbW9udG9uLTAxLS1jMDNjMTNmYS0wNjYzLTQ2YTQtODUxMC03NmMxMTUyYmFkNDQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Full Stack Developer",
+      "company_name": "UTOR",
+      "location": "  Canada   ",
+      "via": "via Trabajo.org",
+      "description": "Join our global, fully remote, and asynchronous team as a Full Stack Developer, leading the development of our WordPress plugin projects.\n\nThis role demands an individual who can craft quality code for our plugins while keeping in mind the needs of the business, striking a balance between the two.\n\nIn this role, you won’t just be coding; you’d be engineering quality digital products that are made to outlast and outshine the competition.\n\nYou will collaborate closely with our leadership and marketing team, defining the scope of each project and laying the foundations for features that will redefine their user experience.\n\nHow We Work\n\nAs a 100% remote and asynchronous team, self-discipline is a very important factor when working within the RebelCode team. Everyone pulls their own weight and we do our utmost to get the best out of each other.\n\nWe strive for excellence in everything we do, so there’s no room for average work or half-hearted efforts. Even as we work on MVPs for new... features or products, we strive to deliver the best possible results within the time-frames and limitations that we set for ourselves.\n\nThe tools we use day-to-day include:\n• Twist for communication\n• Notion for our company wiki\n• Notion for issue tracking\n• Help Scout for customer support\n• Digital Ocean, Servebolt, WP Engine, and Kinsta for hosting of websites and services\n\nWho You Are\n\nYou own your tasks, from the inkling of an idea to its full-fledged execution.\n\nWith fluency in English, both written and spoken, you ensure no idea remains unheard, no innovation unnoticed. For you, every message has meaning and you do your best to get it across.\n\nYour constant curiosity propels you to constantly evolve, learn, and challenge the status quo, expanding your skillset every step of the way.\n\nWorking within a team, providing feedback, and collaborating across borders and time zones is second nature to you.\n\nNote: You must have a strong internet connection and a good quality microphone and webcam, both for the interview phase as well as during working hours.\n\nPrimary Responsibilities\n\nAs a Full Stack Developer at RebelCode, you will be responsible for:\n• Developing and maintaining RebelCode’s WordPress plugins (PHP, TypeScript, React)\n• Transforming Figma designs into working UIs\n• Participating in code discussions and reviews\n• Collaborating using task management and issue tracking tools\n• Attending weekly debriefing meetings\n• Working with customer support to resolve customer issues\n\nEssential Skills\n\nThe ideal candidate possesses the following skillset and tools:\n• Excellent understanding of PHP\n• Excellent understanding of JavaScript\n• Good working knowledge of TypeScript\n• Good working knowledge of CSS and/or some of its derivatives\n• Good working knowledge of WordPress plugin development\n• Experience integrating third-party APIs\n• A strong portfolio of past work\n• Very good English speaking and writing skills\n• Ability to work independently and be self-sufficient when necessary\n\nBonus Skills\n\nAlthough not a must, the following skills would also be appreciated for this role:\n• Experience with Docker\n• Experience with Apache and Nginx\n• Good understanding of WebPack and Vite\n• Experience with Figma\n• Exposure to Linux, BSD, or other Unix-like operating systems\n\nRemuneration & Perks\n\nThe selected candidate will receive the following:\n• $42,000 to $50,000 annual remuneration\n• 4 weeks of paid leave annually\n• The freedom to work remotely, ideally based within the EU or US\n• A flexible work schedule with at least a 4-hour daily overlap with the rest of the team\n• Continued learning supported by the company\n• Attendance to conferences to expand our skills and connections\n• Occasional company meet-ups and retreats to strengthen the team bond",
+      "job_highlights": [
+        {
+          "items": [
+            "Join our global, fully remote, and asynchronous team as a Full Stack Developer, leading the development of our WordPress plugin projects.\n\nThis role demands an individual who can craft quality code for our plugins while keeping in mind the needs of the business, striking a balance between the two.\n\nIn this role, you won’t just be coding; you’d be engineering quality digital products that are made to outlast and outshine the competition.\n\nYou will collaborate closely with our leadership and marketing team, defining the scope of each project and laying the foundations for features that will redefine their user experience.\n\nHow We Work\n\nAs a 100% remote and asynchronous team, self-discipline is a very important factor when working within the RebelCode team. Everyone pulls their own weight and we do our utmost to get the best out of each other.\n\nWe strive for excellence in everything we do, so there’s no room for average work or half-hearted efforts. Even as we work on MVPs for new... features or products, we strive to deliver the best possible results within the time-frames and limitations that we set for ourselves.\n\nThe tools we use day-to-day include:\n• Twist for communication\n• Notion for our company wiki\n• Notion for issue tracking\n• Help Scout for customer support\n• Digital Ocean, Servebolt, WP Engine, and Kinsta for hosting of websites and services\n\nWho You Are\n\nYou own your tasks, from the inkling of an idea to its full-fledged execution.\n\nWith fluency in English, both written and spoken, you ensure no idea remains unheard, no innovation unnoticed. For you, every message has meaning and you do your best to get it across.\n\nYour constant curiosity propels you to constantly evolve, learn, and challenge the status quo, expanding your skillset every step of the way.\n\nWorking within a team, providing feedback, and collaborating across borders and time zones is second nature to you.\n\nNote: You must have a strong internet connection and a good quality microphone and webcam, both for the interview phase as well as during working hours.\n\nPrimary Responsibilities\n\nAs a Full Stack Developer at RebelCode, you will be responsible for:\n• Developing and maintaining RebelCode’s WordPress plugins (PHP, TypeScript, React)\n• Transforming Figma designs into working UIs\n• Participating in code discussions and reviews\n• Collaborating using task management and issue tracking tools\n• Attending weekly debriefing meetings\n• Working with customer support to resolve customer issues\n\nEssential Skills\n\nThe ideal candidate possesses the following skillset and tools:\n• Excellent understanding of PHP\n• Excellent understanding of JavaScript\n• Good working knowledge of TypeScript\n• Good working knowledge of CSS and/or some of its derivatives\n• Good working knowledge of WordPress plugin development\n• Experience integrating third-party APIs\n• A strong portfolio of past work\n• Very good English speaking and writing skills\n• Ability to work independently and be self-sufficient when necessary\n\nBonus Skills\n\nAlthough not a must, the following skills would also be appreciated for this role:\n• Experience with Docker\n• Experience with Apache and Nginx\n• Good understanding of WebPack and Vite\n• Experience with Figma\n• Exposure to Linux, BSD, or other Unix-like operating systems\n\nRemuneration & Perks\n\nThe selected candidate will receive the following:\n• $42,000 to $50,000 annual remuneration\n• 4 weeks of paid leave annually\n• The freedom to work remotely, ideally based within the EU or US\n• A flexible work schedule with at least a 4-hour daily overlap with the rest of the team\n• Continued learning supported by the company\n• Attendance to conferences to expand our skills and connections\n• Occasional company meet-ups and retreats to strengthen the team bond"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=UTOR&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCLoM",
+          "text": "See web results for UTOR"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7BDVLI1v0TTiEd_1-A9erQIeLXnbzmstT3FzCrk&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiZUNsTEt4cmdmLVVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vY2EudHJhYmFqby5vcmcvam9iLTEyNjItMjAyMzA4MTktZWE4MmY4MDg4NjNkNjZlMzY1NzE2ODhhNDQ4NWViZmM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Full-Stack Developer - Remote WFH",
+      "company_name": "Icomplyico",
+      "location": "  Canada   ",
+      "via": "via Worka",
+      "description": "As a quickly growing tech company, we are seeking a skilled remote-based Intermediate Full Stack developer responsible for building React.JS / .NET Core applications. The successful candidate will possess a passion for collaborative problem solving, sophisticated design, and high-quality product development. Ultimately, you will help establish our reputation as a company that delivers a world-class product that solves some of the compliance industry's most pressing issues today. At iComply, you…",
+      "job_highlights": [
+        {
+          "items": [
+            "As a quickly growing tech company, we are seeking a skilled remote-based Intermediate Full Stack developer responsible for building React.JS / .NET Core applications. The successful candidate will possess a passion for collaborative problem solving, sophisticated design, and high-quality product development. Ultimately, you will help establish our reputation as a company that delivers a world-class product that solves some of the compliance industry's most pressing issues today. At iComply, you…"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.icomplyico.com/",
+          "text": "icomplyico.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Icomplyico&sa=X&ved=0ahUKEwjh4OHtp-yAAxW0TWwGHdrLB1wQmJACCOoM",
+          "text": "See web results for Icomplyico"
+        }
+      ],
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsLVN0YWNrIERldmVsb3BlciAtIFJlbW90ZSBXRkgiLCJodGlkb2NpZCI6IjFvOWFhck1idW13QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXVJQkNxSUJRVTFyTW14c1NtSnFSbGhtVld4RVpVMW1NMUkxT0ZkTWVpMUZNemRMYm1KeVZrWTRjV2hCV2tVdE4zUjFkMnB4YkhvMGFHc3lla2xNZWtWMlVUWkxlVmh1WjBWamVtcE9iR281Ym1SZlNsaHhaMFJKWkZOa2QwSjBaVmRWVlZFdGFtTTJUVFZtUzI1WE0wNU9WRUZJZVUwdFowcDJOMWRvYUZOWlNXdGhVVWxMZGpOTlQwMUJkWFZKWDBoS2J5MTZkbVZRY25CTE9XbG9NMk5aWkhWaVlrbEJFaGRGTldacFdrdEhURU0zVTJKelpVMVFNbkJsWmpSQlZSb2lRVXhGVXpsMVRUTjZTV3g1WDJWMlJVZENhbmxIWjFoUlJuaHFWalF6VURWTlp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXb3JrYSIsImxpbmsiOiJodHRwczovL3d3dy53b3JrYS5tZS9qb2IvZnVsbC1zdGFjay1kZXZlbG9wZXItcmVtb3RlLXdmaC1qb2JzLWluLWluLWljb21wbHlpY28tOTYzMTY2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Stack engineer",
+          "value": "stack engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Analyst",
+          "value": "analyst"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Javascript engineer",
+          "value": "javascript engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Edmonton, AB",
+          "value": "I__egEUioFNdFfZKDKAfQQ=="
+        },
+        {
+          "text": "Saskatoon, SK",
+          "value": "K5ntR7_2BFOQJneVMp4EBQ=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Language",
+      "param": "language",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "English Results",
+          "value": "en"
+        },
+        {
+          "text": "French Results",
+          "value": "fr"
+        },
+        {
+          "text": "German Results",
+          "value": "de"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "S.i. Systems",
+          "value": "/g/11fy23lh8q"
+        },
+        {
+          "text": "Motion Recruitment",
+          "value": "/g/1dtxtpd9"
+        },
+        {
+          "text": "Applied Systems Canada",
+          "value": "/g/11fy1z_g5g"
+        },
+        {
+          "text": "Icomplyico",
+          "value": "/g/11fhql7dm9"
+        },
+        {
+          "text": "Affirm",
+          "value": "/g/11fkl4bl9w"
+        },
+        {
+          "text": "Autodesk",
+          "value": "/m/018nm3"
+        },
+        {
+          "text": "BDO Canada LLP",
+          "value": "/g/11fy2cbswz"
+        },
+        {
+          "text": "Cisco Meraki",
+          "value": "/m/02kx2bg"
+        },
+        {
+          "text": "DOIT Software",
+          "value": "/g/11s93x2d93"
+        },
+        {
+          "text": "Fujitsu",
+          "value": "/m/0fyp9"
+        },
+        {
+          "text": "IBM",
+          "value": "/m/03sc8"
+        },
+        {
+          "text": "Manulife Insurance Malaysia",
+          "value": "/g/11c6qrnsk7"
+        },
+        {
+          "text": "StackAdapt",
+          "value": "/g/11c73jhyqw"
+        },
+        {
+          "text": "3Pillar Global",
+          "value": "/g/11c54dnyc1"
+        },
+        {
+          "text": "AEROTEK",
+          "value": "/m/025t3n6"
+        },
+        {
+          "text": "AON",
+          "value": "/m/0z7n"
+        },
+        {
+          "text": "ARC Business Solutions",
+          "value": "/g/11f01jsy19"
+        },
+        {
+          "text": "Absorb Software",
+          "value": "/g/11g9mwb01g"
+        },
+        {
+          "text": "Affinity.co",
+          "value": "/g/11fy2cnpnb"
+        },
+        {
+          "text": "Alberta Energy Regulator",
+          "value": "/m/0w2zh6q"
+        },
+        {
+          "text": "Andiamo Group",
+          "value": "/g/11h1y9np6p"
+        },
+        {
+          "text": "Areto Labs",
+          "value": "/g/11rw932sjp"
+        },
+        {
+          "text": "BMO Financial Group",
+          "value": "/g/11bc5xlblr"
+        },
+        {
+          "text": "Bourse de Montreal Inc.",
+          "value": "/g/11c73vvjlt"
+        },
+        {
+          "text": "Button Inc.",
+          "value": "/g/11j6wynlc8"
+        },
+        {
+          "text": "CAE",
+          "value": "/m/03ktvb"
+        },
+        {
+          "text": "CBC/Radio-Canada",
+          "value": "/m/0hm0k"
+        },
+        {
+          "text": "CEO🔺CA",
+          "value": "/g/11qg5hl05_"
+        },
+        {
+          "text": "Canadian Bank Note Company, Limited",
+          "value": "/m/04nwsm"
+        },
+        {
+          "text": "CareSimple",
+          "value": "/g/11dxprb0x1"
+        },
+        {
+          "text": "Charter Telecom",
+          "value": "/g/11f014x4jx"
+        }
+      ]
+    }
+  ]
+}

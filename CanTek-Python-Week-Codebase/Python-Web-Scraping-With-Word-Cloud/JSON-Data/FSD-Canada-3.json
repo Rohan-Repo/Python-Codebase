@@ -1,0 +1,624 @@
+{
+  "search_metadata": {
+    "id": "64e53b70ea14427b40b13a38",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/379617db085d1472/64e53b70ea14427b40b13a38.json",
+    "created_at": "2023-08-22 22:49:20 UTC",
+    "processed_at": "2023-08-22 22:49:20 UTC",
+    "google_jobs_url": "https://www.google.ca/search?q=Full+Stack+Developer&ibp=htl;jobs&uule=w+CAIQICIGQ2FuYWRh&hl=en&gl=ca",
+    "raw_html_file": "https://serpapi.com/searches/379617db085d1472/64e53b70ea14427b40b13a38.html",
+    "total_time_taken": 0.98
+  },
+  "search_parameters": {
+    "q": "Full Stack Developer",
+    "engine": "google_jobs",
+    "location_requested": "Canada",
+    "location_used": "Canada",
+    "google_domain": "google.ca",
+    "hl": "en",
+    "gl": "ca"
+  },
+  "jobs_results": [
+    {
+      "title": "Full Stack Developer",
+      "company_name": "BC Public Service",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "Ministry of Citizens’ Services\n\nMultiple Locations\n\nFull Stack Developer\n\n$80,652.20 - $91,992.70 annually plus 9.9% TMA\n\nHybrid\n\nDedicated to making life better for British Columbians, the Ministry of Citizens' Services (CITZ) delivers key services that people rely on. CITZ delivers accessible, multi-channel services, through a single-point-of-contact service approach to people in urban and rural communities through Service BC, and delivers the digital face of government at www.gov.bc.ca. CITZ also provides support for the expansion of high-speed internet connectivity throughout the province, leadership across government to modernize information management and technology resources, trusted data services to government agencies, prompt and relevant responses to freedom of information requests, and statistical and economic research, information and analysis to businesses and the public sector.\n\nAs a Full Stack Developer, you will be focused on developing, integrating, and consolidating... enterprise applications in support of ministry or government strategic and operational goals, and functions within the Agile Scrum Team as a Project Lead. This work involves leading the design, development, integration and implementation of large-scale applications for the ministry. You will also be responsible for coordinating the development and delivery of scalable web applications in a continuous deployment environment.\n\nQualifications for this role include:\n• Post-secondary degree in Computer Science, Computer or Software Engineering or related technical field, AND a minimum three (3) years’*related experience; OR,\n• Diploma in Computer Science, Computer or Software Engineering or related technical field, AND a minimum four (4) years’ *related experience; OR,\n• Certification(s) in Computer Science, Computer or Software Engineering or related technical field AND a minimum five (5) years’ *related experience; OR,\n• A combination of education and *related experience may be considered.\n• Related experience must include the minimum number of years of experience for each of the following requirements corresponding to the education listed above:\n• Experience in a full stack developer role.\n• Experience using a variety of modern development tools, such as HTML, CSS and JavaScript libraries, relational and non-relational databases.\n• Experience with development in continuous integration and deployment environments.\n\nFor more information and to apply online by September 4, 2023, please go to: https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/103832",
+      "job_highlights": [
+        {
+          "items": [
+            "Ministry of Citizens’ Services\n\nMultiple Locations\n\nFull Stack Developer\n\n$80,652.20 - $91,992.70 annually plus 9.9% TMA\n\nHybrid\n\nDedicated to making life better for British Columbians, the Ministry of Citizens' Services (CITZ) delivers key services that people rely on. CITZ delivers accessible, multi-channel services, through a single-point-of-contact service approach to people in urban and rural communities through Service BC, and delivers the digital face of government at www.gov.bc.ca. CITZ also provides support for the expansion of high-speed internet connectivity throughout the province, leadership across government to modernize information management and technology resources, trusted data services to government agencies, prompt and relevant responses to freedom of information requests, and statistical and economic research, information and analysis to businesses and the public sector.\n\nAs a Full Stack Developer, you will be focused on developing, integrating, and consolidating... enterprise applications in support of ministry or government strategic and operational goals, and functions within the Agile Scrum Team as a Project Lead. This work involves leading the design, development, integration and implementation of large-scale applications for the ministry. You will also be responsible for coordinating the development and delivery of scalable web applications in a continuous deployment environment.\n\nQualifications for this role include:\n• Post-secondary degree in Computer Science, Computer or Software Engineering or related technical field, AND a minimum three (3) years’*related experience; OR,\n• Diploma in Computer Science, Computer or Software Engineering or related technical field, AND a minimum four (4) years’ *related experience; OR,\n• Certification(s) in Computer Science, Computer or Software Engineering or related technical field AND a minimum five (5) years’ *related experience; OR,\n• A combination of education and *related experience may be considered.\n• Related experience must include the minimum number of years of experience for each of the following requirements corresponding to the education listed above:\n• Experience in a full stack developer role.\n• Experience using a variety of modern development tools, such as HTML, CSS and JavaScript libraries, relational and non-relational databases.\n• Experience with development in continuous integration and deployment environments.\n\nFor more information and to apply online by September 4, 2023, please go to: https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/103832"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=BC+Public+Service&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCLgJ",
+          "text": "See web results for BC Public Service"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAv-jr-mSyCF2obnQBX4lK7_BKVo1UgJgF-MfOTPg&s",
+      "extensions": [
+        "4 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiRVJHdVllOEFsaXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vY2EubGlua2VkaW4uY29tL2pvYnMvdmlldy9mdWxsLXN0YWNrLWRldmVsb3Blci1hdC1iYy1wdWJsaWMtc2VydmljZS0zNjkwNzczMzUyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Full Stack Developer",
+      "company_name": "NTWIST Inc",
+      "location": "  Edmonton, AB   ",
+      "via": "via Glassdoor",
+      "description": "Full Stack Developer: JOB DESCRIPTION\n\nAre you a visionary seeking to redefine the boundaries of technology?\n\nNTWIST is actively seeking skilled Full Stack Developers who possess a passion for innovation and a hunger for growth. Join our dynamic team and be at the forefront of shaping the future of technology, where your talents will thrive and make a lasting impact. Apply now and unleash your potential at NTWIST.\n\nAbout NTWIST :\n\nNTWIST is a transformative force in the business world, empowering enterprises to harness the power of machine learning and Artificial Intelligence for unparalleled growth and efficiency. Through our advanced algorithms and AI tools, we enable continuous process plants to optimize productivity, minimize costs, and make significant strides in sustainability. Our solutions drive reductions in waste, greenhouse gas emissions, energy consumption, and water usage, empowering businesses to operate more responsibly and profitably.\n\nVisit us at... www.ntwist.com\n\nSummary of the role\n\nThe Full Stack Developer at NTWIST holds a pivotal role in designing the architecture of our applications, both on the front end and back end. They are responsible for developing the client-side interfaces utilizing HTML, CSS, and React, ensuring responsive design and cross-browser compatibility. On the backend, they handle server-side logic and API development using Node.js, including database management and integration with external services. With a focus on optimizing database schemas, writing tests, and collaborating with cross-functional teams, the Full Stack Developer contributes to shaping the future of technology at NTWIST while staying abreast of the latest industry trends.\n\nWhat you’ll be doing\n• Gather and analyze project/platform requirements, including user needs, business objectives, and technical specifications.\n• Design the overall structure and architecture of the application, including database design, system components, and user interfaces.\n• Develop the client-side of the application using HTML, CSS, and JavaScript frameworks, React. Implement user interfaces, responsive design, and ensure cross-browser compatibility.\n• Develop server-side logic and APIs using programming languages like Node.js. Build and maintain databases, handle data storage, and interact with external services and APIs.\n• Design and optimize database schemas, good at using NoSQL database like MongoDB\n• Write unit tests, perform integration testing, and troubleshoot issues or bugs. Use debugging tools and techniques to identify and resolve software defects.\n• Collaborate with cross-functional teams, including designers, product managers, and other developers. Use version control systems like Git to manage source code, track changes, and merge code branches.\n• Stay updated with the latest technologies, frameworks, and industry trends. Learn new tools and techniques to enhance your skills as a Full Stack Developer.\n\nDesired Profile:\n• Educational Qualification: Bachelor’s degree (or equivalent) in computer science, information technology, or engineering\n• Work experience: 0-2 Years.\n• Technical Skills:\n• Proficiency in HTML, CSS, and JavaScript is essential.\n• Knowledge of front-end frameworks, React is highly desirable.\n• Familiarity with server-side programming languages, Node.js\n• Understanding of RESTful APIs and Knowledge or experience with server-side frameworks adds advantage\n• Knowledge of database systems like NoSQL, or MongoDB.\n• Ability to write basic queries and understand database design concepts\n\nPlease apply by sending your resume (required) and cover letter (optional)\n\nDetails:\n\nJob Type: Full Time\n\nStart Date: September 2023\n\nStatus in Canada: legally allowed to work in Canada\n\nNumber of Openings: 2 Job Location: Edmonton\n\nJob Type: Full-time\n\nSchedule:\n• 8 hour shift\n\nWork Location: In person",
+      "job_highlights": [
+        {
+          "items": [
+            "Full Stack Developer: JOB DESCRIPTION\n\nAre you a visionary seeking to redefine the boundaries of technology?\n\nNTWIST is actively seeking skilled Full Stack Developers who possess a passion for innovation and a hunger for growth. Join our dynamic team and be at the forefront of shaping the future of technology, where your talents will thrive and make a lasting impact. Apply now and unleash your potential at NTWIST.\n\nAbout NTWIST :\n\nNTWIST is a transformative force in the business world, empowering enterprises to harness the power of machine learning and Artificial Intelligence for unparalleled growth and efficiency. Through our advanced algorithms and AI tools, we enable continuous process plants to optimize productivity, minimize costs, and make significant strides in sustainability. Our solutions drive reductions in waste, greenhouse gas emissions, energy consumption, and water usage, empowering businesses to operate more responsibly and profitably.\n\nVisit us at... www.ntwist.com\n\nSummary of the role\n\nThe Full Stack Developer at NTWIST holds a pivotal role in designing the architecture of our applications, both on the front end and back end. They are responsible for developing the client-side interfaces utilizing HTML, CSS, and React, ensuring responsive design and cross-browser compatibility. On the backend, they handle server-side logic and API development using Node.js, including database management and integration with external services. With a focus on optimizing database schemas, writing tests, and collaborating with cross-functional teams, the Full Stack Developer contributes to shaping the future of technology at NTWIST while staying abreast of the latest industry trends.\n\nWhat you’ll be doing\n• Gather and analyze project/platform requirements, including user needs, business objectives, and technical specifications.\n• Design the overall structure and architecture of the application, including database design, system components, and user interfaces.\n• Develop the client-side of the application using HTML, CSS, and JavaScript frameworks, React. Implement user interfaces, responsive design, and ensure cross-browser compatibility.\n• Develop server-side logic and APIs using programming languages like Node.js. Build and maintain databases, handle data storage, and interact with external services and APIs.\n• Design and optimize database schemas, good at using NoSQL database like MongoDB\n• Write unit tests, perform integration testing, and troubleshoot issues or bugs. Use debugging tools and techniques to identify and resolve software defects.\n• Collaborate with cross-functional teams, including designers, product managers, and other developers. Use version control systems like Git to manage source code, track changes, and merge code branches.\n• Stay updated with the latest technologies, frameworks, and industry trends. Learn new tools and techniques to enhance your skills as a Full Stack Developer.\n\nDesired Profile:\n• Educational Qualification: Bachelor’s degree (or equivalent) in computer science, information technology, or engineering\n• Work experience: 0-2 Years.\n• Technical Skills:\n• Proficiency in HTML, CSS, and JavaScript is essential.\n• Knowledge of front-end frameworks, React is highly desirable.\n• Familiarity with server-side programming languages, Node.js\n• Understanding of RESTful APIs and Knowledge or experience with server-side frameworks adds advantage\n• Knowledge of database systems like NoSQL, or MongoDB.\n• Ability to write basic queries and understand database design concepts\n\nPlease apply by sending your resume (required) and cover letter (optional)\n\nDetails:\n\nJob Type: Full Time\n\nStart Date: September 2023\n\nStatus in Canada: legally allowed to work in Canada\n\nNumber of Openings: 2 Job Location: Edmonton\n\nJob Type: Full-time\n\nSchedule:\n• 8 hour shift\n\nWork Location: In person"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=NTWIST+Inc&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCOkJ",
+          "text": "See web results for NTWIST Inc"
+        }
+      ],
+      "extensions": [
+        "7 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "7 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiNWRDLUF2WFJNRllBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVMXJNbXhzU2tSR1NUVjNaRGxrWmpkcmRrOUlWSEUzVWtoWVRXdHZURXRLU1ZCaGNDMW1NVzVJUTJkR1FqSTFhR1J4Vkd4NFoxUkVURUpSVVdwV2NFSmZlVk5tYjJkSWEzVnlTa3d3WW05eVlreExXbEpuU3pSamJrTnRUVkZXT1VGQmIyOVNPSFZIUlVaMWVscFhkbFl5Tm5GMFh6ZDRObFp1VjBRMFkyaGFiV2x4VURoWWFVWnNjREJTUjNac1FVWlNZMFZoZW14ak9UaGtRakkzVTE5QkVoZGpSSFpzV2twSGFrdHdlVGR4ZEhOUUxYUjVURFJCUlJvaVFVeEZVemwxVFRaQ1NIVlBOM2h1T1UxQ2RGRkpWVkZyZDJkMWVsRlhWRzU2UVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEdsYXNzZG9vciIsImxpbmsiOiJodHRwczovL3d3dy5nbGFzc2Rvb3IuY2Evam9iLWxpc3RpbmcvZnVsbC1zdGFjay1kZXZlbG9wZXItbnR3aXN0LWluYy1KVl9JQzIyNzQ5NjFfS08wLDIwX0tFMjEsMzEuaHRtP2psPTEwMDg4MTY2OTQ2MzBcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Full Stack Developer",
+      "company_name": "Redman Technologies Inc.",
+      "location": "  Edmonton, AB   ",
+      "via": "via Workopolis",
+      "description": "\"We are currently accepting applications exclusively from candidates residing in Edmonton or within the province of Alberta.\"\n\nAbout PLACE:\n\nPLACE is an end-to-end technology and business services platform designed to simplify the real estate lifecycle for both consumers and their real estate agents. Top producing real estate teams partner with PLACE because we take care of bookkeeping, human resources, in-house legal, design and marketing, talent acquisition, business training and coaching. Consumers choose real estate teams Powered by PLACE because our partners are positioned to deliver a better experience to their valued clients.\n\nYour Opportunity:\n\nJoin PLACE Inc. and contribute to the growth of one of the most successful real estate technology and business services platforms. With a recent $100 million fundraise at a $1 billion valuation, our profitable and rapidly expanding company offers ample opportunities for you to advance your expertise and career. We prioritize your... development - both professionally and personally - and provide a comprehensive compensation package that includes revenue share, health benefits, stock options, and RRSP matching. Embrace the flexibility of working from anywhere and discover the success path we've designed for you.\n\nWe are currently seeking a talented Full Stack Developer with a passion for programming and writing elegant code. As part of our dynamic team, you will be responsible for creating custom tools and web applications tailored for the real estate industry. We are dedicated to delivering simple, functional, and powerful user interfaces, APIs, and information storage systems that streamline and enhance the user experience.\n\nWhat You Excel At:\n\nYou are driven by delivering exceptional user experiences, excelling in creating feature-rich and easily navigable products.\n\nWhat You'll Accomplish:\n• Execute projects of varying sizes, crafting innovative solutions for real estate and consumer services\n• Implement automated tests alongside new features to identify and resolve bugs\n• Analyze end-to-end initiatives, assessing performance, complexity, scalability, quality, and security\n• Evaluate technical debt and propose strategies for reduction\n• Mentor and support junior engineers in their growth\n\nSkills You Possess:\n• 3+ years of full stack engineering experience\n• Expertise in JavaScript, with proficiency in React and Redux; familiarity with Node.js is a plus\n• Strong understanding of asynchronous requests, including partial page updates, loading states, and error handling\n• Proficiency in code documentation and testing\n• Experience using various documentation and project-tracking software\n\nComprehensive Benefits for Employees and Qualified Dependents:\n• Medical coverage\n• Dental coverage\n• Vision coverage\n\nEmployees are eligible to participate in the company's yearly Stock Purchase Program.\n\nWe are an equal-opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit, and business need. We are committed to creating an inclusive environment for all employees",
+      "job_highlights": [
+        {
+          "items": [
+            "\"We are currently accepting applications exclusively from candidates residing in Edmonton or within the province of Alberta.\"\n\nAbout PLACE:\n\nPLACE is an end-to-end technology and business services platform designed to simplify the real estate lifecycle for both consumers and their real estate agents. Top producing real estate teams partner with PLACE because we take care of bookkeeping, human resources, in-house legal, design and marketing, talent acquisition, business training and coaching. Consumers choose real estate teams Powered by PLACE because our partners are positioned to deliver a better experience to their valued clients.\n\nYour Opportunity:\n\nJoin PLACE Inc. and contribute to the growth of one of the most successful real estate technology and business services platforms. With a recent $100 million fundraise at a $1 billion valuation, our profitable and rapidly expanding company offers ample opportunities for you to advance your expertise and career. We prioritize your... development - both professionally and personally - and provide a comprehensive compensation package that includes revenue share, health benefits, stock options, and RRSP matching. Embrace the flexibility of working from anywhere and discover the success path we've designed for you.\n\nWe are currently seeking a talented Full Stack Developer with a passion for programming and writing elegant code. As part of our dynamic team, you will be responsible for creating custom tools and web applications tailored for the real estate industry. We are dedicated to delivering simple, functional, and powerful user interfaces, APIs, and information storage systems that streamline and enhance the user experience.\n\nWhat You Excel At:\n\nYou are driven by delivering exceptional user experiences, excelling in creating feature-rich and easily navigable products.\n\nWhat You'll Accomplish:\n• Execute projects of varying sizes, crafting innovative solutions for real estate and consumer services\n• Implement automated tests alongside new features to identify and resolve bugs\n• Analyze end-to-end initiatives, assessing performance, complexity, scalability, quality, and security\n• Evaluate technical debt and propose strategies for reduction\n• Mentor and support junior engineers in their growth\n\nSkills You Possess:\n• 3+ years of full stack engineering experience\n• Expertise in JavaScript, with proficiency in React and Redux; familiarity with Node.js is a plus\n• Strong understanding of asynchronous requests, including partial page updates, loading states, and error handling\n• Proficiency in code documentation and testing\n• Experience using various documentation and project-tracking software\n\nComprehensive Benefits for Employees and Qualified Dependents:\n• Medical coverage\n• Dental coverage\n• Vision coverage\n\nEmployees are eligible to participate in the company's yearly Stock Purchase Program.\n\nWe are an equal-opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit, and business need. We are committed to creating an inclusive environment for all employees"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Redman+Technologies+Inc.&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCJgK",
+          "text": "See web results for Redman Technologies Inc."
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiRkdiVGVEV25HSWtBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdvcmtvcG9saXMiLCJsaW5rIjoiaHR0cHM6Ly93d3cud29ya29wb2xpcy5jb20vam9ic2VhcmNoL3ZpZXdqb2IvQ2F2OHl2cFczOWJJTlNQaDZuQW5HRG1RT2IxdjBHUk9ndWplY2VzUHlyX2FseTEweEN5c0NlM29BNWhFR0JFUj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Full Stack Developer",
+      "company_name": "Osedea Inc.",
+      "location": "  Canada   ",
+      "via": "via BeBee Canada",
+      "description": "Who we are\n\nWe're a thriving and agile tech development firm. People are at the center of everything we do. Simply put, we care. Our team personally cares about our clients and the world around them, and we care about our team's life-long dreams, aspirations, and career development.\n\nWe strongly believe in the power of community. This is why we seek opportunities to build meaningful relationships with everyone around us. We're like a family, but with people from all over the world.\n\nWe celebrate diversity in all its forms. Backgrounds, personalities, career paths, languages... you name it. We actively innovate, learn, and share stories around the topic. We want everyone to feel welcomed and included in all we do.\n\nWe like having fun and enjoying ourselves. We wake up every day inspired to build a more efficient and enjoyable world.\n\nRole overview\n\nAs our new Full-Stack Developer, we expect you to be disciplined when it comes to software development, and ready and eager to collaborate... with both technical and non-technical teammates to plan, develop, and deliver web and mobile applications for our clients. We expect you to take ownership of your tasks, excel at time management, and be a fast learner, while also focusing on ongoing personal improvement.\n\nThe technologies listed below are mentioned to give you a reference point for our stack. Above all else, we look at personal ability and potential for growth when hiring for this position.\nYour key responsibilities\n• Develop software according to specifications (SRS, Interface Designs)\n• Uphold and reinforce software development guidelines\n• Acquire and share knowledge with colleagues\n• Research, test, and implement new techniques and technologies\nThe ideal candidate has\n• 2+ years experience as a software developer\n• A Bachelor's degree, college degree, or certification in a software-related field\n• English or French at working-level proficiency (full bilingualism is preferred)\nYou should be comfortable with\n• Web User Interface (React, Polymer, AngularJS, , etc.)\n• At least one major modern programming language (NodeJS, Typescript, Java, Python, PHP, etc.)\n• Agile/Lean Development Methodologies (Scrum, XP, Kanban, etc.)\n• Application Testing (unit, functional, mocks, etc.)\n• Operating Systems (major Linux distributions, OSX)\nIt's a plus if you have experience with\n• Mobile application development (Native or Hybrid, such as React Native or Flutter)\n• Software Architectural and Design Patterns\n• Documentation best practices and standards (UML)\n• Application Testing (unit, functional, mocks, etc.)\n• Containerization (Docker)\n• Cloud-hosting platforms (at least one of AWS, GCP, Azure)\n• Software Development Pipelines\n• Microservices\n• In-Memory object storage, caching, and queue systems\n• Open-source contributions\n\nWhat we offer:\n\nNon-hierarchical structure\n\nFlexible hours of work\n\nWork from anywhere up to 8 weeks\n\nOpportunity to work from our international offices\n\nCompetitive Salary\n\nCheck out our careers page to learn more...\n\nOnly considered candidates will be contacted",
+      "job_highlights": [
+        {
+          "items": [
+            "Who we are\n\nWe're a thriving and agile tech development firm. People are at the center of everything we do. Simply put, we care. Our team personally cares about our clients and the world around them, and we care about our team's life-long dreams, aspirations, and career development.\n\nWe strongly believe in the power of community. This is why we seek opportunities to build meaningful relationships with everyone around us. We're like a family, but with people from all over the world.\n\nWe celebrate diversity in all its forms. Backgrounds, personalities, career paths, languages... you name it. We actively innovate, learn, and share stories around the topic. We want everyone to feel welcomed and included in all we do.\n\nWe like having fun and enjoying ourselves. We wake up every day inspired to build a more efficient and enjoyable world.\n\nRole overview\n\nAs our new Full-Stack Developer, we expect you to be disciplined when it comes to software development, and ready and eager to collaborate... with both technical and non-technical teammates to plan, develop, and deliver web and mobile applications for our clients. We expect you to take ownership of your tasks, excel at time management, and be a fast learner, while also focusing on ongoing personal improvement.\n\nThe technologies listed below are mentioned to give you a reference point for our stack. Above all else, we look at personal ability and potential for growth when hiring for this position.\nYour key responsibilities\n• Develop software according to specifications (SRS, Interface Designs)\n• Uphold and reinforce software development guidelines\n• Acquire and share knowledge with colleagues\n• Research, test, and implement new techniques and technologies\nThe ideal candidate has\n• 2+ years experience as a software developer\n• A Bachelor's degree, college degree, or certification in a software-related field\n• English or French at working-level proficiency (full bilingualism is preferred)\nYou should be comfortable with\n• Web User Interface (React, Polymer, AngularJS, , etc.)\n• At least one major modern programming language (NodeJS, Typescript, Java, Python, PHP, etc.)\n• Agile/Lean Development Methodologies (Scrum, XP, Kanban, etc.)\n• Application Testing (unit, functional, mocks, etc.)\n• Operating Systems (major Linux distributions, OSX)\nIt's a plus if you have experience with\n• Mobile application development (Native or Hybrid, such as React Native or Flutter)\n• Software Architectural and Design Patterns\n• Documentation best practices and standards (UML)\n• Application Testing (unit, functional, mocks, etc.)\n• Containerization (Docker)\n• Cloud-hosting platforms (at least one of AWS, GCP, Azure)\n• Software Development Pipelines\n• Microservices\n• In-Memory object storage, caching, and queue systems\n• Open-source contributions\n\nWhat we offer:\n\nNon-hierarchical structure\n\nFlexible hours of work\n\nWork from anywhere up to 8 weeks\n\nOpportunity to work from our international offices\n\nCompetitive Salary\n\nCheck out our careers page to learn more...\n\nOnly considered candidates will be contacted"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Osedea+Inc.&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCMgK",
+          "text": "See web results for Osedea Inc."
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoidGtiY2h5LUR1UUFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVMXJNbXhzU3poNlltMUhhVlJIUnpGalVWOW1PRXhxVUZjNGJGa3dUa05MWlhSQ1QzTnRXV0p0WjB4ek5FdEpTekpJYlVsRFRuWXhZVEZrYlhKNVYweGpkbXgxTlRFeFRuSlVkVlJHVTFOeFR6YzBia1JJY20xUFVVOUhRbmxmY0ZSd2FXVlFkMGhwT0Y5M1YwbG5XamhHYUhocFJqWjBkSGhoWW14cldIZGFha2t3UVRWeWVYZEJWakpVTUd4dGNXOW5ha1JxTnpSRlRXbE9SM1ZxY2xWQkVoZGpSSFpzV2twSGFrdHdlVGR4ZEhOUUxYUjVURFJCUlJvaVFVeEZVemwxVG5nM1JrOVJaMlEzUTNoM1ZtVkhjMVpoYWswNFZXVllOR1IwUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18yIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJlQmVlIENhbmFkYSIsImxpbmsiOiJodHRwczovL2NhLmJlYmVlLmNvbS9qb2IvMjAyMzA4MjEtYjBkNDRkYjYzZjk5ZjJmYTAzMzMxMDVhNjg4N2Q5Nzg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Full Stack Developer",
+      "company_name": "Talent Connect360",
+      "location": "  Canada   ",
+      "via": "via Monster.ca",
+      "description": "Description:\nClient : Humana Inc\nWork location : Halifax, NS (Permanent remote)\nRates :\nCAD 70/hour for 7+ years experienced candidates\nCAD 63/hour for 5-7 years experienced candidates\n\nNote : We need to look for senior developers with 10+ years of experience. Seasoned .Net developer, who can work well on API/services (SOAP, rest etc.). Strong hands on SQL. Experience working with financial data is a plus.\n\nDescription: The Full Stack Developer codes software applications based on business requirements. The Full Stack Developer work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action.\n\nThe Full Stack Developer standardizes the quality assurance procedure for software. Oversees testing and debugging and develops fixes. Researches complaints and makes necessary adjustments and/or recommendations to resolve complex software related issues. Understands department, segment, and organizational strategy and operating... objectives, including their linkages to related areas. Makes decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed. Follows established guidelines/procedures.\n\nRequired Qualifications\nBachelor's Degree in Computer Science or related field\n3-5 years of experience in systems analysis or application programming development Must be passionate about contributing to an organization focused on continuously improving consumer experiences\n\nPreferred Qualifications\nMaster's Degree\n\nAdditional Details\n• Skill Category : Regular\n• ICIMS RR ID # : NA\n• Client Name : Humana Inc.\n• Engagement Type : T&M Competitive 1-3\n• Vertical : HPLS\n• Must-Have Primary Skill : Application Management-Development-Full Stack .Net developer (.Net + Angular + WebServices + Web API)\n• Primary Skill: Yrs Experience : Expert (5+ Years Experience)\n• COVID-19 Vaccine Required? : (No Value)\n• Client-Accepted Visa Types : (No Value)\n\nRemote\n\nAbout the Company:\nTalent Connect360",
+      "job_highlights": [
+        {
+          "items": [
+            "Description:\nClient : Humana Inc\nWork location : Halifax, NS (Permanent remote)\nRates :\nCAD 70/hour for 7+ years experienced candidates\nCAD 63/hour for 5-7 years experienced candidates\n\nNote : We need to look for senior developers with 10+ years of experience. Seasoned .Net developer, who can work well on API/services (SOAP, rest etc.). Strong hands on SQL. Experience working with financial data is a plus.\n\nDescription: The Full Stack Developer codes software applications based on business requirements. The Full Stack Developer work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action.\n\nThe Full Stack Developer standardizes the quality assurance procedure for software. Oversees testing and debugging and develops fixes. Researches complaints and makes necessary adjustments and/or recommendations to resolve complex software related issues. Understands department, segment, and organizational strategy and operating... objectives, including their linkages to related areas. Makes decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed. Follows established guidelines/procedures.\n\nRequired Qualifications\nBachelor's Degree in Computer Science or related field\n3-5 years of experience in systems analysis or application programming development Must be passionate about contributing to an organization focused on continuously improving consumer experiences\n\nPreferred Qualifications\nMaster's Degree\n\nAdditional Details\n• Skill Category : Regular\n• ICIMS RR ID # : NA\n• Client Name : Humana Inc.\n• Engagement Type : T&M Competitive 1-3\n• Vertical : HPLS\n• Must-Have Primary Skill : Application Management-Development-Full Stack .Net developer (.Net + Angular + WebServices + Web API)\n• Primary Skill: Yrs Experience : Expert (5+ Years Experience)\n• COVID-19 Vaccine Required? : (No Value)\n• Client-Accepted Visa Types : (No Value)\n\nRemote\n\nAbout the Company:\nTalent Connect360"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Talent+Connect360&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCPgK",
+          "text": "See web results for Talent Connect360"
+        }
+      ],
+      "extensions": [
+        "6 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoibGxlVWQ1RS03YlVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIE1vbnN0ZXIuY2EiLCJsaW5rIjoiaHR0cHM6Ly93d3cubW9uc3Rlci5jYS9qb2Itb3BlbmluZ3MvZnVsbC1zdGFjay1kZXZlbG9wZXItLWRkNTJjYmMwLTUxOWYtNDkzNS04MmFiLTUzMWM4OTZlMzY4Yj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Full Stack Developer – with Angular",
+      "company_name": "Tech Tammina LLC",
+      "location": "  Canada   ",
+      "via": "via Adzuna",
+      "description": "Job Title: Senior Full Stack Developer with Angular\nLocation: Canada - 100% remote position\nFull-Time Permanent role\n(3 weeks to start)\n\nThe Senior Software Developer acts as a senior resource in all phases of participant benefits portal software applications, and relays software project goals and functional user requirements to the development team. He/she provides technical support and troubleshooting to internal clients and external users and assists in the development and training of junior staff members. He/she will be doing new development on our new web portals.\n\nResponsibilities:\n• Design, code, test, and debug new and existing software applications using Microsoft.Net technologies and relational database languages. Serve as a technical expert on the team, working on complex projects with less specificity and direction.\n• Provide product architecture, develop project plans/scope, and track progress; give project direction to development team staff while reviewing team members... work.\n• Develop cost and time estimates associated with the project and make decisions or escalate problems to appropriate resources if the project is off the timeline.\n• Provide technical direction to the development team by researching and suggesting new technology offerings to the team. Propose technology to the development manager based on business requirements given for the project.\n• Provide technical support to internal and external clients on existing problems escalated from the call support center. Provides Tier III support through the help desk (Tier I) on most complex, urgent, and technically challenging issues not resolved by junior software developers. Monitors trends and results from technical support.\n\nQualifications:\n• BA/BS in computer science or related field, MS preferred\n• 7-10+ years of application architecture and development experience\n• Demonstrated experience in Visual Studio, .NET, ASP.NET, C#\n• Experience with Angular required\n• Experience in SQL Server preferred\n• Experience with SQL, Client-Side JavaScript, and HTML required\n• Experience developing multi-tier Internet/Intranet applications (preferably in cross-browser environments\n• Experience working on new development\n• Demonstrated analytic and design capabilities\n• Strong business acumen and project management skills\n• Working knowledge of database design\n• Self-starter with excellent organizational and time management skills\n• Experience with Agile SCRUM preferred\n• Experience with Material library preferred",
+      "job_highlights": [
+        {
+          "items": [
+            "Job Title: Senior Full Stack Developer with Angular\nLocation: Canada - 100% remote position\nFull-Time Permanent role\n(3 weeks to start)\n\nThe Senior Software Developer acts as a senior resource in all phases of participant benefits portal software applications, and relays software project goals and functional user requirements to the development team. He/she provides technical support and troubleshooting to internal clients and external users and assists in the development and training of junior staff members. He/she will be doing new development on our new web portals.\n\nResponsibilities:\n• Design, code, test, and debug new and existing software applications using Microsoft.Net technologies and relational database languages. Serve as a technical expert on the team, working on complex projects with less specificity and direction.\n• Provide product architecture, develop project plans/scope, and track progress; give project direction to development team staff while reviewing team members... work.\n• Develop cost and time estimates associated with the project and make decisions or escalate problems to appropriate resources if the project is off the timeline.\n• Provide technical direction to the development team by researching and suggesting new technology offerings to the team. Propose technology to the development manager based on business requirements given for the project.\n• Provide technical support to internal and external clients on existing problems escalated from the call support center. Provides Tier III support through the help desk (Tier I) on most complex, urgent, and technically challenging issues not resolved by junior software developers. Monitors trends and results from technical support.\n\nQualifications:\n• BA/BS in computer science or related field, MS preferred\n• 7-10+ years of application architecture and development experience\n• Demonstrated experience in Visual Studio, .NET, ASP.NET, C#\n• Experience with Angular required\n• Experience in SQL Server preferred\n• Experience with SQL, Client-Side JavaScript, and HTML required\n• Experience developing multi-tier Internet/Intranet applications (preferably in cross-browser environments\n• Experience working on new development\n• Demonstrated analytic and design capabilities\n• Strong business acumen and project management skills\n• Working knowledge of database design\n• Self-starter with excellent organizational and time management skills\n• Experience with Agile SCRUM preferred\n• Experience with Material library preferred"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Tech+Tammina+LLC&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCKgL",
+          "text": "See web results for Tech Tammina LLC"
+        }
+      ],
+      "extensions": [
+        "21 hours ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "21 hours ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnVsbCBTdGFjayBEZXZlbG9wZXIg4oCTIHdpdGggQW5ndWxhciIsImh0aWRvY2lkIjoiV1Z2ZGJjaWlkU2dBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEFkenVuYSIsImxpbmsiOiJodHRwczovL3d3dy5hZHp1bmEuY2EvZGV0YWlscy80MjcxODExNjE0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Full-stack Developer at Design Match",
+      "company_name": "Design Match",
+      "location": "  Canada   ",
+      "via": "via Indeed",
+      "description": "Design Match is seeking a skilled and versatile Full-stack Developer to join our team. As a Full-stack Developer, you will be the driving force behind the development of our platform, utilizing your expertise in both front-end and back-end technologies to create seamless and exceptional user experiences.\n\nResponsibilities:\n• Collaborate with cross-functional teams to understand project requirements and goals.\n• Design and implement user interfaces with a focus on intuitive and responsive design.\n• Develop back-end systems, databases, and APIs to ensure robust and scalable functionality.\n• Conduct thorough testing and debugging to ensure the reliability and performance of the application.\n• Stay updated with the latest trends and technologies in full-stack development.\n\nRequirements:\n• Proven experience as a Full-stack Developer or related role.\n• Proficiency in front-end technologies like HTML, CSS, JavaScript, and front-end frameworks.\n• Strong knowledge of server-side programming... languages and frameworks (e.g., Node.js, Django, Ruby on Rails).\n• Familiarity with database design and management (SQL, NoSQL).\n• Excellent problem-solving and communication skills.\n\nIf you are a passionate Full-stack Developer ready to take on exciting challenges and contribute to the success of Design Match, we encourage you to apply",
+      "job_highlights": [
+        {
+          "items": [
+            "Design Match is seeking a skilled and versatile Full-stack Developer to join our team. As a Full-stack Developer, you will be the driving force behind the development of our platform, utilizing your expertise in both front-end and back-end technologies to create seamless and exceptional user experiences.\n\nResponsibilities:\n• Collaborate with cross-functional teams to understand project requirements and goals.\n• Design and implement user interfaces with a focus on intuitive and responsive design.\n• Develop back-end systems, databases, and APIs to ensure robust and scalable functionality.\n• Conduct thorough testing and debugging to ensure the reliability and performance of the application.\n• Stay updated with the latest trends and technologies in full-stack development.\n\nRequirements:\n• Proven experience as a Full-stack Developer or related role.\n• Proficiency in front-end technologies like HTML, CSS, JavaScript, and front-end frameworks.\n• Strong knowledge of server-side programming... languages and frameworks (e.g., Node.js, Django, Ruby on Rails).\n• Familiarity with database design and management (SQL, NoSQL).\n• Excellent problem-solving and communication skills.\n\nIf you are a passionate Full-stack Developer ready to take on exciting challenges and contribute to the success of Design Match, we encourage you to apply"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Design+Match&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCNgL",
+          "text": "See web results for Design Match"
+        }
+      ],
+      "extensions": [
+        "18 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "18 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsLXN0YWNrIERldmVsb3BlciBhdCBEZXNpZ24gTWF0Y2giLCJodGlkb2NpZCI6IjBic2hTaXJ2RjRrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBJbmRlZWQiLCJsaW5rIjoiaHR0cHM6Ly9jYS5pbmRlZWQuY29tL3ZpZXdqb2I/ams9Y2IwMzhkZTMxZWI4ZDBkNVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Full stack developer (Shopify/Liquid, React heavy)",
+      "company_name": "Canadian Bank Note Company, Limited",
+      "location": "  Canada   ",
+      "via": "via Jobvite",
+      "description": "Internal Job Title: Full Stack Developer\n\nJob Type: Permanent, Full time\n\nLocation: Ottawa\n\nWork Model: Hybrid\n\nDeadline for Submissions: July 30, 2023\n\nPosition Summary\n\nAs a Full Stack Developer with our BUMP! Team, you will design, develop, and support our digital raffle platforms (e.g. 50/50 draws at professional sporting events) within an enterprise level environment. In this role, you will leverage innovative technologies as you work on the full solution while mentoring more junior team members. You’ll also be afforded the opportunity to contribute and help shape our technology roadmap.\n\nWhat We Can Offer You\n• Compensation: We seek long term relationships with our employees and recognize and reward them with a competitive total compensation package that includes:\n• An industry leading defined contribution pension plan with company matching contributions (up to 5%) and payment of service fees,\n• Best-in-class health, medical and life insurance benefits;\n• Access to virtual and... telehealth services and apps; and\n• Very progressive fertility, adoption, and surrogacy benefits to support all definitions of family.\n• Career: As a knowledge-based organization we will provide you with a wealth of learning opportunities and challenging work that will grow your knowledge, skills and abilities. At CBN, we encourage and empower our employees to chart their own career path, putting you in control of your future.\n• Culture: Personal character is the foundation of our culture. CBN’s 7 Core Principles shape and guide our behaviours and underpin the sense of community you will experience at CBN. Equality, diversity, and inclusivity are important to us as an organization, and we are committed to fostering and developing a work environment where every employee is treated with dignity and respect.\n\nWhat You Will Do\n• Work on end-to-end solution architecture for large scale Lottery and Gaming projects ; including, but not limited to, 50/50 draws, Chase the Ace draws and other charitable fundraisers;.\n• Facilitate the design and development of multi-tenant auto scaling solutions using the latest technologies;\n• Facilitate design and development of Shopify Liquid Code;\n• Provide 2nd level technical support and mentoring to Service Desk and Technical Support teams; and\n• Various other duties and responsibilities.\n\nQualifications\n\nKnowledge and Experience\n• Degree or Diploma in Computer Science or Engineering with 3-5 years of practical experience\n• Experience with Full stack Development (with heavier exposure to front end)\n• Familiarity working in a Shopify environment\n\nHard Skills\n• Languages: PHP 7.4+, Shopify Liquid\n• Frameworks: ReactJS, Laravel 8+\n• Database: MySQL\n• Web Server: Nginx\n• Containers: Docker\n• Cloud: AWS Technologies -ECS, ECR, ALB, ASG, S3, Cloudfront (Asset)\n• Other: MS 365\n\nSoft Skills and Abilities\n• Excellent analytical skills\n• Excellent organization/time management/prioritization skills\n• Excellent communication skills (verbal and written)\n• Well developed interpersonal skills.\n\nAbout Us\nBUMP is a wholly owned subsidiary of CBN that provides secure and high integrity digital raffle product and platform solutions to most recognizable professional sports foundations as well as hundreds of very well-known and distinguished non-for-profits across North America.\n\nCBN designs and develops industry leading solutions for the following domains: Border Security, Civil Identity, Driver Identification and Vehicle Information, Currency and Excise Control, and Lottery and Charitable Gaming. To learn more, visit http://cbnco.com.\n\nAs an Equal Opportunity Employer, Canadian Bank Note Company, Limited is committed to achieving a skilled workforce that reflects the diversity of the Canadian population. We encourage applications from women, visible minorities, people with disabilities and Aboriginal people. Canadian Bank Note Company Limited is committed to developing inclusive, barrier-free selection processes and work environments. If contacted regarding this competition, please advise the interview coordinator of any accommodation measures you may require",
+      "job_highlights": [
+        {
+          "items": [
+            "Internal Job Title: Full Stack Developer\n\nJob Type: Permanent, Full time\n\nLocation: Ottawa\n\nWork Model: Hybrid\n\nDeadline for Submissions: July 30, 2023\n\nPosition Summary\n\nAs a Full Stack Developer with our BUMP! Team, you will design, develop, and support our digital raffle platforms (e.g. 50/50 draws at professional sporting events) within an enterprise level environment. In this role, you will leverage innovative technologies as you work on the full solution while mentoring more junior team members. You’ll also be afforded the opportunity to contribute and help shape our technology roadmap.\n\nWhat We Can Offer You\n• Compensation: We seek long term relationships with our employees and recognize and reward them with a competitive total compensation package that includes:\n• An industry leading defined contribution pension plan with company matching contributions (up to 5%) and payment of service fees,\n• Best-in-class health, medical and life insurance benefits;\n• Access to virtual and... telehealth services and apps; and\n• Very progressive fertility, adoption, and surrogacy benefits to support all definitions of family.\n• Career: As a knowledge-based organization we will provide you with a wealth of learning opportunities and challenging work that will grow your knowledge, skills and abilities. At CBN, we encourage and empower our employees to chart their own career path, putting you in control of your future.\n• Culture: Personal character is the foundation of our culture. CBN’s 7 Core Principles shape and guide our behaviours and underpin the sense of community you will experience at CBN. Equality, diversity, and inclusivity are important to us as an organization, and we are committed to fostering and developing a work environment where every employee is treated with dignity and respect.\n\nWhat You Will Do\n• Work on end-to-end solution architecture for large scale Lottery and Gaming projects ; including, but not limited to, 50/50 draws, Chase the Ace draws and other charitable fundraisers;.\n• Facilitate the design and development of multi-tenant auto scaling solutions using the latest technologies;\n• Facilitate design and development of Shopify Liquid Code;\n• Provide 2nd level technical support and mentoring to Service Desk and Technical Support teams; and\n• Various other duties and responsibilities.\n\nQualifications\n\nKnowledge and Experience\n• Degree or Diploma in Computer Science or Engineering with 3-5 years of practical experience\n• Experience with Full stack Development (with heavier exposure to front end)\n• Familiarity working in a Shopify environment\n\nHard Skills\n• Languages: PHP 7.4+, Shopify Liquid\n• Frameworks: ReactJS, Laravel 8+\n• Database: MySQL\n• Web Server: Nginx\n• Containers: Docker\n• Cloud: AWS Technologies -ECS, ECR, ALB, ASG, S3, Cloudfront (Asset)\n• Other: MS 365\n\nSoft Skills and Abilities\n• Excellent analytical skills\n• Excellent organization/time management/prioritization skills\n• Excellent communication skills (verbal and written)\n• Well developed interpersonal skills.\n\nAbout Us\nBUMP is a wholly owned subsidiary of CBN that provides secure and high integrity digital raffle product and platform solutions to most recognizable professional sports foundations as well as hundreds of very well-known and distinguished non-for-profits across North America.\n\nCBN designs and develops industry leading solutions for the following domains: Border Security, Civil Identity, Driver Identification and Vehicle Information, Currency and Excise Control, and Lottery and Charitable Gaming. To learn more, visit http://cbnco.com.\n\nAs an Equal Opportunity Employer, Canadian Bank Note Company, Limited is committed to achieving a skilled workforce that reflects the diversity of the Canadian population. We encourage applications from women, visible minorities, people with disabilities and Aboriginal people. Canadian Bank Note Company Limited is committed to developing inclusive, barrier-free selection processes and work environments. If contacted regarding this competition, please advise the interview coordinator of any accommodation measures you may require"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.cbnco.com/",
+          "text": "cbnco.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Canadian+Bank+Note+Company,+Limited&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCIoM",
+          "text": "See web results for Canadian Bank Note Company, Limited"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJ8-ru3pB2Asf4eSInpdztKjFETWX4s70W7pv&s=0",
+      "extensions": [
+        "29 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "29 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIHN0YWNrIGRldmVsb3BlciAoU2hvcGlmeS9MaXF1aWQsIFJlYWN0IGhlYXZ5KSIsImh0aWRvY2lkIjoiRHM3QV8zYm5qQ1FBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVMXJNbXhzU2swelJHRnBWREpvWTB4V01qbFdXVGRNU1cwM2JEVTNXRUl5U0ZGVWEwcGpTRkJ6VTNGWGFVSllRMnhSWWpWRE5qRlBjM2hRYWt0TU1tVnBORmw2U0ZNNGVWaElTbVZhYTJsaldHRjZWMGxFVVY5MVVuUkxUUzFRVTNwT01sWk5iMlJuYlc5YVVpMWZSMHBOUzNCNGFEZHJhVkpKVGpVemR6UXhUekpwY0V0cVkybFpZMVpaWm01Q1pscDJjMlV4TVhKU1ZYZFBXamxWYlU0d2JGVkRaSFJ3WkVzME0wVlVkelJ1YTNRNFZrdzNVV2RLYlRJNFZIRjRlRFpmUjJsWFJtOVFhRkYxY0ZKTVl6WktkbFJFU205SWJIY3dieTAxYUhwWFFSSVhZMFIyYkZwS1IycExjSGszY1hSelVDMTBlVXcwUVVVYUlrRk1SVk01ZFU1U0xYVkJiVVZEUkZjMFNETnlNamh2VldoWlR6ZDNlakJRTFhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb2J2aXRlIiwibGluayI6Imh0dHBzOi8vam9icy5qb2J2aXRlLmNvbS9jYm5jby9qb2Ivb3J0WG5md1k/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Full Stack Developer",
+      "company_name": "Bourse de Montreal Inc.",
+      "location": "  Canada   ",
+      "via": "via Workday",
+      "description": "Venture outside the ordinary - TMX Careers The TMX group of companies includes leading global exchanges such as the Toronto Stock Exchange, Montreal Exchange, and numerous innovative organizations enhancing capital markets. United as a global team, we’re connecting cross-functionally, traversing industries and geographies, moving opportunity into action, advancing global economic growth, and propelling progress. Through a rich exchange of ideas, meaningful collaboration, and a nimble operating model, we're powering some of the nation's most critical systems, fueling capital formation and innovation, bringing increased opportunity to business visionaries, product ingenuity to consumers, and career exploration to our team. Ready to be part of the action? Why your Career Will Flourish at TMX Are you looking to join an exciting high-tech team that is focused on delivering exceptional products to a global customer base? How would you feel about joining a company whose core culture embraces... change, rewards creativity, and promotes dialogue with employees? At the TMX we attract people who strive to improve themselves and the value we deliver to clients. We make it easy with a genuine focus on personal and professional learning, flexible work options, and a climate of open communication and collaboration. Working at TMX will enhance your career and give you the opportunity to grow. The Web & UI squad is responsible for developing and enhancing various web applications and services. We provide solutions to help our clients manage their trades and allocations activities. As a full stack developer, you will be part of a dynamic group focused on transforming our platforms into industry-leading digital products. You will be tasked with development for both internal and external clients. The successful candidate will thrive in a fast-paced Agile environment, alongside a Product Owner, a Scrum Master, an Architect and developers. Key accountabilities: Take part in the complete process of software development, from technical design to the implementation (build/code/test) of web-based applications. Develop and execute automated unit and integrated tests. Contribute to application improvement and optimization through code reviews, refactoring and architecture changes Work with team members to solve difficult problems including troubleshooting, support issues and bug fixes Follow design patterns, coding standards, and best practices to produce secure, reliable, reusable and scalable code Contribute to process improvements, voicing any concerns and actively contributing to their resolution Facilitate regular meetings and working sessions with development team members and different business units to address ongoing issues that require further understanding or analysis Must haves: University degree in information technology or equivalent Minimum of 3 years experience as a full-stack web developer (front/back-end) using Python, Vue.js / Quasar, C++ object programming or equivalent Able to implement web services with RESTful APIs Able to implement front-end web client applications Strong working knowledge of version control software and processes (Git) and CI/CD Builds Familiarity with software container technologies (Docker, Kubernetes) Experience with Node.js Be focused on automating repetitive tasks Linux operating systems and command line tools Rapid, high-quality decision-making Autonomy and initiative Bilingual in French and English (spoken and written) Nice to haves: Ability to work in an Agile environment Working experience with Nginx web server Kubernetes / container technologies Experience in the business area of derivatives trading and/or clearing Practical knowledge of the Google work environment (G Suite) Cloud deployments In the market for… Excitement - Explore emerging technology and innovation, as well as ventures and digital finance that shape the future of global markets! Experience the movement of the market while grounded in the stability of close to 200 years of success. Connection - With site hubs in some of the world’s most multicultural cities, we leverage our size and structure to create rich connections and belonging while experiencing powerful global impact through our work. Impact - More than a platform, we use our talents to power mission-critical systems that drive global economic advancement, innovation, and growth. As well, our employee-led Team Impact spreads social good via our giving strategy. Wellness - From empathetic leadership to a culture of flexibility and balance, we believe wellness at work creates the maximum yield and a stronger “we”. Plus, with a cloud-first and hybrid workstyle, as well as generous time-off and leaves, we support a life well lived! Growth - From a growth mindset in our work, to expansion in our business, TMX is home to action-takers energized by the achievement of ambitious growth. Ready to enrich your career with impactful work, leaders who truly care, and the flexibility and programs to help you thrive as part of #TeamTMX? Apply now. This role is required to know a language other than French as TMX is an international organization with operations across the globe and its clients, shareholders, competitors, stakeholders, regulators and employees communicate in English. Dans le cadre de ce poste, le titulaire est tenu de connaître aussi une autre langue que le français, étant donné que TMX est une société internationale qui mène ses activités à l’échelle mondiale et que ses clients, ses actionnaires, ses concurrents, ses parties prenantes, les autorités qui la réglementent et son personnel communiquent en anglais. TMX is committed to creating and sustaining a collegial work environment in which all individuals are treated with dignity and respect and one which reflects the diversity of the community in which we operate. We provide accommodations for applicants and employees who require it. Le Groupe TMX s’est engagé à créer et à maintenir un milieu de travail empreint de collaboration au sein duquel chacun est traité avec dignité et respect, et qui reflète la diversité de la collectivité où nous exerçons nos activités. Nous mettons en place des mesures d’adaptation pour les candidats et les employés qui en ont besoin. Our Culture: At TMX, our people power our success. We are a place where talented people never stop learning, innovating and working together to make an impact! Do you want to make an impact? At TMX, we offer you more than a job - we offer you the opportunity to work with, and learn from the most respected industry and thought leaders in the business. We’re always pushing the boundaries, expanding and growing our global presence. We are looking for team players who constantly look for opportunities to make a positive impact on our clients and our business. If you share our vision and are motivated to challenge the status quo - we want to hear from you! Our Business: TMX Group's key subsidiaries operate cash and derivative markets and clearinghouses for multiple asset classes including equities and fixed income. Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange, The Canadian Depository for Securities, Montréal Exchange, Canadian Derivatives Clearing Corporation, Trayport and other TMX Group companies provide listing markets, trading markets, clearing facilities, depository services, technology solutions, data products and other services to the global financial community. TMX Group is headquartered in Toronto and operates offices across North America (Montréal, Calgary, Vancouver and New York), as well as in key international markets including London, Beijing and Singapore. For more information about TMX Group, visit our website at www.tmx.com. Follow TMX Group on Twitter: @TMXGroup",
+      "job_highlights": [
+        {
+          "items": [
+            "Venture outside the ordinary - TMX Careers The TMX group of companies includes leading global exchanges such as the Toronto Stock Exchange, Montreal Exchange, and numerous innovative organizations enhancing capital markets. United as a global team, we’re connecting cross-functionally, traversing industries and geographies, moving opportunity into action, advancing global economic growth, and propelling progress. Through a rich exchange of ideas, meaningful collaboration, and a nimble operating model, we're powering some of the nation's most critical systems, fueling capital formation and innovation, bringing increased opportunity to business visionaries, product ingenuity to consumers, and career exploration to our team. Ready to be part of the action? Why your Career Will Flourish at TMX Are you looking to join an exciting high-tech team that is focused on delivering exceptional products to a global customer base? How would you feel about joining a company whose core culture embraces... change, rewards creativity, and promotes dialogue with employees? At the TMX we attract people who strive to improve themselves and the value we deliver to clients. We make it easy with a genuine focus on personal and professional learning, flexible work options, and a climate of open communication and collaboration. Working at TMX will enhance your career and give you the opportunity to grow. The Web & UI squad is responsible for developing and enhancing various web applications and services. We provide solutions to help our clients manage their trades and allocations activities. As a full stack developer, you will be part of a dynamic group focused on transforming our platforms into industry-leading digital products. You will be tasked with development for both internal and external clients. The successful candidate will thrive in a fast-paced Agile environment, alongside a Product Owner, a Scrum Master, an Architect and developers. Key accountabilities: Take part in the complete process of software development, from technical design to the implementation (build/code/test) of web-based applications. Develop and execute automated unit and integrated tests. Contribute to application improvement and optimization through code reviews, refactoring and architecture changes Work with team members to solve difficult problems including troubleshooting, support issues and bug fixes Follow design patterns, coding standards, and best practices to produce secure, reliable, reusable and scalable code Contribute to process improvements, voicing any concerns and actively contributing to their resolution Facilitate regular meetings and working sessions with development team members and different business units to address ongoing issues that require further understanding or analysis Must haves: University degree in information technology or equivalent Minimum of 3 years experience as a full-stack web developer (front/back-end) using Python, Vue.js / Quasar, C++ object programming or equivalent Able to implement web services with RESTful APIs Able to implement front-end web client applications Strong working knowledge of version control software and processes (Git) and CI/CD Builds Familiarity with software container technologies (Docker, Kubernetes) Experience with Node.js Be focused on automating repetitive tasks Linux operating systems and command line tools Rapid, high-quality decision-making Autonomy and initiative Bilingual in French and English (spoken and written) Nice to haves: Ability to work in an Agile environment Working experience with Nginx web server Kubernetes / container technologies Experience in the business area of derivatives trading and/or clearing Practical knowledge of the Google work environment (G Suite) Cloud deployments In the market for… Excitement - Explore emerging technology and innovation, as well as ventures and digital finance that shape the future of global markets! Experience the movement of the market while grounded in the stability of close to 200 years of success. Connection - With site hubs in some of the world’s most multicultural cities, we leverage our size and structure to create rich connections and belonging while experiencing powerful global impact through our work. Impact - More than a platform, we use our talents to power mission-critical systems that drive global economic advancement, innovation, and growth. As well, our employee-led Team Impact spreads social good via our giving strategy. Wellness - From empathetic leadership to a culture of flexibility and balance, we believe wellness at work creates the maximum yield and a stronger “we”. Plus, with a cloud-first and hybrid workstyle, as well as generous time-off and leaves, we support a life well lived! Growth - From a growth mindset in our work, to expansion in our business, TMX is home to action-takers energized by the achievement of ambitious growth. Ready to enrich your career with impactful work, leaders who truly care, and the flexibility and programs to help you thrive as part of #TeamTMX? Apply now. This role is required to know a language other than French as TMX is an international organization with operations across the globe and its clients, shareholders, competitors, stakeholders, regulators and employees communicate in English. Dans le cadre de ce poste, le titulaire est tenu de connaître aussi une autre langue que le français, étant donné que TMX est une société internationale qui mène ses activités à l’échelle mondiale et que ses clients, ses actionnaires, ses concurrents, ses parties prenantes, les autorités qui la réglementent et son personnel communiquent en anglais. TMX is committed to creating and sustaining a collegial work environment in which all individuals are treated with dignity and respect and one which reflects the diversity of the community in which we operate. We provide accommodations for applicants and employees who require it. Le Groupe TMX s’est engagé à créer et à maintenir un milieu de travail empreint de collaboration au sein duquel chacun est traité avec dignité et respect, et qui reflète la diversité de la collectivité où nous exerçons nos activités. Nous mettons en place des mesures d’adaptation pour les candidats et les employés qui en ont besoin. Our Culture: At TMX, our people power our success. We are a place where talented people never stop learning, innovating and working together to make an impact! Do you want to make an impact? At TMX, we offer you more than a job - we offer you the opportunity to work with, and learn from the most respected industry and thought leaders in the business. We’re always pushing the boundaries, expanding and growing our global presence. We are looking for team players who constantly look for opportunities to make a positive impact on our clients and our business. If you share our vision and are motivated to challenge the status quo - we want to hear from you! Our Business: TMX Group's key subsidiaries operate cash and derivative markets and clearinghouses for multiple asset classes including equities and fixed income. Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange, The Canadian Depository for Securities, Montréal Exchange, Canadian Derivatives Clearing Corporation, Trayport and other TMX Group companies provide listing markets, trading markets, clearing facilities, depository services, technology solutions, data products and other services to the global financial community. TMX Group is headquartered in Toronto and operates offices across North America (Montréal, Calgary, Vancouver and New York), as well as in key international markets including London, Beijing and Singapore. For more information about TMX Group, visit our website at www.tmx.com. Follow TMX Group on Twitter: @TMXGroup"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.m-x.ca/",
+          "text": "m-x.ca"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Bourse+de+Montreal+Inc.&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCLwM",
+          "text": "See web results for Bourse de Montreal Inc."
+        }
+      ],
+      "extensions": [
+        "29 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "29 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiYjlwWmpNWHN3ZWdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVMXJNbXhzU1ZsblRHMWxSM0J2VURCV1kyWk1ibWx6V2t0b1QzbHdSRVJCVUhSRU9XOUVWV2RvWTI1SFNXbFNOek56TVdvNVkyOU5OemhxVEZCclJuSkNVa2wwVTNOWWIxQnVOWGgwVjJKelF6UjVWMUJyUkdoUUxYQlRMVEpwTFZFemVISlBaSGQyVm5aNWJYUlZZMHRIWHpBeGRUSlNObEJDVURSZlJVRkxhVmw0Y1dReE1IbDFTR2Q2WW5rNWNUVlJUbWhuTVZNMFkyMUdYMlpDWm5Sd1JpMTVMV3BMZEVOVFdqVkdiMVpsVFRnek5UUmFZblo1VjNNeFUxSmxkREZPUkhKV01qVkxiSEpHRWhkalJIWnNXa3BIYWt0d2VUZHhkSE5RTFhSNVREUkJSUm9pUVV4RlV6bDFUa0ZDVGtaT1RrZ3lObFJaVUhSSU5qUkdlRVpHTkRWQmF6aG5RUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV29ya2RheSIsImxpbmsiOiJodHRwczovL3RteC53ZDMubXl3b3JrZGF5am9icy5jb20vZW4tVVMvVE1YX0NhcmVlcnMvam9iL01vbnRyZWFsLS0tMTE5MC1hdi1kZXMtQ2FuYWRpZW5zLWRlLU1vbnRyZWFsL0Z1bGwtU3RhY2stRGV2ZWxvcGVyX1ItMzc2Mj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Full Stack Developers (64)",
+      "company_name": "Vantix Systems",
+      "location": "  Edmonton, AB   ",
+      "via": "via Vantix Systems",
+      "description": "The following may be delivered (iteratively) over the course of the project:\n• Participate and contribute to project research and discovery:\n• Contribute to field research and user interviews; and\n• Lead technical discovery and deliver related Artifacts such as diagrams and documentation.\n• Provide solution design and development services related to:\n• Detailed solution designs based on shared understanding from discovery;\n• Completion of features for the continued development of exemplar projects that meet the needs of the product owners and improve the experience of Albertans;\n• Functional and non-functional defect discovery and resolution; and\n• Enhancements to solution code quality, tooling, and documentation for improved maintainability.\n• Collaborate with frontend designers to deliver solutions aligned to a consistent look and feel.\n• Advise and inform product owners on technical efforts and implementation options to facilitate frequent delivery.\n• Support solution deployment... and launch for limited and general availability.\n• Contribute to a platform of user-centric services through:\n• Focus on reuse in solution design and implementation; and\n• Direct contribution to reusable common components and capabilities.\n• Sustain ongoing development through onboarding of technical team members, maintaining technical documentation, adopting and improving team development and quality practices and processes",
+      "job_highlights": [
+        {
+          "items": [
+            "The following may be delivered (iteratively) over the course of the project:\n• Participate and contribute to project research and discovery:\n• Contribute to field research and user interviews; and\n• Lead technical discovery and deliver related Artifacts such as diagrams and documentation.\n• Provide solution design and development services related to:\n• Detailed solution designs based on shared understanding from discovery;\n• Completion of features for the continued development of exemplar projects that meet the needs of the product owners and improve the experience of Albertans;\n• Functional and non-functional defect discovery and resolution; and\n• Enhancements to solution code quality, tooling, and documentation for improved maintainability.\n• Collaborate with frontend designers to deliver solutions aligned to a consistent look and feel.\n• Advise and inform product owners on technical efforts and implementation options to facilitate frequent delivery.\n• Support solution deployment... and launch for limited and general availability.\n• Contribute to a platform of user-centric services through:\n• Focus on reuse in solution design and implementation; and\n• Direct contribution to reusable common components and capabilities.\n• Sustain ongoing development through onboarding of technical team members, maintaining technical documentation, adopting and improving team development and quality practices and processes"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=559229640&gl=ca&hl=en&q=Vantix+Systems&sa=X&ved=0ahUKEwiRm_HxrPGAAxWcnWoFHXruAhwQmJACCOsM",
+          "text": "See web results for Vantix Systems"
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlcnMgKDY0KSIsImh0aWRvY2lkIjoiOVdnZUJVOFdNaFFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFZhbnRpeCBTeXN0ZW1zIiwibGluayI6Imh0dHBzOi8vam9icy52YW50aXhzeXN0ZW1zLmNvbS8xNjQzL2VkYWJmcy0xNjQzLWZ1bGwtc3RhY2stZGV2ZWxvcGVycy02NC8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Stack engineer",
+          "value": "stack engineer"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Freelance",
+          "value": "freelance"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Analyst",
+          "value": "analyst"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Principal engineer",
+          "value": "principal engineer"
+        },
+        {
+          "text": "Rails engineer",
+          "value": "rails engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Edmonton, AB",
+          "value": "I__egEUioFNdFfZKDKAfQQ=="
+        },
+        {
+          "text": "Saskatoon, SK",
+          "value": "K5ntR7_2BFOQJneVMp4EBQ=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Language",
+      "param": "language",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "English Results",
+          "value": "en"
+        },
+        {
+          "text": "French Results",
+          "value": "fr"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Research",
+          "value": "/business/naics2007/5417"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Motion Recruitment",
+          "value": "/g/1dtxtpd9"
+        },
+        {
+          "text": "S.i. Systems",
+          "value": "/g/11fy23lh8q"
+        },
+        {
+          "text": "Applied Systems Canada",
+          "value": "/g/11fy1z_g5g"
+        },
+        {
+          "text": "Fujitsu",
+          "value": "/m/0fyp9"
+        },
+        {
+          "text": "ARC Business Solutions",
+          "value": "/g/11f01jsy19"
+        },
+        {
+          "text": "Affirm",
+          "value": "/g/11fkl4bl9w"
+        },
+        {
+          "text": "Autodesk",
+          "value": "/m/018nm3"
+        },
+        {
+          "text": "CAE",
+          "value": "/m/03ktvb"
+        },
+        {
+          "text": "Cisco Meraki",
+          "value": "/m/02kx2bg"
+        },
+        {
+          "text": "Icomplyico",
+          "value": "/g/11fhql7dm9"
+        },
+        {
+          "text": "Manulife Insurance Malaysia",
+          "value": "/g/11c6qrnsk7"
+        },
+        {
+          "text": "Radio-Canada",
+          "value": "/m/0hm0k"
+        },
+        {
+          "text": "StackAdapt",
+          "value": "/g/11c73jhyqw"
+        },
+        {
+          "text": "3Pillar Global",
+          "value": "/g/11c54dnyc1"
+        },
+        {
+          "text": "AEROTEK",
+          "value": "/m/025t3n6"
+        },
+        {
+          "text": "AON",
+          "value": "/m/0z7n"
+        },
+        {
+          "text": "Absorb Software",
+          "value": "/g/11g9mwb01g"
+        },
+        {
+          "text": "Affinity.co",
+          "value": "/g/11fy2cnpnb"
+        },
+        {
+          "text": "Alteo Inc.",
+          "value": "/g/11svwx3f8l"
+        },
+        {
+          "text": "Andiamo Group",
+          "value": "/g/11h1y9np6p"
+        },
+        {
+          "text": "Areto Labs",
+          "value": "/g/11rw932sjp"
+        },
+        {
+          "text": "Atlassian",
+          "value": "/m/0b3h9w"
+        },
+        {
+          "text": "BDO Canada LLP",
+          "value": "/g/11fy2cbswz"
+        },
+        {
+          "text": "BMO Financial Group",
+          "value": "/g/11bc5xlblr"
+        },
+        {
+          "text": "Basetwo",
+          "value": "/g/11rzfz4ywn"
+        },
+        {
+          "text": "Bourse de Montreal Inc.",
+          "value": "/g/11c73vvjlt"
+        },
+        {
+          "text": "Button Inc.",
+          "value": "/g/11j6wynlc8"
+        },
+        {
+          "text": "CEO🔺CA",
+          "value": "/g/11qg5hl05_"
+        },
+        {
+          "text": "CGI",
+          "value": "/m/07k7yx"
+        },
+        {
+          "text": "Canadian Bank Note Company, Limited",
+          "value": "/m/04nwsm"
+        }
+      ]
+    }
+  ]
+}

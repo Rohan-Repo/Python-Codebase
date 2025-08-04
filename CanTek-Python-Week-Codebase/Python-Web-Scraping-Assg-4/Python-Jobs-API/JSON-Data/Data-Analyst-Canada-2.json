@@ -1,0 +1,727 @@
+{
+  "search_metadata": {
+    "id": "64e2957c8ccee029a8c588a7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f2bc7962bfd64950/64e2957c8ccee029a8c588a7.json",
+    "created_at": "2023-08-20 22:36:44 UTC",
+    "processed_at": "2023-08-20 22:36:44 UTC",
+    "google_jobs_url": "https://www.google.ca/search?q=Data+Analyst&ibp=htl;jobs&uule=w+CAIQICIGQ2FuYWRh&hl=en&gl=ca",
+    "raw_html_file": "https://serpapi.com/searches/f2bc7962bfd64950/64e2957c8ccee029a8c588a7.html",
+    "total_time_taken": 1.71
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Canada",
+    "location_used": "Canada",
+    "google_domain": "google.ca",
+    "hl": "en",
+    "gl": "ca"
+  },
+  "jobs_results": [
+    {
+      "title": "Data Analyst",
+      "company_name": "Applicantz",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "• Remote Work*\n\nOur large, Fortune Technology client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader.\n\nLooking for a Data Analyst who will drive operations and campaign decisions by delivering insights on user behavior, product adoption and conversion rates, as well as insights used to shape digital campaigns and new strategies.\n\nResponsibilities:\n• You have a growth mindset. You will identify business challenges and opportunities for improvement and solve for them using data analysis and data mining to make strategic or tactical recommendations.\n• You will support analytics and provide critical insights around product usage... campaign performance, funnel metrics, segmentation, conversion, and revenue growth.\n• You will build ad-hoc analysis, long-term projects, reports and dashboards to find new insights and to measure progress in key initiatives.\n• You will work closely with business stakeholders to understand and maintain focus on their analytical needs, including identifying critical metrics and KPIs.\n• You will partner with different teams within the organization to understand business needs and requirements.\n• You will deliver presentations that will distill complex problems into clear insights.\n\nQualifications:\n• Bachelor’s degree or higher in a quantitative field\n• 3+ years of experience in data analysis role\n• 3+ years of experience in Python, SQL, and visualization tool like Looker/PowerBI\n• A proven track record of decision making and problem solving based on analytics.\n• Conceptual thinking skills must be complemented by a strong quantitative orientation.\n• Strong business judgment, leadership, and integrity. You should be a tenacious decision maker, able to bring a healthy, aggressive, yet responsible approach to business.\n• Excellent written and oral communication skills, coupled with strategic influencing skills and the ability to drive agreement through intellect, interpersonal and negotiation.\n• Self-starter and adaptable. You’re energized and thrive in a fast-paced environment.\n• Solid understanding of databases and proficient in writing SQL in systems like Hive, Snowflake and Presto.\n• Strong skills in BI tools and Excel. Knowledge of PowerBI a plus\n\nBonus Points:\n• Skilled in using data mining techniques, including supervised and unsupervised learning.\n• Experienced in coding and debugging data issues with Spark/PySpark\n• Familiar with Airflow for workflow management\n• Able to collaborate effectively within a cross-functional, matrix environment",
+      "job_highlights": [
+        {
+          "items": [
+            "• Remote Work*\n\nOur large, Fortune Technology client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader.\n\nLooking for a Data Analyst who will drive operations and campaign decisions by delivering insights on user behavior, product adoption and conversion rates, as well as insights used to shape digital campaigns and new strategies.\n\nResponsibilities:\n• You have a growth mindset. You will identify business challenges and opportunities for improvement and solve for them using data analysis and data mining to make strategic or tactical recommendations.\n• You will support analytics and provide critical insights around product usage... campaign performance, funnel metrics, segmentation, conversion, and revenue growth.\n• You will build ad-hoc analysis, long-term projects, reports and dashboards to find new insights and to measure progress in key initiatives.\n• You will work closely with business stakeholders to understand and maintain focus on their analytical needs, including identifying critical metrics and KPIs.\n• You will partner with different teams within the organization to understand business needs and requirements.\n• You will deliver presentations that will distill complex problems into clear insights.\n\nQualifications:\n• Bachelor’s degree or higher in a quantitative field\n• 3+ years of experience in data analysis role\n• 3+ years of experience in Python, SQL, and visualization tool like Looker/PowerBI\n• A proven track record of decision making and problem solving based on analytics.\n• Conceptual thinking skills must be complemented by a strong quantitative orientation.\n• Strong business judgment, leadership, and integrity. You should be a tenacious decision maker, able to bring a healthy, aggressive, yet responsible approach to business.\n• Excellent written and oral communication skills, coupled with strategic influencing skills and the ability to drive agreement through intellect, interpersonal and negotiation.\n• Self-starter and adaptable. You’re energized and thrive in a fast-paced environment.\n• Solid understanding of databases and proficient in writing SQL in systems like Hive, Snowflake and Presto.\n• Strong skills in BI tools and Excel. Knowledge of PowerBI a plus\n\nBonus Points:\n• Skilled in using data mining techniques, including supervised and unsupervised learning.\n• Experienced in coding and debugging data issues with Spark/PySpark\n• Familiar with Airflow for workflow management\n• Able to collaborate effectively within a cross-functional, matrix environment"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Applicantz&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCJYI",
+          "text": "See web results for Applicantz"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZIPZijnwC9DSFVR295F5fqEy9jAaRTvYz5RdB14&s",
+      "extensions": [
+        "1 day ago",
+        "$40 an hour",
+        "Contractor"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Contractor"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InA4WHo5dmxMSHZNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL2NhLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZGF0YS1hbmFseXN0LWF0LWFwcGxpY2FudHotMzY5OTE4NjgxOD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company_name": "UBC The University of British Columbia",
+      "location": "  Canada   ",
+      "via": "via Workday",
+      "description": "Staff - Non Union Job Category M&P - AAPS Job Profile AAPS Salaried - Institutional Analysis, Level C Job Title Senior Data Analyst Department Senior Managers | Finance and IT | UBC Sauder School of Business Compensation Range $6,677.33 - $10,433.50 CAD Monthly The Compensation Range is the span between the minimum and maximum base salary for a position. The midpoint of the range is approximately halfway between the minimum and the maximum and represents an employee that possesses full job knowledge, qualifications and experience for the position. In the normal course, employees will be hired, transferred or promoted between the minimum and midpoint of the salary range for a job. Posting End Date August 28, 2023 Note: Applications will be accepted until 11:59 PM on the day prior to the Posting End Date above. Job End Date At UBC, we believe that attracting and sustaining a diverse workforce is key to the successful pursuit of excellence in research, innovation, and learning for all... faculty, staff and students. Our commitment to employment equity helps achieve inclusion and fairness, brings rich diversity to UBC as a workplace, and creates the necessary conditions for a rewarding career. Job Summary UBC Sauder School of Business is one of the world’s leading business faculties. The school consistently ranks among the top 100 in the world and is recognized internationally for excellence in research and learning, an outstanding faculty and unmatched global partnerships. A collaborative and respectful culture within which all members of our community can thrive is a key principle in our strategic plan, and one that underpins our educational mission. We acknowledge that UBC Sauder at the Vancouver Campus is situated within the traditional, ancestral and unceded territory of the Musqueam. We acknowledge that UBC Sauder at the UBC Robson Square is situated on the traditional territory of the Musqueam, Squamish and Tsleil-Waututh. The Senior Data Analyst is working with a multitude of stakeholders in identifying, planning and implementing data projects to explore, analyze and interpret data sets relevant to teaching and learning at UBC Sauder. The Senior Data Analyst stays abreast of current developments in learning analytics, data analytics and institutional analysis, and identifies key research and evaluation needs to guide strategic planning and decision-making at the UBC Sauder and the University. The Senior Data Analyst undertakes the ongoing analysis of and reporting of UBC Sauder teaching and learning data to the dean, senior associate deans, division chairs, program offices, and faculty members. Findings from data analysis and the presentation of results in regular reports contribute to departmental decision-making regarding re-appointment and promotion/tenure of teaching staff, departmental decision-making regarding curriculum planning and course offerings, departmental external review processes, and a range of ongoing initiatives to further advance teaching, learning, and quality assurance in the UBC Sauder School of Business. The Senior Data Analyst spans a number of analytic areas: data management, data mining, statistical analysis, visual analysis, network analysis, temporal data analysis and/or text analysis. Organizational Status Report to the Assistant Dean, Finance and Information Technology. Works closely with UBC Sauder leadership team, program offices and business units. Collaborates with other members of the Assurance of Learning portfolio and other UBC Sauder units and teams. Works in collaboration with academic faculty and instructors, instructional support staff, course designers, learning technologists, researchers and database developers. Work Performed - Leads consultations with a multitude of stakeholders across UBC Sauder to identify their informational needs and makes recommendations on the type of data that could be used to support metrics/key performance indicators (KPIs). - Provides advise and recommendations on the planning, design, development, implementation and analysis of data collection and analysis plans to evaluate the effectiveness of UBC Sauder programs, including student learning outcomes and curriculum development. - Analyzes and interprets data and provides regular reports to stakeholders on student learning and/or effectiveness of teaching and/or the curriculum or program. - Works collaboratively with faculty members and instructional designers to develop and implement data-driven instructional strategies and interventions. - Provides options and recommendations for the strategic direction of the UBC Sauder School of Business in the areas of data analytics and institutional analysis. - Develops metrics/KPIs for the purposes of measuring performance of strategic plans and supporting evidence-based decision making at UBC Sauder. - Manages large and complex research analytics projects, developing business cases, creating project plans and status reports, managing scope, timelines, deliverables and communications. - Responsible for managing and directing the day-to-day reporting for departmental reviews, quality assurance of courses and custom data analyses as required. - Collaborates with the UBC Sauder IT team to maintain and improve data warehousing solutions. - Collaborates with other academic and service units across campus on various projects. - Designs methodologies to address analytics needs. - Designs programs to produce written and/or visual reports for internal stakeholders. - Investigates data access and analytics affordances of various learning technologies. - Develops tools that translate data into knowledge through user friendly applications and tools and therefore empowers decision-makers and managers to make informed decisions for their operational areas. - Develops and maintains self-served interactive reports and dashboards to monitor and publish metrics to inform progress against strategic goals. - Develops and implements communications plans to present data findings to stakeholders. Writes evaluation reports, recommendations and summaries for use by senior leadership and decision-makers. - Leverages contextual and institutional knowledge to interpret findings. Applies analytical methods including visual analytics, descriptive and predictive statistical methods, machine learning, and data mining. - Documents relevant business and technical details related to analytics outputs and uses in-house project management tools to track and report on progress. - Supports the development and maintenance of scripts and processes that make use of the learning ecosystem’s available APIs and other data streams to support the operational and/or reporting needs of the Learning Service’s Operations and Media teams. - Remains current on existing UBC Sauder data sources, and ensures integrity, quality, security, and a high degree of usability for data used in analysis and resulting output. - Represents UBC Sauder on campus committees as required. - Provides coverage to other members of the portfolio. - Performs other duties as required. Consequence of Error/Judgement Must be able to work independently and assume full responsibility for their decisions. Results are reviewed for achievement of overall long-term goals. The results of data analysis, reports and research are used in decision-making and evaluation of course and program effectiveness. Hence, errors in design, interpretation, or analysis of research could have far-reaching consequences: impacting employment decisions made across the faculty, or misdirecting departmental or faculty planning processes that rely on accurate data. Data sets contain sensitive personal and confidential information whose security and privacy are mandated by FIPPA and UBC Policy. Failure to ensure the security and privacy of such data would contravene BC and federal laws. Supervision Received Works independently under the direction of the Assistant Dean, Finance and Information Technology. Work is reviewed in terms of achievement of high professional standards in the delivery of data and analytics services and broad project objectives and goals. Supervision Given Takes on a leadership role as required in directing ad hoc projects and recommending solutions to ensure optimal reporting and quality of data analysis. Minimum Qualifications Post-graduate degree in a relevant discipline. Minimum of six years of related experience, or the equivalent combination of education and experience. Willingness to respect diverse perspectives, including perspectives in conflict with one’s own. Demonstrates a commitment to enhancing one’s own awareness, knowledge, and skills related to equity, diversity, and inclusion. Preferred Qualifications Strong background in analytics with a data quality-driven approach to performing accurate and complex analyses. Knowledge of a wide range of analytics concepts that include statistical modelling, predictive analytics, visual analytics, data mining, and machine learning. Experience with learning analytics would be an asset. The ability to access, analyze, and convert data into strategic information is a critical skill. Demonstrated proficiency with Tableau or similar data visualization tools. Demonstrated proficiency with mainstream statistical analysis applications (R/STATA/SPSS). Familiarity with Python or other scripting languages to perform data cleaning, manipulation, and analysis is preferred. Familiarity with the context and goals of higher education, knowledge of University policies and procedures, and a thorough understanding of the principles and practice of Institutional Research would be valuable. Working knowledge of relational databases, including the ability to write SQL queries to extract and transform data. Familiarity with privacy compliance and data protection practices. Strong abilities to summarize, communicate and present findings to non-technical audiences. Demonstrated ability to undertake data project design, implementation, and management. Excellent communication skills and the ability to foster and maintain productive relationships with multiple stakeholders. Ability to perform well under pressure and a high level of organizational and time management skills. Flexibility, a high level of motivation and demonstrated ability to work well independently and in a team-oriented environment, with minimal supervision. Demonstrated commitment to learning and professional development. Enthusiastic about contributing to the learning environment of the University. The University of British Columbia is a global centre for research and teaching, consistently ranked among the top 20 public universities globally. A large part of what makes us unique is the community of engaged students, faculty, and staff who are collectively committed to shaping a better world. Recognized as a leading employer in British Columbia and Canada, UBC supports inspired students, faculty and staff on their journey of discovery, and challenges them to realize their greatest potential. New ideas, changing infrastructure, innovative technology, and fresh approaches are opening up possibilities for the future of research, teaching, and work. Are you ready to embrace the future together? Equity and diversity are essential to academic excellence. An open and diverse community fosters the inclusion of voices that have been underrepresented or discouraged. We encourage applications from members of groups that have been marginalized on any grounds enumerated under the B.C. Human Rights Code, including sex, sexual orientation, gender identity or expression, racialization, disability, political belief, religion, marital or family status, age, and/or status as a First Nation, Metis, Inuit, and/or Indigenous person. All qualified candidates are encouraged to apply; however Canadians and permanent residents will be given priority",
+      "job_highlights": [
+        {
+          "items": [
+            "Staff - Non Union Job Category M&P - AAPS Job Profile AAPS Salaried - Institutional Analysis, Level C Job Title Senior Data Analyst Department Senior Managers | Finance and IT | UBC Sauder School of Business Compensation Range $6,677.33 - $10,433.50 CAD Monthly The Compensation Range is the span between the minimum and maximum base salary for a position. The midpoint of the range is approximately halfway between the minimum and the maximum and represents an employee that possesses full job knowledge, qualifications and experience for the position. In the normal course, employees will be hired, transferred or promoted between the minimum and midpoint of the salary range for a job. Posting End Date August 28, 2023 Note: Applications will be accepted until 11:59 PM on the day prior to the Posting End Date above. Job End Date At UBC, we believe that attracting and sustaining a diverse workforce is key to the successful pursuit of excellence in research, innovation, and learning for all... faculty, staff and students. Our commitment to employment equity helps achieve inclusion and fairness, brings rich diversity to UBC as a workplace, and creates the necessary conditions for a rewarding career. Job Summary UBC Sauder School of Business is one of the world’s leading business faculties. The school consistently ranks among the top 100 in the world and is recognized internationally for excellence in research and learning, an outstanding faculty and unmatched global partnerships. A collaborative and respectful culture within which all members of our community can thrive is a key principle in our strategic plan, and one that underpins our educational mission. We acknowledge that UBC Sauder at the Vancouver Campus is situated within the traditional, ancestral and unceded territory of the Musqueam. We acknowledge that UBC Sauder at the UBC Robson Square is situated on the traditional territory of the Musqueam, Squamish and Tsleil-Waututh. The Senior Data Analyst is working with a multitude of stakeholders in identifying, planning and implementing data projects to explore, analyze and interpret data sets relevant to teaching and learning at UBC Sauder. The Senior Data Analyst stays abreast of current developments in learning analytics, data analytics and institutional analysis, and identifies key research and evaluation needs to guide strategic planning and decision-making at the UBC Sauder and the University. The Senior Data Analyst undertakes the ongoing analysis of and reporting of UBC Sauder teaching and learning data to the dean, senior associate deans, division chairs, program offices, and faculty members. Findings from data analysis and the presentation of results in regular reports contribute to departmental decision-making regarding re-appointment and promotion/tenure of teaching staff, departmental decision-making regarding curriculum planning and course offerings, departmental external review processes, and a range of ongoing initiatives to further advance teaching, learning, and quality assurance in the UBC Sauder School of Business. The Senior Data Analyst spans a number of analytic areas: data management, data mining, statistical analysis, visual analysis, network analysis, temporal data analysis and/or text analysis. Organizational Status Report to the Assistant Dean, Finance and Information Technology. Works closely with UBC Sauder leadership team, program offices and business units. Collaborates with other members of the Assurance of Learning portfolio and other UBC Sauder units and teams. Works in collaboration with academic faculty and instructors, instructional support staff, course designers, learning technologists, researchers and database developers. Work Performed - Leads consultations with a multitude of stakeholders across UBC Sauder to identify their informational needs and makes recommendations on the type of data that could be used to support metrics/key performance indicators (KPIs). - Provides advise and recommendations on the planning, design, development, implementation and analysis of data collection and analysis plans to evaluate the effectiveness of UBC Sauder programs, including student learning outcomes and curriculum development. - Analyzes and interprets data and provides regular reports to stakeholders on student learning and/or effectiveness of teaching and/or the curriculum or program. - Works collaboratively with faculty members and instructional designers to develop and implement data-driven instructional strategies and interventions. - Provides options and recommendations for the strategic direction of the UBC Sauder School of Business in the areas of data analytics and institutional analysis. - Develops metrics/KPIs for the purposes of measuring performance of strategic plans and supporting evidence-based decision making at UBC Sauder. - Manages large and complex research analytics projects, developing business cases, creating project plans and status reports, managing scope, timelines, deliverables and communications. - Responsible for managing and directing the day-to-day reporting for departmental reviews, quality assurance of courses and custom data analyses as required. - Collaborates with the UBC Sauder IT team to maintain and improve data warehousing solutions. - Collaborates with other academic and service units across campus on various projects. - Designs methodologies to address analytics needs. - Designs programs to produce written and/or visual reports for internal stakeholders. - Investigates data access and analytics affordances of various learning technologies. - Develops tools that translate data into knowledge through user friendly applications and tools and therefore empowers decision-makers and managers to make informed decisions for their operational areas. - Develops and maintains self-served interactive reports and dashboards to monitor and publish metrics to inform progress against strategic goals. - Develops and implements communications plans to present data findings to stakeholders. Writes evaluation reports, recommendations and summaries for use by senior leadership and decision-makers. - Leverages contextual and institutional knowledge to interpret findings. Applies analytical methods including visual analytics, descriptive and predictive statistical methods, machine learning, and data mining. - Documents relevant business and technical details related to analytics outputs and uses in-house project management tools to track and report on progress. - Supports the development and maintenance of scripts and processes that make use of the learning ecosystem’s available APIs and other data streams to support the operational and/or reporting needs of the Learning Service’s Operations and Media teams. - Remains current on existing UBC Sauder data sources, and ensures integrity, quality, security, and a high degree of usability for data used in analysis and resulting output. - Represents UBC Sauder on campus committees as required. - Provides coverage to other members of the portfolio. - Performs other duties as required. Consequence of Error/Judgement Must be able to work independently and assume full responsibility for their decisions. Results are reviewed for achievement of overall long-term goals. The results of data analysis, reports and research are used in decision-making and evaluation of course and program effectiveness. Hence, errors in design, interpretation, or analysis of research could have far-reaching consequences: impacting employment decisions made across the faculty, or misdirecting departmental or faculty planning processes that rely on accurate data. Data sets contain sensitive personal and confidential information whose security and privacy are mandated by FIPPA and UBC Policy. Failure to ensure the security and privacy of such data would contravene BC and federal laws. Supervision Received Works independently under the direction of the Assistant Dean, Finance and Information Technology. Work is reviewed in terms of achievement of high professional standards in the delivery of data and analytics services and broad project objectives and goals. Supervision Given Takes on a leadership role as required in directing ad hoc projects and recommending solutions to ensure optimal reporting and quality of data analysis. Minimum Qualifications Post-graduate degree in a relevant discipline. Minimum of six years of related experience, or the equivalent combination of education and experience. Willingness to respect diverse perspectives, including perspectives in conflict with one’s own. Demonstrates a commitment to enhancing one’s own awareness, knowledge, and skills related to equity, diversity, and inclusion. Preferred Qualifications Strong background in analytics with a data quality-driven approach to performing accurate and complex analyses. Knowledge of a wide range of analytics concepts that include statistical modelling, predictive analytics, visual analytics, data mining, and machine learning. Experience with learning analytics would be an asset. The ability to access, analyze, and convert data into strategic information is a critical skill. Demonstrated proficiency with Tableau or similar data visualization tools. Demonstrated proficiency with mainstream statistical analysis applications (R/STATA/SPSS). Familiarity with Python or other scripting languages to perform data cleaning, manipulation, and analysis is preferred. Familiarity with the context and goals of higher education, knowledge of University policies and procedures, and a thorough understanding of the principles and practice of Institutional Research would be valuable. Working knowledge of relational databases, including the ability to write SQL queries to extract and transform data. Familiarity with privacy compliance and data protection practices. Strong abilities to summarize, communicate and present findings to non-technical audiences. Demonstrated ability to undertake data project design, implementation, and management. Excellent communication skills and the ability to foster and maintain productive relationships with multiple stakeholders. Ability to perform well under pressure and a high level of organizational and time management skills. Flexibility, a high level of motivation and demonstrated ability to work well independently and in a team-oriented environment, with minimal supervision. Demonstrated commitment to learning and professional development. Enthusiastic about contributing to the learning environment of the University. The University of British Columbia is a global centre for research and teaching, consistently ranked among the top 20 public universities globally. A large part of what makes us unique is the community of engaged students, faculty, and staff who are collectively committed to shaping a better world. Recognized as a leading employer in British Columbia and Canada, UBC supports inspired students, faculty and staff on their journey of discovery, and challenges them to realize their greatest potential. New ideas, changing infrastructure, innovative technology, and fresh approaches are opening up possibilities for the future of research, teaching, and work. Are you ready to embrace the future together? Equity and diversity are essential to academic excellence. An open and diverse community fosters the inclusion of voices that have been underrepresented or discouraged. We encourage applications from members of groups that have been marginalized on any grounds enumerated under the B.C. Human Rights Code, including sex, sexual orientation, gender identity or expression, racialization, disability, political belief, religion, marital or family status, age, and/or status as a First Nation, Metis, Inuit, and/or Indigenous person. All qualified candidates are encouraged to apply; however Canadians and permanent residents will be given priority"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.ubc.ca/",
+          "text": "ubc.ca"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=UBC+The+University+of+British+Columbia&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCMkI",
+          "text": "See web results for UBC The University of British Columbia"
+        }
+      ],
+      "extensions": [
+        "7 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "7 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJoS0J3WG52Z0FfOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJmYyI6IkVxRUNDdUlCUVUxck1teHNTVzFoT1c1c2MwVjVZbVpaTkVsZmNWVTVkbU5rVjNaaVpYVmhSa2h0YWxWdldGaHNkekUyVmt0SlZIUlZlRTl5WkVoQmJsWlFWRWx0VVdKb09IUnpXRXB2WTJVM01sVnVObloyU25NeGNXcHhNbkJGY0ZSRlNrWlViUzFFTWtwVk1VZDZNME5LU1RCS0xXOWxlbWwzZDNjNGF6ZEpjRFZvZDA1bFF5MUZNUzFtZGpJM05GcEdRelJXWWpWYVgwZFVVbVZZZVdGbldVTm5aV3RpUjFGWmFrOVJjRzl4ZUhWS2JWRlJVMk5EUVZaeGNHdzVla3A0TjNGZlJHaFVXWFJQWmtoUlJEWTFRbkZwZFZWNGRFbG1RVkJYTWw5SFlVcEllWFpGVVJJV1pscFlhVnBNTFhOSWRHVjFjSFJSVUdwWmVXMWhRUm9pUVV4RlV6bDFVR1ZaUVRoTFMwSTBXSFZDZUVSaFJtSkhOMVpMUldGUlNFcEdVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV29ya2RheSIsImxpbmsiOiJodHRwczovL3ViYy53ZDEwLm15d29ya2RheWpvYnMuY29tL2VuLVVTL3ViY3N0YWZmam9icy9qb2IvU2VuaW9yLURhdGEtQW5hbHlzdF9KUjE0MTE0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Peroptyx",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "We are hiring Remote Data Analysts in Canada!\n\nAt Peroptyx, we are looking for Data Analysts who will review mapping data for digital mapping applications.\n\nYour research capabilities will validate and ensure that the navigation of certain routes are accurate and safe. As part of this role you will verify that business names and opening hours are correct. You will check that the distance from a starting point to an end destination is listed accurately resulting in better user experiences.\n\nWith this job you can plan your days around this highly flexible working schedule, work weekends or late evenings, all from the comfort of your own office. The flexibility of our roles minimizes the impact on your daily routine.\n\nSo, whether you are a student looking to earn as you learn, a retiree looking for a new challenge a part-time/full time professional or a work from home parent, Peroptyx has the right role for you!\n\nIdeal Candidate\n• Fluent in English.\n• Excellent research skills.\n•... Excellent local knowledge of your home country.\n• Good understanding and general knowledge of the geography and culture of Canada.\n• Analytical mindset.\n\nJob Requirements\n• You must be living in the Canada for a minimum of 5 consecutive years so that you are familiar with your local geography.\n• Must pass an online open-book exam that can verify your full understanding of the material and concepts.\n• Must be willing to work a minimum of 10 hours and up to 20 hours per week depending on task availability.\n• Good working knowledge of search engines, map applications and familiarity with social media platforms.\n• Strong ability to learn, understand and apply multiple sets of different instructions.\n• All work must be of an independent nature.\n\nTechnical requirements to perform the work\n• Access to a laptop or computer which uses:\n• A log on account unique to you\n• Anti-virus solution that is kept up to date, with regular scans performed\n• Only one member per household may apply\n\nNB. All products should be provided at your own expense.\n\nBenefits\n\n· Work up to 20 hours per week.\n\n· Earn a competitive rate of pay.\n\n· Develop your research skills.\n\n· Avoid the long commute.\n\n· Work from the comfort of your home office.\n\n· Enjoy the flexibility of setting your own working hours!\n\nApply Online Today!\n• This is a freelance, independent contractor position",
+      "job_highlights": [
+        {
+          "items": [
+            "We are hiring Remote Data Analysts in Canada!\n\nAt Peroptyx, we are looking for Data Analysts who will review mapping data for digital mapping applications.\n\nYour research capabilities will validate and ensure that the navigation of certain routes are accurate and safe. As part of this role you will verify that business names and opening hours are correct. You will check that the distance from a starting point to an end destination is listed accurately resulting in better user experiences.\n\nWith this job you can plan your days around this highly flexible working schedule, work weekends or late evenings, all from the comfort of your own office. The flexibility of our roles minimizes the impact on your daily routine.\n\nSo, whether you are a student looking to earn as you learn, a retiree looking for a new challenge a part-time/full time professional or a work from home parent, Peroptyx has the right role for you!\n\nIdeal Candidate\n• Fluent in English.\n• Excellent research skills.\n•... Excellent local knowledge of your home country.\n• Good understanding and general knowledge of the geography and culture of Canada.\n• Analytical mindset.\n\nJob Requirements\n• You must be living in the Canada for a minimum of 5 consecutive years so that you are familiar with your local geography.\n• Must pass an online open-book exam that can verify your full understanding of the material and concepts.\n• Must be willing to work a minimum of 10 hours and up to 20 hours per week depending on task availability.\n• Good working knowledge of search engines, map applications and familiarity with social media platforms.\n• Strong ability to learn, understand and apply multiple sets of different instructions.\n• All work must be of an independent nature.\n\nTechnical requirements to perform the work\n• Access to a laptop or computer which uses:\n• A log on account unique to you\n• Anti-virus solution that is kept up to date, with regular scans performed\n• Only one member per household may apply\n\nNB. All products should be provided at your own expense.\n\nBenefits\n\n· Work up to 20 hours per week.\n\n· Earn a competitive rate of pay.\n\n· Develop your research skills.\n\n· Avoid the long commute.\n\n· Work from the comfort of your home office.\n\n· Enjoy the flexibility of setting your own working hours!\n\nApply Online Today!\n• This is a freelance, independent contractor position"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.peroptyx.com/",
+          "text": "peroptyx.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Peroptyx&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCPsI",
+          "text": "See web results for Peroptyx"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZo3znAMmrSEND6INPoofeA4y8dcnG317iXYH8Lo&s",
+      "extensions": [
+        "2 days ago",
+        "Part-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Part-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlhWdkEzSWRQX0NnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXVFQkNxSUJRVTFyTW14c1NXUllNR013VGxoMVR6bHBjMk5EUkVKa1pVVTBSRE5HV1dObVNXRnNiMlF4UjNZMmRITktkVzFETkhaVk4xazFiSGRVYURsR2EwWlVOV1JUYldRNU1XcHFiMEZzZGxwVmVsbElSeTB0VlRkaGVsTTNjVWxRUXpWWFgwRTVZa0ZXVGtoWWVUWmpVMWRKUm5ReWFFeFlVRzAzT1ZSR1pXdFBhVEZaWDFveE0wWktWalJqUVROQ01GRkVTM1ZIZG5rMlJ6bE1VVWhSWVZJd1gzSlJFaFptV2xocFdrd3RjMGgwWlhWd2RGRlFhbGw1YldGQkdpSkJURVZUT1hWT1EzbHRTak5ZV210S2JWODFkakZ2V0ZaQllrRlBOVmREWVRoQiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtYW5hbHlzdC1hdC1wZXJvcHR5eC0zNjk3OTMwMTA2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Clinical Data Analyst II",
+      "company_name": "Premier Research",
+      "location": "  Canada   ",
+      "via": "via Monster.ca",
+      "description": "Premier Research is looking for a Clinical Data Analyst II to join our Clinical Informatics team. You will help biotech, medtech, and specialty pharma companies transform life-changing ideas and breakthrough science into new medicines, devices, and diagnostics. What we do is profoundly connected to saving and improving lives, and we recognize our team members are the most valuable asset in delivering success.\n• We are Built for You. We are here to help you grow, to give you the skills and opportunities to excel at work with the flexibility and balance your life requires.\n• We are Built by You. Your ideas influence the way we work, and your voice matters here.\n• We are Built with You. As an essential part of our team, you help us deliver medical innovation that patients are desperate for.\n\nTogether, we are Built for BiotechSM. Join us and build your future here.\n\n​What You'll Be Doing:\n• As a Subject Matter Expert, Clinical Data Analyst II conducts ongoing reviews of clinical trial... data using various technologies, analytic and visualization tools to monitor the quality of data, patient safety and relevant risks as per the Risk Assessment for the study. This may include review via data listings, study specific eCRF and aggregated data through e-Premier tools.\n• Responsible for monitoring site performance, data trending related to quality and site performance and escalation to the appropriate functional team lead through the regular use of e-Premier data visualization tools.\n• As an expert, utilize their previous broader clinical research experience and provide guidance to study team input to the development and update of the Risk Log for assigned projects.\n• Anticipate potential issues and resolve through potential action plans and documents corrective actions; provide direction to team members on complex study issues resolution.\n• Provide direction to site monitors along with the Clinical Lead, for additional remote and on-site monitoring activities for sites at risk, within the scope of the trial monitoring and clinical management plans.\n• Develops Risk Analytics Monitoring Plan for assigned studies · Participate in the development of study specific analytics.\nWhat We Are Searching For:\n• Bachelors in the biological sciences, computer sciences, mathematics, or data sciences and/or related disciplines in the health care domain. Masters preferred\n• 2-5 years Relevant experience in clinical research or related fields (Site-Operations, Monitoring On-site/Remote, Data Management, Hospital settings), global study experience, preferred.\n• Ability to use analytical tools to extracting knowledge and insight from data (data mining)\n• In-depth knowledge of ICH/GCP regulations FDA Guidance Documents, EU Directives\n• In-depth knowledge of clinical monitoring procedures\n\nWhy Choose Premier Research?  \n• Premier Research is more than a company – it’s a community of people that truly care about one another, about our clients, and about our mission of furthering research to improve the lives of patients in critical need. \n• Our cultural anchors – Caring & Empathy, Empowerment, Aspiration, One Team – mirror the flexibility and trust that our team embodies. As a Premier team member, you have the power to make an impact, regardless of job title and location.\n• Our dedication to biotech and specialty pharma is unlike any other. We provide our staff with innovative technologies and continuous learning opportunities so that they have the tools they need to be successful.\n\nBecause we are transforming life-changing ideas into new medical treatments for a diverse population, we require the perspectives of a diverse staff thinking creatively, challenging ideas, and solving complex problems fearlessly. Through a commitment to diversity, equity, inclusion, and empowerment, we create a community of belonging that welcomes differences, fuels innovation, and better connects us to the patients, physicians, and customers we serve.\n\nWe hire people that add to our culture, then invest in developing skills and abilities. If you are excited about this role, but your past experiences do not perfectly align with the position as described, we encourage you to apply anyway. You may be exactly the right candidate for this role or others.\n\nPremier Research is proud to be an equal opportunity employer that is compliant with all federal guidelines. All qualified applicants will receive equitable consideration without regard to race, color, religion, sexual orientation, gender identity, national origin, disability or veteran status.\n\n#REMOTE\n#LI-SC1\n\nAbout the Company:\nPremier Research",
+      "job_highlights": [
+        {
+          "items": [
+            "Premier Research is looking for a Clinical Data Analyst II to join our Clinical Informatics team. You will help biotech, medtech, and specialty pharma companies transform life-changing ideas and breakthrough science into new medicines, devices, and diagnostics. What we do is profoundly connected to saving and improving lives, and we recognize our team members are the most valuable asset in delivering success.\n• We are Built for You. We are here to help you grow, to give you the skills and opportunities to excel at work with the flexibility and balance your life requires.\n• We are Built by You. Your ideas influence the way we work, and your voice matters here.\n• We are Built with You. As an essential part of our team, you help us deliver medical innovation that patients are desperate for.\n\nTogether, we are Built for BiotechSM. Join us and build your future here.\n\n​What You'll Be Doing:\n• As a Subject Matter Expert, Clinical Data Analyst II conducts ongoing reviews of clinical trial... data using various technologies, analytic and visualization tools to monitor the quality of data, patient safety and relevant risks as per the Risk Assessment for the study. This may include review via data listings, study specific eCRF and aggregated data through e-Premier tools.\n• Responsible for monitoring site performance, data trending related to quality and site performance and escalation to the appropriate functional team lead through the regular use of e-Premier data visualization tools.\n• As an expert, utilize their previous broader clinical research experience and provide guidance to study team input to the development and update of the Risk Log for assigned projects.\n• Anticipate potential issues and resolve through potential action plans and documents corrective actions; provide direction to team members on complex study issues resolution.\n• Provide direction to site monitors along with the Clinical Lead, for additional remote and on-site monitoring activities for sites at risk, within the scope of the trial monitoring and clinical management plans.\n• Develops Risk Analytics Monitoring Plan for assigned studies · Participate in the development of study specific analytics.\nWhat We Are Searching For:\n• Bachelors in the biological sciences, computer sciences, mathematics, or data sciences and/or related disciplines in the health care domain. Masters preferred\n• 2-5 years Relevant experience in clinical research or related fields (Site-Operations, Monitoring On-site/Remote, Data Management, Hospital settings), global study experience, preferred.\n• Ability to use analytical tools to extracting knowledge and insight from data (data mining)\n• In-depth knowledge of ICH/GCP regulations FDA Guidance Documents, EU Directives\n• In-depth knowledge of clinical monitoring procedures\n\nWhy Choose Premier Research?  \n• Premier Research is more than a company – it’s a community of people that truly care about one another, about our clients, and about our mission of furthering research to improve the lives of patients in critical need. \n• Our cultural anchors – Caring & Empathy, Empowerment, Aspiration, One Team – mirror the flexibility and trust that our team embodies. As a Premier team member, you have the power to make an impact, regardless of job title and location.\n• Our dedication to biotech and specialty pharma is unlike any other. We provide our staff with innovative technologies and continuous learning opportunities so that they have the tools they need to be successful.\n\nBecause we are transforming life-changing ideas into new medical treatments for a diverse population, we require the perspectives of a diverse staff thinking creatively, challenging ideas, and solving complex problems fearlessly. Through a commitment to diversity, equity, inclusion, and empowerment, we create a community of belonging that welcomes differences, fuels innovation, and better connects us to the patients, physicians, and customers we serve.\n\nWe hire people that add to our culture, then invest in developing skills and abilities. If you are excited about this role, but your past experiences do not perfectly align with the position as described, we encourage you to apply anyway. You may be exactly the right candidate for this role or others.\n\nPremier Research is proud to be an equal opportunity employer that is compliant with all federal guidelines. All qualified applicants will receive equitable consideration without regard to race, color, religion, sexual orientation, gender identity, national origin, disability or veteran status.\n\n#REMOTE\n#LI-SC1\n\nAbout the Company:\nPremier Research"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Premier+Research&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCKsJ",
+          "text": "See web results for Premier Research"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJDbGluaWNhbCBEYXRhIEFuYWx5c3QgSUkiLCJodGlkb2NpZCI6IkwzTE9VZG9odlMwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBNb25zdGVyLmNhIiwibGluayI6Imh0dHBzOi8vd3d3Lm1vbnN0ZXIuY2Evam9iLW9wZW5pbmdzL2NsaW5pY2FsLWRhdGEtYW5hbHlzdC1paS0tNDJjOTg0NDgtZjI4Ni00ZDMzLWEyZDEtYjc5ZTM4Yzk5YzRhP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Terminal",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "About Novi Connect\n\nAt Novi, we believe brands should have complete data transparency for their raw materials and there is a better way for suppliers to provide raw material data and share it with product developers making sourcing decisions. Novi is built on the premise that a technology-driven network solution is the right way to scale transparent product development. Novi makes it easy for brands to have access to information about raw materials to evaluate existing products and to develop new products, and efficient for suppliers to upload information to the Novi platform to get discovered by brands. Founded by technologists and consumer product experts, Novi has a diverse team around the globe that is revolutionizing the way products are developed through the democratization of data.\n\nAbout The Role\n\nNovi is building a data platform to help brands and formulators understand their products and ingredients, and a marketplace to help them purchase transparent and more sustainable... ingredients from suppliers. This industry we're tackling is fragmented and complicated, so we are looking for someone who is excited about fundamentally changing the way this industry works today and the early stages of company building.\n\nThis is a high-impact role. We're a small, early-stage company so you'll be working closely with the many different stakeholders and be an integral part of both our product development process as well as Novi's business. Reporting directly to our CEO, you will be the primary point point person for all things data at Novi - collecting, analyzing, synthesizing, and disseminating to the rest of the team to ensure we are always laser-focused and data-driven.\n\nWhat you'll do\n• Help build on our existing data warehouse to ensure that we’re capturing all of the important data points in well-structured & logical ways - and help ensure our warehouse & infrastructure keeps up with our rapid pace of growth and iteration\n• Leverage a suite of analytics tools (including dbt, BigQuery, Mixpanel & more) to develop and implement data analyses and maintain data integrity\n• Ensure our data is accessible to all team members, including creating reports and visualizations, maintaining dashboards, and transforming data into flattened tables to unlock insights across the company\n• Lead our data strategy and influence key product and engineering decisions around the development and maintenance of data collection and infrastructure\n• Work closely with the Product team to make actionable recommendations about product strategy and prioritization based on a deep understanding of customer engagement and behavior\n• Work closely with the Leadership team to measure business health and growth and make actionable recommendations on business strategy\n\nWhat you bring\n• 3+ years of experience in a quantitative or analytical role (eg. analytics, consulting, data science, or an equivalent role conducting analysis on large datasets)\n• Advanced proficiency in SQL to query large datasets and experience with dimensional modeling\n• Expertise in data visualization and creating interactive dashboards that give business users the tools they need to answer business or product related questions\n• Strong understanding of product & business metrics\n• Strong attention to detail\n• An entrepreneurial spirit: you roll up your sleeves with hands-on hustle and are excited about meeting the demands of a fast-paced startup environment\n• Low ego, high confidence: you have a love of learning and finding the best solution, regardless of who comes up with you. You are good at holding a high bar and challenging yourself and others in an open, team oriented way\n• Kind & caring: you genuinely care about the well being of your teammates and support one another\n• Strong collaboration & communication skills: you form trusting relationships with your cross-functional teammates and can communicate complex analyses clearly & quickly across all audiences\n• Experience with tools for product and business analytics (eg. Mixpanel, Amplitude) and visualization software (eg. Google Data Studio, Looker)\n• Conviction and passion about sustainability and our mission to change the way consumer products are developed - you’re here to serve our planet, our customers and your team",
+      "job_highlights": [
+        {
+          "items": [
+            "About Novi Connect\n\nAt Novi, we believe brands should have complete data transparency for their raw materials and there is a better way for suppliers to provide raw material data and share it with product developers making sourcing decisions. Novi is built on the premise that a technology-driven network solution is the right way to scale transparent product development. Novi makes it easy for brands to have access to information about raw materials to evaluate existing products and to develop new products, and efficient for suppliers to upload information to the Novi platform to get discovered by brands. Founded by technologists and consumer product experts, Novi has a diverse team around the globe that is revolutionizing the way products are developed through the democratization of data.\n\nAbout The Role\n\nNovi is building a data platform to help brands and formulators understand their products and ingredients, and a marketplace to help them purchase transparent and more sustainable... ingredients from suppliers. This industry we're tackling is fragmented and complicated, so we are looking for someone who is excited about fundamentally changing the way this industry works today and the early stages of company building.\n\nThis is a high-impact role. We're a small, early-stage company so you'll be working closely with the many different stakeholders and be an integral part of both our product development process as well as Novi's business. Reporting directly to our CEO, you will be the primary point point person for all things data at Novi - collecting, analyzing, synthesizing, and disseminating to the rest of the team to ensure we are always laser-focused and data-driven.\n\nWhat you'll do\n• Help build on our existing data warehouse to ensure that we’re capturing all of the important data points in well-structured & logical ways - and help ensure our warehouse & infrastructure keeps up with our rapid pace of growth and iteration\n• Leverage a suite of analytics tools (including dbt, BigQuery, Mixpanel & more) to develop and implement data analyses and maintain data integrity\n• Ensure our data is accessible to all team members, including creating reports and visualizations, maintaining dashboards, and transforming data into flattened tables to unlock insights across the company\n• Lead our data strategy and influence key product and engineering decisions around the development and maintenance of data collection and infrastructure\n• Work closely with the Product team to make actionable recommendations about product strategy and prioritization based on a deep understanding of customer engagement and behavior\n• Work closely with the Leadership team to measure business health and growth and make actionable recommendations on business strategy\n\nWhat you bring\n• 3+ years of experience in a quantitative or analytical role (eg. analytics, consulting, data science, or an equivalent role conducting analysis on large datasets)\n• Advanced proficiency in SQL to query large datasets and experience with dimensional modeling\n• Expertise in data visualization and creating interactive dashboards that give business users the tools they need to answer business or product related questions\n• Strong understanding of product & business metrics\n• Strong attention to detail\n• An entrepreneurial spirit: you roll up your sleeves with hands-on hustle and are excited about meeting the demands of a fast-paced startup environment\n• Low ego, high confidence: you have a love of learning and finding the best solution, regardless of who comes up with you. You are good at holding a high bar and challenging yourself and others in an open, team oriented way\n• Kind & caring: you genuinely care about the well being of your teammates and support one another\n• Strong collaboration & communication skills: you form trusting relationships with your cross-functional teammates and can communicate complex analyses clearly & quickly across all audiences\n• Experience with tools for product and business analytics (eg. Mixpanel, Amplitude) and visualization software (eg. Google Data Studio, Looker)\n• Conviction and passion about sustainability and our mission to change the way consumer products are developed - you’re here to serve our planet, our customers and your team"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Terminal&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCNsJ",
+          "text": "See web results for Terminal"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn4fVqJf3jwEQJROXtYhNhGZPolRnHGXRh8IH3QyI&s",
+      "extensions": [
+        "4 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IkVIVEVWQXJCMzRvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL2NhLmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZGF0YS1hbmFseXN0LWF0LXRlcm1pbmFsLTM2OTI5OTMyNzM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Data Analyst - Contractor",
+      "company_name": "TELUS",
+      "location": "  Canada   ",
+      "via": "via Workopolis",
+      "description": "Data Analyst- Contractor (1 year with an opportunity for full time roles)\n\nDescription\n\nThe TELUS Business Marketing Team is looking for a talented, driven, passionate individual with strong analytical and interpersonal skills. Our Team – TELUS Business Solutions Marketing BI - has a mandate to build solutions for our stakeholders using data from various sources, building algorithms that can predict customer loyalty, churn and stickiness. We love to turn data into stories - stories about money falling through the cracks, success stories about our products and services, but most importantly stories about our customers and how we can enhance their experience.\n\nCandidates are able to communicate with business stakeholders, gather requirements, develop, design and implement reporting solutions in an agile-type environment. They must be able to shift effortlessly between business conversations about performance analytics and technical conversations around databases, SQL and Domo with their... stakeholders and peers. A successful candidate has strong business analysis, problem solving and critical thinking skills. In this role\n\nYou will:\n• Develop new analytical solutions to provide timely insights to the business\n• Assemble multiple data sources across various databases to build foundational data marts\n• Build repeatable processes and automation to create standardized datasets, reports and analysis\n• Implement business intelligence and rules, optimize data processes and perform data quality audits\n• Proactively work with business stakeholders, manage relationships and lead marketing programs from a data standpoint\n• Effectively communicate with leadership and stakeholders\n\nQualifications\n\nYou're the missing piece of the puzzle if\n• You love digging into quantitative and qualitative data; you analyze it, pivot it and distill issues to their core to provide insights\n• You have expert knowledge and understanding of global best practices in business intelligence tools (e.g. Big Query, SQL,SAS,DOMO, Tableau)\n• You have advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases\n• You are recognized for your curiosity and growth mindset\n• You see the bigger picture of the problem you are trying to solve, and will proactively out new data points from varied sources to complement your analysis\n• You have excellent attention to detail, a structured approach to analysis and ability to tell the story behind the data\n• You have minimum 3 years of experience in a similar role and/or related education with demonstrated performance\n\nGreat-to-haves\n• Prior telecommunications expertise\n• SAS experience\n• B2B marketing\n\nA bit about us\n\nOur business is connecting Canadians. Our social impact is using our world-leading technology to create meaningful change, give back to help communities thrive, and help those who need it most. When you join our team, you're helping us make the future friendly. We're committed to diversity and equitable access to employment opportunities based on ability — your unique contributions and talents will be valued and respected here.\n\nPrimary Location: Ontario, British Columbia, Alberta, Quebec\n\nSchedule: Contract Full-time",
+      "job_highlights": [
+        {
+          "items": [
+            "Data Analyst- Contractor (1 year with an opportunity for full time roles)\n\nDescription\n\nThe TELUS Business Marketing Team is looking for a talented, driven, passionate individual with strong analytical and interpersonal skills. Our Team – TELUS Business Solutions Marketing BI - has a mandate to build solutions for our stakeholders using data from various sources, building algorithms that can predict customer loyalty, churn and stickiness. We love to turn data into stories - stories about money falling through the cracks, success stories about our products and services, but most importantly stories about our customers and how we can enhance their experience.\n\nCandidates are able to communicate with business stakeholders, gather requirements, develop, design and implement reporting solutions in an agile-type environment. They must be able to shift effortlessly between business conversations about performance analytics and technical conversations around databases, SQL and Domo with their... stakeholders and peers. A successful candidate has strong business analysis, problem solving and critical thinking skills. In this role\n\nYou will:\n• Develop new analytical solutions to provide timely insights to the business\n• Assemble multiple data sources across various databases to build foundational data marts\n• Build repeatable processes and automation to create standardized datasets, reports and analysis\n• Implement business intelligence and rules, optimize data processes and perform data quality audits\n• Proactively work with business stakeholders, manage relationships and lead marketing programs from a data standpoint\n• Effectively communicate with leadership and stakeholders\n\nQualifications\n\nYou're the missing piece of the puzzle if\n• You love digging into quantitative and qualitative data; you analyze it, pivot it and distill issues to their core to provide insights\n• You have expert knowledge and understanding of global best practices in business intelligence tools (e.g. Big Query, SQL,SAS,DOMO, Tableau)\n• You have advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases\n• You are recognized for your curiosity and growth mindset\n• You see the bigger picture of the problem you are trying to solve, and will proactively out new data points from varied sources to complement your analysis\n• You have excellent attention to detail, a structured approach to analysis and ability to tell the story behind the data\n• You have minimum 3 years of experience in a similar role and/or related education with demonstrated performance\n\nGreat-to-haves\n• Prior telecommunications expertise\n• SAS experience\n• B2B marketing\n\nA bit about us\n\nOur business is connecting Canadians. Our social impact is using our world-leading technology to create meaningful change, give back to help communities thrive, and help those who need it most. When you join our team, you're helping us make the future friendly. We're committed to diversity and equitable access to employment opportunities based on ability — your unique contributions and talents will be valued and respected here.\n\nPrimary Location: Ontario, British Columbia, Alberta, Quebec\n\nSchedule: Contract Full-time"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://stores.telus.com/",
+          "text": "stores.telus.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=TELUS&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCIwK",
+          "text": "See web results for TELUS"
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBDb250cmFjdG9yIiwiaHRpZG9jaWQiOiJzRVBROGROWUFuOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVUxck1teHNTVnByYVU1bk1qUm1TbTlLZVZKTU9UVkpTek13Y21aQ2FWZFFZbEZhUTFJNFdteEVMV3huYTJoNWVIQkdXRTVUVG1kTFUyTjJiREpSV2swMVMzUnRiM1IxVTNoNWVUZ3pjbmx0YW5wRFpURmlkMEZ3VGxSamNqUklRemxqTFZoT1RUVTRjMU5XTmtac1VsSTNUa2xGVVZsT1VXNWtSSFpOYWt0bmFYWktYMFJOWm1ONFZXVVNGbVphV0dsYVRDMXpTSFJsZFhCMFVWQnFXWGx0WVVFYUlrRk1SVk01ZFU5RlNYbDJhMlpGUVhKeGFVZzNRMWhYYzBoQ1ZVVjRRazF2V0ZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXb3Jrb3BvbGlzIiwibGluayI6Imh0dHBzOi8vd3d3LndvcmtvcG9saXMuY29tL2pvYnNlYXJjaC92aWV3am9iL0FVaGM0cjIxRWgtQ21tbTlPX09RaW5DNHRBdXptSlBiWktrTndjMHYyNWVwR2NVc1FPN3B6S1ZOLWpfWnJRczY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Data Governance Analyst",
+      "company_name": "Servus Credit Union",
+      "location": "  Canada   ",
+      "via": "via Glassdoor",
+      "description": "Posting Closes On: September 1, 2023\n\nCompensation: $93,491–$116,864 per year base salary\n\nPlease note: Although this position is fully remote, there may be a requirement to travel to Edmonton or Calgary periodically.\n\nServus Credit Union is Alberta's largest credit union and is ranked #1 in Canada on Forbes’ World’s Best Banks list for 2022! Driven by cooperative values, one might even say we're member-obsessed – because helping our members feel good about their money through improved financial fitness builds better lives and stronger, more resilient communities.\n\nPropelled by our aspirational values of being smart, gutsy and driven, Servus is growing, enhancing member and employee experience and shifting to a culture where we can easily deliver our best.\n\nWe pride ourselves on our commitment to excellence and our ability to leverage data to drive information decision making. As we continue to grow, we are seeking a talented and motivated Senior Data Governance Analyst to join our... dynamic team!\n\nThe Data Technology, Governance and Strategy team provide solutions, best practices, and support to all areas of the organization with data and information flowing in and out of the credit union.\n\nAs the expert Senior Data Governance Analyst, you are an informal expert responsible for ensuring the delivery of data management capabilities and data governance artefacts as well as lead and execute the data governance practices. You lead the data governance operations and coordinate with all stakeholders to mature Servus's data and information assets. Because you understand the stakeholder's information needs, you can articulate, lead, and prioritize those needs. Managing organizing and protecting Servus's data assets is critical in your role; therefore, you lead the implements of tools and practices required to do so. As the expert, you are the primary expert of the governance practices.\n\nMore specifically, the scope of your responsibilities will include but are not limited to:\n• Engage with the Change Management and Communications teams to introduce new data governance capabilities or changes and updates\n• Lead the identification and onboarding of data management roles like Stewards, Owners across Servus\n• Conduct training, roadshows, lunch & learns to develop awareness of data governance and its practices\n• Monitor Data Protection controls, identify gaps and recommend solutions in collaboration with Corporate Security, Privacy, and Risk Management groups\n• Analyze data trends to ensure alignment with industry best practices and continuously improve data maintenance techniques within Servus\n• Contribute to Servus culture needs through effective communications with all stakeholders\n• Hands on experience working with technical solutions for data governance\n\nRequirements\n\nTo qualify, you'll need at least the following:\n• 5+ years previous management experience with data governance or data management practices\n• Ability to work with technology configuration and creation of data quality rules\n• Experience leading a data catalogue roadmap and guiding team direction\n• Experience working in a fast-moving environment\n• Understanding of how to break down data governance activities\n• Your expertise must be:\n• Excellent communication skills – written, verbal & presentation\n• Excellent documentation skills\n• Strong facilitation skills & negotiation skills\n• Ability to collaborate & influence stakeholders at varying levels within the organization\n• Ability to lead teams and train others\n• Candidate must be self-motivated, organized, and analytical\n• Ability to solve complex problems\n• Able to work effectively under pressure to meet deadlines\n• Aptitude & interest to learn about the business\n• Strong time management skills\n\nAlthough not required, the following experience and education/certifications are valuable assets:\n• Experience in a regulated industry, such as healthcare, finance, or government\n• Certificate in Data Management or Data Governance\n\nMost importantly, we're looking for candidates who align with our values. We live our values in how we do business. We're not afraid to be different – in fact, we embrace our differences. We have a spirit that motivates us to give our best service to members every day. It's our values that attract many people to Servus – and keep them with us. We embrace our culture and heritage, and we pride ourselves on our strong commitment to the communities we serve and our efforts to build and maintain member loyalty. If this sounds like you, then we encourage you to apply!\n\nBenefits\n\nBy creating a healthy and inclusive work environment and providing employees with the tools and supports they need, we help our employees achieve their potential. Servus is committed to providing a great place to work, and we invest in our employees by ensuring they have:\n• A supportive and engaging working environment\n• Benefits that lead the field\n• A total rewards strategy that includes recognition for a job well done\n• Learning options that support lifelong learning and career-building opportunities\n• Opportunities and support for volunteering in local communities and abroad\n• Support for employee fundraising through our annual corporate fundraising events and through several less formal initiatives led by our employees\n\nHere are some of the benefits that our employees love:\n• Financial benefits available immediately (reduced Loan and Credit Card rates, etc)\n• Matched Retirement Savings program (Servus matches what you contribute)\n• Annual flexible spending account to purchase additional health or personal wellness items\n• More than Alberta standard vacation time to start and vacation purchase program for those years when you need more time off\n• Incentive pay program\n• Full package of health and wellness benefits\n• A supportive and engaging working environment\n• Benefits that lead the field\n• A total rewards strategy that includes recognition for a job well done\n• Learning options that support lifelong learning and career-building opportunities\n• Opportunities and support for volunteering in local communities and abroad\n• Support for employee fundraising through our annual corporate fundraising events and through several less formal initiatives led by our employees\n\nAs Servus, our employees are also members. This means you'll have all the benefits of being a member of the credit union including profit sharing, voting for the board of directors, and all of the services we provide … with a few additional perks!\n\nAdditionally, Servus has introduced a new flexible hybrid work model which consists of a combination of working in the office and working remotely. The hybrid approach provides employees with more flexibility, while still allowing employees to connect in person and remotely and building upon the culture that makes Servus such a great place to work.\n\nNext Steps\n\nClick on the link below to apply for this amazing opportunity. If you're shortlisted, you'll hear from us after the posting closes. Should you require an accommodation during the application and selection process, send us a quick email at careers@servus.ca with the position and location you're interested in. Thanks for applying with Servus Credit Union; we look forward to learning about you and your experience!\n\nServus Credit Union is an equal opportunity employer and employs personnel without regard to race, colour, ancestry, place of origin, religious beliefs, gender, gender identity, gender expression, age, physical disability, mental disability, marital status, family status, source of income, and sexual orientation.\n\n#indh",
+      "job_highlights": [
+        {
+          "items": [
+            "Posting Closes On: September 1, 2023\n\nCompensation: $93,491–$116,864 per year base salary\n\nPlease note: Although this position is fully remote, there may be a requirement to travel to Edmonton or Calgary periodically.\n\nServus Credit Union is Alberta's largest credit union and is ranked #1 in Canada on Forbes’ World’s Best Banks list for 2022! Driven by cooperative values, one might even say we're member-obsessed – because helping our members feel good about their money through improved financial fitness builds better lives and stronger, more resilient communities.\n\nPropelled by our aspirational values of being smart, gutsy and driven, Servus is growing, enhancing member and employee experience and shifting to a culture where we can easily deliver our best.\n\nWe pride ourselves on our commitment to excellence and our ability to leverage data to drive information decision making. As we continue to grow, we are seeking a talented and motivated Senior Data Governance Analyst to join our... dynamic team!\n\nThe Data Technology, Governance and Strategy team provide solutions, best practices, and support to all areas of the organization with data and information flowing in and out of the credit union.\n\nAs the expert Senior Data Governance Analyst, you are an informal expert responsible for ensuring the delivery of data management capabilities and data governance artefacts as well as lead and execute the data governance practices. You lead the data governance operations and coordinate with all stakeholders to mature Servus's data and information assets. Because you understand the stakeholder's information needs, you can articulate, lead, and prioritize those needs. Managing organizing and protecting Servus's data assets is critical in your role; therefore, you lead the implements of tools and practices required to do so. As the expert, you are the primary expert of the governance practices.\n\nMore specifically, the scope of your responsibilities will include but are not limited to:\n• Engage with the Change Management and Communications teams to introduce new data governance capabilities or changes and updates\n• Lead the identification and onboarding of data management roles like Stewards, Owners across Servus\n• Conduct training, roadshows, lunch & learns to develop awareness of data governance and its practices\n• Monitor Data Protection controls, identify gaps and recommend solutions in collaboration with Corporate Security, Privacy, and Risk Management groups\n• Analyze data trends to ensure alignment with industry best practices and continuously improve data maintenance techniques within Servus\n• Contribute to Servus culture needs through effective communications with all stakeholders\n• Hands on experience working with technical solutions for data governance\n\nRequirements\n\nTo qualify, you'll need at least the following:\n• 5+ years previous management experience with data governance or data management practices\n• Ability to work with technology configuration and creation of data quality rules\n• Experience leading a data catalogue roadmap and guiding team direction\n• Experience working in a fast-moving environment\n• Understanding of how to break down data governance activities\n• Your expertise must be:\n• Excellent communication skills – written, verbal & presentation\n• Excellent documentation skills\n• Strong facilitation skills & negotiation skills\n• Ability to collaborate & influence stakeholders at varying levels within the organization\n• Ability to lead teams and train others\n• Candidate must be self-motivated, organized, and analytical\n• Ability to solve complex problems\n• Able to work effectively under pressure to meet deadlines\n• Aptitude & interest to learn about the business\n• Strong time management skills\n\nAlthough not required, the following experience and education/certifications are valuable assets:\n• Experience in a regulated industry, such as healthcare, finance, or government\n• Certificate in Data Management or Data Governance\n\nMost importantly, we're looking for candidates who align with our values. We live our values in how we do business. We're not afraid to be different – in fact, we embrace our differences. We have a spirit that motivates us to give our best service to members every day. It's our values that attract many people to Servus – and keep them with us. We embrace our culture and heritage, and we pride ourselves on our strong commitment to the communities we serve and our efforts to build and maintain member loyalty. If this sounds like you, then we encourage you to apply!\n\nBenefits\n\nBy creating a healthy and inclusive work environment and providing employees with the tools and supports they need, we help our employees achieve their potential. Servus is committed to providing a great place to work, and we invest in our employees by ensuring they have:\n• A supportive and engaging working environment\n• Benefits that lead the field\n• A total rewards strategy that includes recognition for a job well done\n• Learning options that support lifelong learning and career-building opportunities\n• Opportunities and support for volunteering in local communities and abroad\n• Support for employee fundraising through our annual corporate fundraising events and through several less formal initiatives led by our employees\n\nHere are some of the benefits that our employees love:\n• Financial benefits available immediately (reduced Loan and Credit Card rates, etc)\n• Matched Retirement Savings program (Servus matches what you contribute)\n• Annual flexible spending account to purchase additional health or personal wellness items\n• More than Alberta standard vacation time to start and vacation purchase program for those years when you need more time off\n• Incentive pay program\n• Full package of health and wellness benefits\n• A supportive and engaging working environment\n• Benefits that lead the field\n• A total rewards strategy that includes recognition for a job well done\n• Learning options that support lifelong learning and career-building opportunities\n• Opportunities and support for volunteering in local communities and abroad\n• Support for employee fundraising through our annual corporate fundraising events and through several less formal initiatives led by our employees\n\nAs Servus, our employees are also members. This means you'll have all the benefits of being a member of the credit union including profit sharing, voting for the board of directors, and all of the services we provide … with a few additional perks!\n\nAdditionally, Servus has introduced a new flexible hybrid work model which consists of a combination of working in the office and working remotely. The hybrid approach provides employees with more flexibility, while still allowing employees to connect in person and remotely and building upon the culture that makes Servus such a great place to work.\n\nNext Steps\n\nClick on the link below to apply for this amazing opportunity. If you're shortlisted, you'll hear from us after the posting closes. Should you require an accommodation during the application and selection process, send us a quick email at careers@servus.ca with the position and location you're interested in. Thanks for applying with Servus Credit Union; we look forward to learning about you and your experience!\n\nServus Credit Union is an equal opportunity employer and employs personnel without regard to race, colour, ancestry, place of origin, religious beliefs, gender, gender identity, gender expression, age, physical disability, mental disability, marital status, family status, source of income, and sexual orientation.\n\n#indh"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.servus.ca/",
+          "text": "servus.ca"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Servus+Credit+Union&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCL4K",
+          "text": "See web results for Servus Credit Union"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNV0T6L-lkCO0bAMmpAXqjlsjw5MS35vsJ9wOzFmU&s",
+      "extensions": [
+        "3 days ago",
+        "$93,491–$116,864 a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBHb3Zlcm5hbmNlIEFuYWx5c3QiLCJodGlkb2NpZCI6ImUySXE1NUwtOC04QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXZZQkNyY0JRVTFyTW14c1REQjBlWGh3YVdkbldIQXdRbGRuZWw5SE0zZFJUVXBIWDNaZldTMTVXRFpDVDJOVWNHNU1hREp6UzBVMlRYaENNMjVUU0hoQ2FWTTBRMlpIUkZGM1pGTnFPWEpaVVVOUmF6VlpSbk5WTW1kSE1rb3pZbTVrYTBZdE1XRjBWRzFJYVhKU1JUaDBiamcyVlVGNWJYWkpXREF3VVVsNlkwdDZUM1ZJVFhoVlZ6QjNSRTh6YjFSMlIyWkllSGR5ZGxoUk4ydHFPWEl5UWxrMmRqbHlObHBqWjFNNGEwTlVjSFZrWm5RM1oweFdVWEkwRWhabVdsaHBXa3d0YzBoMFpYVndkRkZRYWxsNWJXRkJHaUpCVEVWVE9YVlFTM3BqZW1GRWNXaGxlVWhCU1hSM1NUVjFjVTkzUzJkV2VXTlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY180IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEdsYXNzZG9vciIsImxpbmsiOiJodHRwczovL3d3dy5nbGFzc2Rvb3IuY2Evam9iLWxpc3Rpbmcvc2VuaW9yLWRhdGEtZ292ZXJuYW5jZS1hbmFseXN0LXNlcnZ1cy1jcmVkaXQtdW5pb24tSlZfS08wLDMwX0tFMzEsNTAuaHRtP2psPTEwMDg4MjE3MTI4NjhcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company_name": "EBlock Corp.",
+      "location": "  Canada   ",
+      "via": "via EBlock Careers",
+      "description": "Overview\n\nE INC is the parent company of EBlock and EDealer, unifying our approach to products, services, and strategies under one Vision and one Mission: to create the best digital auction and retailing platform in the world by connecting the automotive wholesale and retail experiences. Our brands and their technologies make it easy for a vehicle to move between buyers and sellers throughout its entire ownership lifecycle. Learn more at https://careers.eblock.com/careers-home/\n\nWe are seeking a Sr. Data Analyst with a strong background in data warehouse design to join our Business Intelligence team to design, implement, and maintain data models, data flows, reports, and dashboards.\n\nResponsibilities\n\nWhat You Will Do:\n• Design, implement, maintain, and support data models, data flows, reports, and dashboard.\n• Answer relevant business questions requiring advanced transformations, complex SQL queries, statistical analyses, and advanced Tableau skills.\n• Identify trends, patterns... anomalies, and other helpful information, present findings, and discuss trends and insights.\n• Work with stakeholders from various areas of the organization to collect and document requirements.\n• Collaborate with peers from the Business Intelligence team and partners from Data Engineering, Data Science, Infrastructure, and other teams to develop data products.\n• Clearly communicate nuanced and complex analytical concepts to both technical and non-technical audiences.\n• Demonstrate and share a comprehensive knowledge of data concepts and technologies and use best practices to build more flexible, automated, and intuitive data solutions.\n• Review and improve data and analytics standards, procedures, methods, and tools to increase efficiency and accuracy.\n\nQualifications\n\nWhat You Will Need:\n• Bachelor’s degree in a field related to Computer Science and Information Technology.\n• 5+ years of work experience in the following languages, tools, and technologies:\n• Advanced SQL and PL/SQL\n• Amazon Redshift\n• MySQL\n• Tableau\n• Google Analytics\n• Metabase\n• AWS Glue\n• Python\n• FiveTran\n• 5+ years of work experience performing the following tasks:\n• Writing advanced SQL queries and PL/SQL procedures.\n• Building complex dashboards and reports for a variety of audiences using best practices and advanced features of BI tools such as Tableau, Google Analytics, and Metabase.\n• Designing and implementing efficient data warehouse models and data flows.\n• Comfortable working in a fast-paced environment and interfacing with a broad set of stakeholders across various functions (i.e., Business, IT, Operations).\n• Excellent verbal and written communication skills presenting complex analytical results to both technical and non-technical audiences.\n\nWhat We Offer:\n• Competitive pay\n• Medical, Dental & Vision\n• 401k/RRSP with Match\n• Company paid Group Life/AD&D insurance\n• Paid time off\n• Flexible working environment\n• Continuous Learning\n• And an amazing culture to top it all off!\n\nAt E INC, in the spirit of pay transparency, we are excited to share our base pay as it is one part of our total compensation package and is determined within a range. The base pay range for this full-time position is $94,000 - $110,000 CAD, and this role may be eligible for discretionary bonuses or commission payments. Your base pay will depend on your skills, qualifications, experience, and location. In addition, our ranges are determined by role, level, and location.\n\nE INC is an equal opportunity employer and affirmatively seeks diversity in its workforce. E INC recruits qualified applicants and advances in employment its employees without regard to race, color, religion, gender, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, disability, genetic information, ethnic or national origin, marital status, veteran status, or any other categories protected by law.\n\nE INC is committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. If contacted for an employment opportunity, please advise Human Resources if you require accommodation",
+      "job_highlights": [
+        {
+          "items": [
+            "Overview\n\nE INC is the parent company of EBlock and EDealer, unifying our approach to products, services, and strategies under one Vision and one Mission: to create the best digital auction and retailing platform in the world by connecting the automotive wholesale and retail experiences. Our brands and their technologies make it easy for a vehicle to move between buyers and sellers throughout its entire ownership lifecycle. Learn more at https://careers.eblock.com/careers-home/\n\nWe are seeking a Sr. Data Analyst with a strong background in data warehouse design to join our Business Intelligence team to design, implement, and maintain data models, data flows, reports, and dashboards.\n\nResponsibilities\n\nWhat You Will Do:\n• Design, implement, maintain, and support data models, data flows, reports, and dashboard.\n• Answer relevant business questions requiring advanced transformations, complex SQL queries, statistical analyses, and advanced Tableau skills.\n• Identify trends, patterns... anomalies, and other helpful information, present findings, and discuss trends and insights.\n• Work with stakeholders from various areas of the organization to collect and document requirements.\n• Collaborate with peers from the Business Intelligence team and partners from Data Engineering, Data Science, Infrastructure, and other teams to develop data products.\n• Clearly communicate nuanced and complex analytical concepts to both technical and non-technical audiences.\n• Demonstrate and share a comprehensive knowledge of data concepts and technologies and use best practices to build more flexible, automated, and intuitive data solutions.\n• Review and improve data and analytics standards, procedures, methods, and tools to increase efficiency and accuracy.\n\nQualifications\n\nWhat You Will Need:\n• Bachelor’s degree in a field related to Computer Science and Information Technology.\n• 5+ years of work experience in the following languages, tools, and technologies:\n• Advanced SQL and PL/SQL\n• Amazon Redshift\n• MySQL\n• Tableau\n• Google Analytics\n• Metabase\n• AWS Glue\n• Python\n• FiveTran\n• 5+ years of work experience performing the following tasks:\n• Writing advanced SQL queries and PL/SQL procedures.\n• Building complex dashboards and reports for a variety of audiences using best practices and advanced features of BI tools such as Tableau, Google Analytics, and Metabase.\n• Designing and implementing efficient data warehouse models and data flows.\n• Comfortable working in a fast-paced environment and interfacing with a broad set of stakeholders across various functions (i.e., Business, IT, Operations).\n• Excellent verbal and written communication skills presenting complex analytical results to both technical and non-technical audiences.\n\nWhat We Offer:\n• Competitive pay\n• Medical, Dental & Vision\n• 401k/RRSP with Match\n• Company paid Group Life/AD&D insurance\n• Paid time off\n• Flexible working environment\n• Continuous Learning\n• And an amazing culture to top it all off!\n\nAt E INC, in the spirit of pay transparency, we are excited to share our base pay as it is one part of our total compensation package and is determined within a range. The base pay range for this full-time position is $94,000 - $110,000 CAD, and this role may be eligible for discretionary bonuses or commission payments. Your base pay will depend on your skills, qualifications, experience, and location. In addition, our ranges are determined by role, level, and location.\n\nE INC is an equal opportunity employer and affirmatively seeks diversity in its workforce. E INC recruits qualified applicants and advances in employment its employees without regard to race, color, religion, gender, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, disability, genetic information, ethnic or national origin, marital status, veteran status, or any other categories protected by law.\n\nE INC is committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. If contacted for an employment opportunity, please advise Human Resources if you require accommodation"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.eblock.ca/",
+          "text": "eblock.ca"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=EBlock+Corp.&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCPAK",
+          "text": "See web results for EBlock Corp."
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJaSm5zeUtZc09fa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJmYyI6IkV1RUJDcUlCUVUxck1teHNTbTVIYjJacWFrWlJjM0Z5YjBGSmNuZHBWbFl3VXpOblZtWktNbTFRU1Vab1JqZEhOVTE1WTJ4QlVUZGZYM2s0WHpGSVpGaGlWRTV5Y21ScmVWaFhabGN6ZDNSM1VtMDVhRzEyY2pBeFQxZGhXWEJUVWtGWFEwSnFOblpLVFZsUWNFcHVVVkV4ZFdaS1VuWmxkM0pFYkdNeGRsSktkRUZrYzNWSFdsbHJTazEzZWtWM1EwZHdWQzFNWHpkb1JHNDBWSFprTTJwNllWWlBSVzVSRWhabVdsaHBXa3d0YzBoMFpYVndkRkZRYWxsNWJXRkJHaUpCVEVWVE9YVk9XV1phTFhwNVMyRkhXWHBvY1VKcVlqSlJSRmsxTjBVek5tNW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEVCbG9jayBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5lYmxvY2suY29tL2pvYnMvMTk1NT9sYW5nPWVuLXVzXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Omnitrance Solutions Inc",
+      "location": "  Canada   ",
+      "via": "via BeBee Canada",
+      "description": "We are seeking a skilled Remote Data Analyst to join our team.\n\nThe successful candidate will be responsible for analyzing large amounts of raw data and turning it into actionable insights for our company.\nYou will be responsible for conducting full lifecycle analysis, including data acquisition, data cleansing, data validation, and data visualization.\n\nResponsibilities:\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy... Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today",
+      "job_highlights": [
+        {
+          "items": [
+            "We are seeking a skilled Remote Data Analyst to join our team.\n\nThe successful candidate will be responsible for analyzing large amounts of raw data and turning it into actionable insights for our company.\nYou will be responsible for conducting full lifecycle analysis, including data acquisition, data cleansing, data validation, and data visualization.\n\nResponsibilities:\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy... Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today\n• Collect large amounts of data from various sources Clean and validate data to ensure accuracy Analyze data to identify trends and patterns Develop data models and algorithms to help the company make informed decisions Create reports and visualizations to communicate insights to stakeholders Collaborate with crossfunctional teams to develop solutions to business problems Stay up to date with industry trends and best practices If you are a highly motivated individual with a passion for data analysis, please apply today"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.omnitrance.com/",
+          "text": "omnitrance.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Omnitrance+Solutions+Inc&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCKEL",
+          "text": "See web results for Omnitrance Solutions Inc"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IkxKRUIza0RkX2RnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRW9zQ0Nzd0JRVTFyTW14c1NUTjJSMjVJTWxZNWRVWnpWMDl1VDIxclUweHVNVTF3UjIxcFpFVm9kbnB3ZW1GUmVtSlpWR05yVUZGRU15MUdVbVpTVDJGeWFteGFVMGRQYXkxTExYQXRPRFIwUmtKZmQzbEROa2t5ZW5KMmNrRlZaVkJWTjBoTVZIQldUbXh5UTBsMVlYUkRaWE5vWWpaWmRuaG5iVFJJV0VrM1gySnRMVlpOWTJKR2N6bDRhUzFCVEhSSGRFTTJTM1pTYmtaMlFsQjRXa1kxU1dkYVFXNVJSMmhDYlRWdVFYTnZRMVpJTVhSUVJFYzVhekIzV2pGR1RVTkpaa2hMWkdoUFRHTk1UV00xVG5KSkVoWm1XbGhwV2t3dGMwaDBaWFZ3ZEZGUWFsbDViV0ZCR2lKQlRFVlRPWFZRTlhZMFJtUmpOVGRWZGpGc05HOWZiRFJVWm5kVGJYWTVVakZuIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCZUJlZSBDYW5hZGEiLCJsaW5rIjoiaHR0cHM6Ly9jYS5iZWJlZS5jb20vam9iLzIwMjMwODE4LTZlNzQ2MGU4MzhhZTJiN2Q1ZDQzNjhiOTRhODIyZjI1P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Data Analyst Jobs.",
+      "company_name": "Virtual Employee",
+      "location": "  Canada   ",
+      "via": "via Adzuna",
+      "description": "We are looking for a passionate certified Data Analyst. The successful candidate will turn data into information, information into insight and insight into business decisions.\n\nData Analyst Job Duties\n\nData analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.\n\nResponsibilities\n• Interpret data, analyze results using statistical techniques and provide ongoing reports\n• Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality\n• Acquire data from primary or secondary data sources and maintain databases/data systems\n• Identify, analyze, and interpret trends or patterns in complex data sets\n• Filter and “clean data by reviewing computer reports, printouts, and performance indicators to locate... and correct code problems\n• Work with management to prioritize business and information need",
+      "job_highlights": [
+        {
+          "items": [
+            "We are looking for a passionate certified Data Analyst. The successful candidate will turn data into information, information into insight and insight into business decisions.\n\nData Analyst Job Duties\n\nData analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.\n\nResponsibilities\n• Interpret data, analyze results using statistical techniques and provide ongoing reports\n• Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality\n• Acquire data from primary or secondary data sources and maintain databases/data systems\n• Identify, analyze, and interpret trends or patterns in complex data sets\n• Filter and “clean data by reviewing computer reports, printouts, and performance indicators to locate... and correct code problems\n• Work with management to prioritize business and information need"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.virtualemployee.com/",
+          "text": "virtualemployee.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558614734&gl=ca&hl=en&q=Virtual+Employee&sa=X&ved=0ahUKEwj_3qispuyAAxVXl4kEHQ2GCQ0QmJACCNML",
+          "text": "See web results for Virtual Employee"
+        }
+      ],
+      "extensions": [
+        "7 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "7 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSm9icy4iLCJodGlkb2NpZCI6ImI2VV9ZMU1Tano0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXZZQkNyY0JRVTFyTW14c1MybHVUREE0U0VWU1NETXpRazB0WVY5WVVuaENWSE15TVhVdGJ6VmxMVXhCYlhJeFkxbEJRM05xTWpJeFQwODJWSEZPWDJjelVTMXdORXAwVldsUVdFVlFWV3RoVVRKRGFVNTJSVXRMYUdodFoxTnVTbmRrUkZkRlh6aGlibXhJU1dvd1N6ZEdNa2RwTVd0U2JEQnFXblJrYVhCV1JXTXdjMWN6YkVsT1NYTlFaVWhRYmxaTWJrNUJOR2w0VDE5U2NtbGFZM0ZmTkhoUmQwOUlNRWMzWlhSWFJuaFJNMVJ6Tm5aVmNXNVFTVlp6RWhabVdsaHBXa3d0YzBoMFpYVndkRkZRYWxsNWJXRkJHaUpCVEVWVE9YVk9VbEJUWlhsaGNFODJTWEJrZFhCTVIwaHRVV05JUjE5a1pYTm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEFkenVuYSIsImxpbmsiOiJodHRwczovL3d3dy5hZHp1bmEuY2EvZGV0YWlscy80MjU4MTM2OTEyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Data analyst",
+          "value": "data analyst"
+        },
+        {
+          "text": "Analyst",
+          "value": "analyst"
+        },
+        {
+          "text": "Data scientist",
+          "value": "data scientist"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Business analyst",
+          "value": "business analyst"
+        },
+        {
+          "text": "Senior analyst",
+          "value": "senior analyst"
+        },
+        {
+          "text": "Manager",
+          "value": "manager"
+        },
+        {
+          "text": "Computer",
+          "value": "computer"
+        },
+        {
+          "text": "Coordinator",
+          "value": "coordinator"
+        },
+        {
+          "text": "Data modeler",
+          "value": "data modeler"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Gis analyst",
+          "value": "gis analyst"
+        },
+        {
+          "text": "Instructor",
+          "value": "instructor"
+        },
+        {
+          "text": "Intelligence analyst",
+          "value": "intelligence analyst"
+        },
+        {
+          "text": "Management manager",
+          "value": "management manager"
+        },
+        {
+          "text": "Operations analyst",
+          "value": "operations analyst"
+        },
+        {
+          "text": "Operations engineer",
+          "value": "operations engineer"
+        },
+        {
+          "text": "Organizational",
+          "value": "organizational"
+        },
+        {
+          "text": "Quality analyst",
+          "value": "quality analyst"
+        },
+        {
+          "text": "Quality coordinator",
+          "value": "quality coordinator"
+        },
+        {
+          "text": "Researcher",
+          "value": "researcher"
+        },
+        {
+          "text": "Senior business",
+          "value": "senior business"
+        },
+        {
+          "text": "Services",
+          "value": "services"
+        },
+        {
+          "text": "Sr analyst",
+          "value": "sr analyst"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Mining",
+          "value": "/business/naics2007/21"
+        },
+        {
+          "text": "Toiletries",
+          "value": "/business/naics2007/3256"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "ETeam",
+          "value": "/g/11fy26_wgn"
+        },
+        {
+          "text": "Virtual Employee",
+          "value": "/g/11h1y7yphw"
+        },
+        {
+          "text": "The University of British Columbia",
+          "value": "/m/017cy9"
+        },
+        {
+          "text": "Omnitrance Solutions Inc",
+          "value": "/g/11f013630x"
+        },
+        {
+          "text": "Peroptyx",
+          "value": "/g/11n93yqdhq"
+        },
+        {
+          "text": "PointClickCare",
+          "value": "/g/11f01dq_6d"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "StackAdapt",
+          "value": "/g/11c73jhyqw"
+        },
+        {
+          "text": "TELUS International",
+          "value": "/m/0h7l96j"
+        },
+        {
+          "text": "WestJet",
+          "value": "/m/0142r7"
+        },
+        {
+          "text": "10 CAE Canada Inc",
+          "value": "/m/03ktvb"
+        },
+        {
+          "text": "Agnico Eagle Mines Limited",
+          "value": "/m/03jzm5"
+        },
+        {
+          "text": "Apollo.io",
+          "value": "/g/11dxq0610g"
+        },
+        {
+          "text": "Aurecon Group",
+          "value": "/m/0cc8c5d"
+        },
+        {
+          "text": "Autodesk",
+          "value": "/m/018nm3"
+        },
+        {
+          "text": "BCLC",
+          "value": "/m/027ykv_"
+        },
+        {
+          "text": "Barrick  Nevada Gold",
+          "value": "/g/11h7fynwcb"
+        },
+        {
+          "text": "Behaviour Interactive Inc.",
+          "value": "/m/0byspf"
+        },
+        {
+          "text": "Beiersdorf AG",
+          "value": "/m/04zs10"
+        },
+        {
+          "text": "Brandt Group of Companies",
+          "value": "/g/11f017j2t7"
+        },
+        {
+          "text": "Canadian Institute for Health Information (CIHI)",
+          "value": "/m/0gv3z5"
+        },
+        {
+          "text": "Canadian Tire Corporation, Limited",
+          "value": "/m/0184gy"
+        },
+        {
+          "text": "Chainalysis",
+          "value": "/g/11f01b38yg"
+        },
+        {
+          "text": "Clio - Cloud-Based Legal Technology",
+          "value": "/g/11fmc0r09t"
+        },
+        {
+          "text": "Community Care Access Centre",
+          "value": "/g/11g9n18y0q"
+        },
+        {
+          "text": "Docker",
+          "value": "/g/11c58pb160"
+        },
+        {
+          "text": "Dropbox",
+          "value": "/m/0rn_22y"
+        },
+        {
+          "text": "EBlock Corp.",
+          "value": "/g/11f014xm2k"
+        },
+        {
+          "text": "EXL Services",
+          "value": "/m/02qhpd_"
+        },
+        {
+          "text": "EcoMap Technologies, Inc",
+          "value": "/g/11qb8xrjrb"
+        },
+        {
+          "text": "Evenbreak",
+          "value": "/g/11h6rxrn9b"
+        },
+        {
+          "text": "F5",
+          "value": "/m/07nr3w"
+        },
+        {
+          "text": "Gartner",
+          "value": "/m/01l4jh"
+        },
+        {
+          "text": "Genesys",
+          "value": "/m/0j241mt"
+        },
+        {
+          "text": "Hootsuite",
+          "value": "/m/080chm5"
+        },
+        {
+          "text": "ICONMA, LLC",
+          "value": "/g/1dv2wb5f"
+        }
+      ]
+    }
+  ]
+}
