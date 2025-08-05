@@ -1,0 +1,34 @@
+<!-- This is the data we stored in dictionary -->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Movies List</title>
+        <style>
+            body{
+                background-color: azure;
+                color: darkslategray;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Movies List : </h1>
+        <!-- Let's Display the Movie Data using anchor Tag -->
+         <ul>
+            {% for movie in movies %}
+                <li> <a href="{{movie.id}}"> {{ movie.title }} </a>  </li>
+            {% endfor %}
+         </ul>
+        <!-- <dl>
+            
+            {% for movie in movies %}
+                <dt> {{ movie.title }} </dt> 
+                <dd> {{ movie.year }} </dd>
+            {% endfor %}
+        </dl>     -->
+
+        <!-- <h2> <a href="/movies/add"> Add a Movie </a> </h2> -->
+        <h2> <a href="/movies/add"> Add a Movie </a> </h2>
+    </body>
+</html>

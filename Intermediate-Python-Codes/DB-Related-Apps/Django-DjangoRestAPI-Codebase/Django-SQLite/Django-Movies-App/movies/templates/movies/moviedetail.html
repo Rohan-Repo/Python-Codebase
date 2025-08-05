@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Movie Detail </title>
+    <style>
+        body{
+            background-color: azure;
+            color: darkslategray;
+        }
+        button{
+            background-color: black;
+            color: springgreen;
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h1 > {{ movie }} </h1>
+        
+        <a href="/movies/deleteMovie/{{movie.id}}"> 
+            <button> Delete Movie </button>
+        </a>
+    </div>
+</body>
+</html>

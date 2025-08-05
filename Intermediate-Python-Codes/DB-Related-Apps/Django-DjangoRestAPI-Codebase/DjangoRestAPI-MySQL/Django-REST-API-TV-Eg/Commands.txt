@@ -1,0 +1,81 @@
+Install Virtual Environment:
+C:\MyCodes\Python\Django\Django-REST-API-TV-Eg>python -m venv tvenv
+
+C:\MyCodes\Python\Django\Django-REST-API-TV-Eg>tvenv\Scripts\activate
+
+Install Dependencies django, djangorestframework and mysqlclient[MySQL DB Connector]:
+
+(tvenv) C:\MyCodes\Python\Django\Django-REST-API-TV-Eg>pip install django
+
+(tvenv) C:\MyCodes\Python\Django\Django-REST-API-TV-Eg>pip install djangorestframework
+
+(tvenv) C:\MyCodes\Python\Django\Django-REST-API-TV-Eg>pip install mysqlclient
+
+Main project tvshowactorproject -> Configurations and Settings for the Project
+(tvenv) C:\MyCodes\Python\Django\Django-REST-API-TV-Eg>django-admin startproject tvshowactorproject
+
+(tvenv) C:\MyCodes\Python\Django\Django-REST-API-TV-Eg\tvshowactorproject>cd
+C:\MyCodes\Python\Django\Django-REST-API-TV-Eg\tvshowactorproject
+
+Main project actorapi -> API Data for the projects, can be many different API's for different purposes
+(tvenv) C:\MyCodes\Python\Django\Django-REST-API-TV-Eg\tvshowactorproject>python manage.py startapp actorapi
+
+(tvenv) C:\MyCodes\Python\Django\Django-REST-API-TV-Eg\tvshowactorproject>python manage.py makemigrations
+Migrations for 'actorapi':
+  actorapi\migrations\0001_initial.py
+    + Create model TVShowActorsModel
+
+(tvenv) C:\MyCodes\Python\Django\Django-REST-API-TV-Eg\tvshowactorproject>python manage.py migrate
+Operations to perform:
+  Apply all migrations: actorapi, admin, auth, contenttypes, sessions
+Running migrations:
+  Applying actorapi.0001_initial... OK
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying sessions.0001_initial... OK
+
+Get Request : http://127.0.0.1:8000/actorapi/actors
+[ { "id": 100, "showName": "Friends", "actorShowName": "Chandler Bing", "actorRealName": "Matthew Perry" }, { "id": 101, "showName": "Lie to me", "actorShowName": "Cal Lightman", "actorRealName": "Tim Roth" }, { "id": 102, "showName": "Revenge", "actorShowName": "Emily Thorne", "actorRealName": "Emily Vancamp" }, { "id": 103, "showName": "Arrow", "actorShowName": "Oliver Queen", "actorRealName": "Stephen Amell" }, { "id": 104, "showName": "Scandal", "actorShowName": "Olivia Pope", "actorRealName": "Kerry Washington" }, { "id": 105, "showName": "Forever", "actorShowName": "Dr. Henry Morgan", "actorRealName": "Ioan Gruffudd" }, { "id": 106, "showName": "AFC Richmond", "actorShowName": "Ted Lasso", "actorRealName": "Jason Sudeikis" } ]
+
+Post Request: http://127.0.0.1:8000/actorapi/actor/create
+{
+    "showName":"AFC Richmond", 
+    "actorShowName":"Ted Lasso", 
+    "actorRealName": "Jason Sudeikis"
+}
+
+PUT Request : http://127.0.0.1:8000/actorapi/actor/105
+{
+    "showName": "Forever",
+    "actorShowName": "Henry Morgan",
+    "actorRealName": "Ioan Gruffudd"
+}
+
+GET Request : http://127.0.0.1:8000/actorapi/actor/102
+{
+    "id": 102,
+    "showName": "Revenge",
+    "actorShowName": "Emily Thorne",
+    "actorRealName": "Emily Vancamp"
+}
+
+DELETE Request : http://127.0.0.1:8000/actorapi/actor/106
+"User was Deleted!"
+
+PATH Request:
+{ "detail": "Method \"PATCH\" not allowed." }

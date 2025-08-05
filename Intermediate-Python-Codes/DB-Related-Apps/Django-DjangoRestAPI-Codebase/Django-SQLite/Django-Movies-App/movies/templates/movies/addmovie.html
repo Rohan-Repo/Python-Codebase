@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Add Movie to DB </title>
+    <style>
+        body{
+            background-color: azure;
+            color: darkslategray;
+        }
+        input[type=submit]{
+            background-color: black;
+            color: springgreen;
+        }
+    </style>
+</head>
+<body>
+    <h2> Add Movie </h2>
+    <!-- This would give a CSRF verification failed. Request aborted. on Submit -->
+     <!-- So lets Add the CSRF Token so it sets it in Cookies -->
+    <form action="/movies/add" method="post">
+        {% csrf_token %}
+        <b> <label for="movieName"> Movie Name : </label> </b>
+        <input type="text" id="movieName" name="movieName" placeholder="Enter Movie Name"> 
+        <br/> <br/>
+        <b> <label for="movieYear"> Movie Year : </label> </b>
+        <input type="text" id="movieYear" name="movieYear" placeholder="Enter Movie Year"> 
+        <br/> <br/>
+        <input type="submit" value="Add a Movie">
+    </form>
+</body>
+</html>

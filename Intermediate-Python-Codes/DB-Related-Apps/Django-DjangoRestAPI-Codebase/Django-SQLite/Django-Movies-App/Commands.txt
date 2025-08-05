@@ -1,0 +1,88 @@
+Create a Virtual Environment
+C:\MyCodes\Python\Django\Django-Movies-App>python -m venv .venv
+
+Start Virtual Environment:
+C:\MyCodes\Python\Django\Django-Movies-App>.venv\Scripts\activate
+
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>
+
+pip freeze -> Tells you all the packagaes available in your Environment
+
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>
+certifi==2025.1.31
+charset-normalizer==3.4.1
+idna==3.10
+requests==2.32.3
+urllib3==2.3.0
+
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App> pip install django
+
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>django-admin --help
+
+Type 'django-admin help <subcommand>' for help on a specific subcommand.
+
+Create Project Files:
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>django-admin startproject movies .
+
+
+Model - Representation/Structure of Data 
+View - Accepts Requests/Data Gathering
+Template - Visual Representation
+
+Apply migrations to the App:
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>python manage.py migrate
+
+To Create the Django Admin user:
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>python manage.py createsuperuser
+Username (leave blank to use 'shri'): admin
+Email address: abc@test.com            
+Password: 
+Password (again): 
+The password is too similar to the username.
+This password is too short. It must contain at least 8 characters.
+This password is too common.
+Bypass password validation and create user anyway? [y/N]: y
+Superuser created successfully.
+
+In HTML:
+<!-- {% %} This is the templating we use Django -->
+
+This will tell Django to update our Models
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>python manage.py makemigrations movies
+Migrations for 'movies':
+  movies\migrations\0001_initial.py
+    + Create model Movie
+
+This will show us what SQL Table creation this does, it's just for reference:
+python manage.py sqlmigrate movies 0001        
+BEGIN;
+--
+-- Create model Movie
+--
+CREATE TABLE "movies_movie" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "title" varchar(100) NOT NULL);
+COMMIT;
+
+Check movies app
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, movies, sessions
+Running migrations:
+  Applying movies.0001_initial... OK
+
+Since we had to add year because of our mistake we had to do makemigrations and migrate again
+(.venv) C:\MyCodes\Python\Django\Django-Movies-App>python manage.py sqlmigrate movies 0002
+BEGIN;
+--
+-- Add field year to movie
+--
+CREATE TABLE "new__movies_movie" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "year" integer NOT NULL, "title" varchar(100) NOT NULL); 
+INSERT INTO "new__movies_movie" ("id", "title", "year") SELECT "id", "title", 0 FROM "movies_movie";
+DROP TABLE "movies_movie";
+ALTER TABLE "new__movies_movie" RENAME TO "movies_movie";
+COMMIT;
+
+To ensure that we see our Movies Table in Django Admin page we need to register it so create a admin.py and register it
+Then restart your server
+
+Stop Virtual Environment:
+Deactivate 
