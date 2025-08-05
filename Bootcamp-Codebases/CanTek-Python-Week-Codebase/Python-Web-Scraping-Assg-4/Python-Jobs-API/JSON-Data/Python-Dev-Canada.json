@@ -1,0 +1,572 @@
+{
+  "search_metadata": {
+    "id": "64dfaa607f83616102024bce",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/997e1478e89c6dbd/64dfaa607f83616102024bce.json",
+    "created_at": "2023-08-18 17:29:04 UTC",
+    "processed_at": "2023-08-18 17:29:04 UTC",
+    "google_jobs_url": "https://www.google.ca/search?q=Python+Engineer&ibp=htl;jobs&uule=w+CAIQICIGQ2FuYWRh&hl=en&gl=ca",
+    "raw_html_file": "https://serpapi.com/searches/997e1478e89c6dbd/64dfaa607f83616102024bce.html",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "q": "Python Engineer",
+    "engine": "google_jobs",
+    "location_requested": "Canada",
+    "location_used": "Canada",
+    "google_domain": "google.ca",
+    "hl": "en",
+    "gl": "ca"
+  },
+  "jobs_results": [
+    {
+      "title": "Junior Software Engineer (Python, Linux and Automation)",
+      "company_name": "iVedha Inc.",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "An experience Junior Software Engineer with an automation skill to enhance our infrastructure processes with strong Python and Linux experience.\n\nExperience and Tools required:\n• Junior level experience (Minimum 6 months to 2 years of experience).\n• Python and Linux experience required.\n• Good knowledge of Kubernetes\n• Knowledge of any Configuration Management tools (Ansible, Terraform, ArgoCD etc.)\n• Good knowledge of Azure or GCP and Elasticsearch (ELK) are also essential.",
+      "job_highlights": [
+        {
+          "items": [
+            "An experience Junior Software Engineer with an automation skill to enhance our infrastructure processes with strong Python and Linux experience.\n\nExperience and Tools required:\n• Junior level experience (Minimum 6 months to 2 years of experience).\n• Python and Linux experience required.\n• Good knowledge of Kubernetes\n• Knowledge of any Configuration Management tools (Ansible, Terraform, ArgoCD etc.)\n• Good knowledge of Azure or GCP and Elasticsearch (ELK) are also essential."
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.ivedha.com/",
+          "text": "ivedha.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=iVedha+Inc.&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCJUI",
+          "text": "See web results for iVedha Inc."
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzeKhdIWOYLs6j7D6GC7MuHuRTXAbxt5qrceakCY&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRW5naW5lZXIgKFB5dGhvbiwgTGludXggYW5kIEF1dG9tYXRpb24pIiwiaHRpZG9jaWQiOiJOUDBweUpQVXNhY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVUxck1teHNTV1ZIVUhSTFRuTm9abGRsVWtoRldsYzBUa2RIWDNveVZqUnFlblJLVDJaMFJERmhOVWR4YW5saGFVVjNOblpSYjBreWQwbzJNamhyVlRnMU0ya3dhbDlaUVRGa1JFSjZabmxzVTFKVk56UkdUblIwTmtST1ZIcEtRa3hvZUVvdGIzQjNTa3RxYUU5TFMwNW1hME5PVlROS09XVk5aRU52UlRSQmREQXpiR3BJWjA5S1pYZDZUMFkyUVhCUVZFd3daVFZNZVVoYUxYUkNVbmxSRWhkWlMzSm1Xa3RtWWsxWlMyODFUbTlRY1MxVFNqQkJNQm9pUVV4RlV6bDFUbEp1VEdGaFltWmxhSHBMVGxGS2VsOHRNV2hHYlRNdFQwWlJkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L2p1bmlvci1zb2Z0d2FyZS1lbmdpbmVlci1weXRob24tbGludXgtYW5kLWF1dG9tYXRpb24tYXQtaXZlZGhhLWluYy0zNjg5MjU5MTk5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Software Engineer - Python and Go",
+      "company_name": "KX",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "Senior Software Engineer - Python and Go\n\nCompany: KX\n\nLocation: UK | Ireland | Hungary | Ontario\n\nAbout KX:\n\nKX is a prominent technology enterprise committed to propelling data and AI-driven business innovation. The Data Timehouse™ platform, selected by leading investment banks and enterprises across various sectors, empowers real-time, intelligent businesses. Rooted in the high-performance kdb+ time series and vector database, our technology stands renowned for its speed and reliability. We're devoted to fostering a robust partner ecosystem to drive exponential growth.\n\nRole Overview:\n\nAs a Senior Software Engineer specializing in Python and Go at KX, you will play a pivotal role in shaping and advancing our state-of-the-art technology. Collaborate with cross-functional teams to conceive and implement solutions aligned with our objectives, driving demand for our product offerings.\n\nResponsibilities:\n• Innovate, develop, test, and deploy cloud-native data analytics applications... using Go and Kubernetes.\n• Enhance and sustain a Kubernetes Operator for automated deployment and configuration of high-performance data workloads within Kubernetes.\n• Leverage custom resource definitions, operators, release channels, and horizontal pod autoscaling to manage application life cycles and optimize resource efficiency.\n• Cultivate Golang proficiency within R&D by spearheading a Kubernetes Golang special interest guild, promoting superior practices for quality cloud services in Go.\n\nRequirements:\n• Bachelor's degree in computer science or related field, or equivalent practical experience.\n• 3+ years of hands-on experience in developing cloud-based applications using Go.\n• Proficiency in Kubernetes, encompassing core concepts and components.\n• Familiarity with data analytics tools and concepts.\n• Proficiency in containerization tools like Docker.\n• 2+ years of experience in Python application development.\n• Strong grasp of Python programming, libraries, and best practices.\n• Proficiency in CI/CD methodologies and tools.\n• Familiarity with GitOps and tools like ArgoCD.\n• Outstanding communication and problem-solving skills.\n\nWhy Choose KX?\n• At KX, we're more than a technology firm; we're a family! Embrace flexible work hours, a competitive salary package, and a dynamic, inclusive culture that honors diversity and individuality.\n• Curious by Nature: Curiosity is our DNA! Engage in dedicated weekly learning sessions to fuel your inquisitive mindset. Explore uncharted domains, acquire data-driven expertise, and stay ahead of the curve. We're dedicated to nurturing your growth and empowering you to scale new summits!\n• In it Together: Impact matters! Through our engaging \"KX For Good\" volunteer initiatives, you can make a positive difference in your local community.\n• Recognize & Celebrate: Your relentless effort and commitment won't go unnoticed! Our exceptional reward and recognition framework applauds your dedication and contributions. At KX, we uplift and celebrate every milestone in your journey to success!\n\nDon't wait! Join the KX family and contribute to shaping the future of technology\n\nNote: Candidate personal data will be handled according to our Global Candidate Privacy Notice\n\nTo learn more about KX, please visit www.kx.com",
+      "job_highlights": [
+        {
+          "items": [
+            "Senior Software Engineer - Python and Go\n\nCompany: KX\n\nLocation: UK | Ireland | Hungary | Ontario\n\nAbout KX:\n\nKX is a prominent technology enterprise committed to propelling data and AI-driven business innovation. The Data Timehouse™ platform, selected by leading investment banks and enterprises across various sectors, empowers real-time, intelligent businesses. Rooted in the high-performance kdb+ time series and vector database, our technology stands renowned for its speed and reliability. We're devoted to fostering a robust partner ecosystem to drive exponential growth.\n\nRole Overview:\n\nAs a Senior Software Engineer specializing in Python and Go at KX, you will play a pivotal role in shaping and advancing our state-of-the-art technology. Collaborate with cross-functional teams to conceive and implement solutions aligned with our objectives, driving demand for our product offerings.\n\nResponsibilities:\n• Innovate, develop, test, and deploy cloud-native data analytics applications... using Go and Kubernetes.\n• Enhance and sustain a Kubernetes Operator for automated deployment and configuration of high-performance data workloads within Kubernetes.\n• Leverage custom resource definitions, operators, release channels, and horizontal pod autoscaling to manage application life cycles and optimize resource efficiency.\n• Cultivate Golang proficiency within R&D by spearheading a Kubernetes Golang special interest guild, promoting superior practices for quality cloud services in Go.\n\nRequirements:\n• Bachelor's degree in computer science or related field, or equivalent practical experience.\n• 3+ years of hands-on experience in developing cloud-based applications using Go.\n• Proficiency in Kubernetes, encompassing core concepts and components.\n• Familiarity with data analytics tools and concepts.\n• Proficiency in containerization tools like Docker.\n• 2+ years of experience in Python application development.\n• Strong grasp of Python programming, libraries, and best practices.\n• Proficiency in CI/CD methodologies and tools.\n• Familiarity with GitOps and tools like ArgoCD.\n• Outstanding communication and problem-solving skills.\n\nWhy Choose KX?\n• At KX, we're more than a technology firm; we're a family! Embrace flexible work hours, a competitive salary package, and a dynamic, inclusive culture that honors diversity and individuality.\n• Curious by Nature: Curiosity is our DNA! Engage in dedicated weekly learning sessions to fuel your inquisitive mindset. Explore uncharted domains, acquire data-driven expertise, and stay ahead of the curve. We're dedicated to nurturing your growth and empowering you to scale new summits!\n• In it Together: Impact matters! Through our engaging \"KX For Good\" volunteer initiatives, you can make a positive difference in your local community.\n• Recognize & Celebrate: Your relentless effort and commitment won't go unnoticed! Our exceptional reward and recognition framework applauds your dedication and contributions. At KX, we uplift and celebrate every milestone in your journey to success!\n\nDon't wait! Join the KX family and contribute to shaping the future of technology\n\nNote: Candidate personal data will be handled according to our Global Candidate Privacy Notice\n\nTo learn more about KX, please visit www.kx.com"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://kx.com/",
+          "text": "kx.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=KX&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCMcI",
+          "text": "See web results for KX"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-TKjPdjtdAcNC2P31US6LUoU7f6X4Ow4-W82VNbo&s",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBQeXRob24gYW5kIEdvIiwiaHRpZG9jaWQiOiIxTTlnME9oTFdyVUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVUxck1teHNTMnBYVlZnNWRWRmhaVWt0WDNad1ZrcFJRbTVRWjFaelIxSktiSGhWYlZZM1QzSnJiMjE1WjJaRlh6a3pkR05KWVRkTldtZGZPRTh6VGtOVVdYazBZMjFFVFVGNVUyOWlUM1oxWlZSc2RGSmZjamx6WDFoamJtaExWM1o2YUUwd00weDJSbEJrYTJnM1IxUlZRMUIwUjBSV2FVWm1iRTlQYkZVMFVYaFRlblJMYVdKclR6UVNGMWxMY21aYVMyWmlUVmxMYnpWT2IxQnhMVk5LTUVFd0dpSkJURVZUT1hWUWRFOUZaVXB5UmpORE0wUjJiVlZWUkVSWGNHWkxaM1pmY1dOQiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1weXRob24tYW5kLWdvLWF0LWt4LTM2OTU4NDAyMzI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "L3 Application Support Engineer - Python & SQL Specialist",
+      "company_name": "Realty Fans",
+      "location": "  Canada   ",
+      "via": "via Glassdoor",
+      "description": "L3 Application Support Engineer - Python & SQL Specialist\n\nFull Time: Permanent Position\n\nLocation: Ontario/Remote\n\nExperience: 5+ yrs\n\nRoles & Responsibilities:\n\nJob Title: L3 Application Support Engineer - Python & SQL Specialist\n\nLocation: Onshore/Nearshore\n\nRole Summary: The L3 Application Support Engineer - Python & SQL Specialist will be primarily responsible for internal automation and servicing other teams. The successful candidate will possess a strong understanding of debugging applications, reading logs, SQL expertise, database comprehension, and familiarity with Linux and bash. A background in development is also highly preferred.\n\nKey Responsibilities:\n\nDebug complex application issues, ensuring timely resolution.\n\nAnalyze logs to identify potential problems and areas for optimization.\n\nDevelop and maintain internal automation tools using Python.\n\nService requests from other teams, ensuring that solutions are efficient and effective.\n\nProvide advanced SQL support... including query optimization and database understanding.\n\nWork collaboratively in a team environment to share knowledge and best practices.\n\nMentor junior members and provide knowledge transfer.\n\nRequired Qualifications:\n\nProven experience with Python for development and automation tasks.\n\nStrong SQL skills with a deep understanding of relational databases.\n\nFamiliarity with Linux environments and bash scripting.\n\nDevelopment background.\n\nExcellent problem-solving and analytical skills.\n\nAbility to communicate technical concepts clearly and effectively.\n\nPreferred Qualifications:\n\nKnowledge of AWS ecosystem and best practices.\n\nJob Types: Full-time, Permanent\n\nSalary: $130,000.00 per year\n\nBenefits:\n• Dental care\n• Extended health care\n• Vision care\n\nSchedule:\n• 8 hour shift\n\nExperience:\n• Python: 4 years (preferred)\n• SQL: 3 years (preferred)\n• AWS: 1 year (preferred)\n\nWork Location: Remote",
+      "job_highlights": [
+        {
+          "items": [
+            "L3 Application Support Engineer - Python & SQL Specialist\n\nFull Time: Permanent Position\n\nLocation: Ontario/Remote\n\nExperience: 5+ yrs\n\nRoles & Responsibilities:\n\nJob Title: L3 Application Support Engineer - Python & SQL Specialist\n\nLocation: Onshore/Nearshore\n\nRole Summary: The L3 Application Support Engineer - Python & SQL Specialist will be primarily responsible for internal automation and servicing other teams. The successful candidate will possess a strong understanding of debugging applications, reading logs, SQL expertise, database comprehension, and familiarity with Linux and bash. A background in development is also highly preferred.\n\nKey Responsibilities:\n\nDebug complex application issues, ensuring timely resolution.\n\nAnalyze logs to identify potential problems and areas for optimization.\n\nDevelop and maintain internal automation tools using Python.\n\nService requests from other teams, ensuring that solutions are efficient and effective.\n\nProvide advanced SQL support... including query optimization and database understanding.\n\nWork collaboratively in a team environment to share knowledge and best practices.\n\nMentor junior members and provide knowledge transfer.\n\nRequired Qualifications:\n\nProven experience with Python for development and automation tasks.\n\nStrong SQL skills with a deep understanding of relational databases.\n\nFamiliarity with Linux environments and bash scripting.\n\nDevelopment background.\n\nExcellent problem-solving and analytical skills.\n\nAbility to communicate technical concepts clearly and effectively.\n\nPreferred Qualifications:\n\nKnowledge of AWS ecosystem and best practices.\n\nJob Types: Full-time, Permanent\n\nSalary: $130,000.00 per year\n\nBenefits:\n• Dental care\n• Extended health care\n• Vision care\n\nSchedule:\n• 8 hour shift\n\nExperience:\n• Python: 4 years (preferred)\n• SQL: 3 years (preferred)\n• AWS: 1 year (preferred)\n\nWork Location: Remote"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=Realty+Fans&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCPgI",
+          "text": "See web results for Realty Fans"
+        }
+      ],
+      "extensions": [
+        "3 days ago",
+        "$130K a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMMyBBcHBsaWNhdGlvbiBTdXBwb3J0IEVuZ2luZWVyIC0gUHl0aG9uIFx1MDAyNiBTUUwgU3BlY2lhbGlzdCIsImh0aWRvY2lkIjoiMmhMSms1NzczYmNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEdsYXNzZG9vciIsImxpbmsiOiJodHRwczovL3d3dy5nbGFzc2Rvb3IuY2Evam9iLWxpc3RpbmcvbDMtYXBwbGljYXRpb24tc3VwcG9ydC1lbmdpbmVlci1weXRob24tYW5kLXNxbC1zcGVjaWFsaXN0LXJlYWx0eS1mYW5zLUpWX0tPMCw1N19LRTU4LDY5Lmh0bT9qbD0xMDA4ODE2Nzk5NDQ4XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Senior Python Engineer, Distributed Computing Startup",
+      "company_name": "Recruiting From Scratch",
+      "location": "  Canada   ",
+      "via": "via Recruiterflow",
+      "description": "Who is Recruiting from Scratch:\n\nRecruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.\n\nAbout Our Client\n\nOur Client's Vision\n\nAt our client, they believe the next iteration of the internet will be delivered to XR devices. It represents a fundamental and pivotal change on how we work, socialize and learn today. To power the next generation of the internet and drive mainstream adoption, we need to meet or surpass the scale and quality of service we have in today’s internet. In order to achieve this, a new infrastructure and technology stack needs to be built and integrated. To make this a reality we are building their product. We also believe this... new infrastructure should be a public good.\n\nWhat we are building\n\nThe Network is a decentralized 3D & XR content delivery platform that breaks the bottlenecks of infrastructure supply for real-time rendering, and the lack of local compute power on XR Devices. We do this by orchestrating a decentralized network of GPU-powered nodes that run the Engine, a proprietary technology stack that allows to render interactive 3D content and stream it efficiently in real-time to mobile XR devices at scale. We believe Web3 principles in conjunction with our core technology will accelerate the scalability of the Network.\n\nWhy work with us\n\nOur client is a pioneer in Cloud Rendering and Streaming technologies. Our core technology has been validated in the market through repeated success in the XR industry with over 40+ deployments to date worldwide. We have strong world-class partnerships with the most influential companies in the XR/Metaverse industry. The founding team is visionary, seasoned, and balanced. We have kept the company self-funded and post-revenue since 2017. Our client has recently completed a successful funding round from world-class investors for the expansion of its core technology team. Come join us to make a difference by building a public good and defining the future of the internet.\n\nAbout the Role\n\nIn this position, you will work with a small team of multidisciplinary developers that perform a wide range of tasks. Our client is looking for a person with great problem solving skills and a solid computer science foundation.\n\nYou will mainly interact with our systems, which are GPU servers and cloud services. We have to embrace continuous integration, and need to set up correct automated tests. Our goal is to automate all our DevOps processes to run smoothly unsupervised. Ideally you’re passionate about emerging technologies like AR/VR and own a headset.\n\nKey Responsibilities:\n• Setup backend services;\n• Deploy and support GPU-powered services for the Network;\n• Creating asynchronous APIs.\n\nKey skills:\n• Development experience with Python (3+ years);\n• Creation of asynchronous APIs;\n• Working with SQL;\n• Understanding Docker and have experience with deployment and setup;\n• Good practices of DevOps and CI/CD;\n• Ability to communicate with the engineering team in English.\n\nGood to have skills:\n• Experience with Kubernetes;\n• Experience for deployment GPU-infrastructure on Windows and Linux;\n• Experience with cloud providers services setup (AWS, Google Cloud, MS Azure);\n• noSQL;\n• Aiohttp, Aiortc;\n• Ansible, WinRM.\n\nEducation and Experience\n\nWe are most interested in what you have accomplished and your demonstrated ability to succeed in this role. You may have some or all of the following:\n• A degree in engineering or computer science\n• 3 or more years of experience in a similar position\n• Experience working with local and remote teams, including experience working internationally\n\nCompensation and Benefits\n\nWe offer a competitive salary, stock option plan, extended health benefits (Medical, dental, prescription and more) and a wellness program.\n\nPerks and Work-Life Balance\n\nWe’re establishing our office at the Waterloo Accelerator Centre - a modern and vibrant facility adjacent to the University of Waterloo campus. It’s conveniently located on the Ion electric light rail system running North-South here in Waterloo Region. The Waterloo Accelerator is a modern work environment with plenty of natural light, open space and flexible meeting areas as well as free coffee/tea/beverages. We offer Flex-time work schedules, and vacation time",
+      "job_highlights": [
+        {
+          "items": [
+            "Who is Recruiting from Scratch:\n\nRecruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.\n\nAbout Our Client\n\nOur Client's Vision\n\nAt our client, they believe the next iteration of the internet will be delivered to XR devices. It represents a fundamental and pivotal change on how we work, socialize and learn today. To power the next generation of the internet and drive mainstream adoption, we need to meet or surpass the scale and quality of service we have in today’s internet. In order to achieve this, a new infrastructure and technology stack needs to be built and integrated. To make this a reality we are building their product. We also believe this... new infrastructure should be a public good.\n\nWhat we are building\n\nThe Network is a decentralized 3D & XR content delivery platform that breaks the bottlenecks of infrastructure supply for real-time rendering, and the lack of local compute power on XR Devices. We do this by orchestrating a decentralized network of GPU-powered nodes that run the Engine, a proprietary technology stack that allows to render interactive 3D content and stream it efficiently in real-time to mobile XR devices at scale. We believe Web3 principles in conjunction with our core technology will accelerate the scalability of the Network.\n\nWhy work with us\n\nOur client is a pioneer in Cloud Rendering and Streaming technologies. Our core technology has been validated in the market through repeated success in the XR industry with over 40+ deployments to date worldwide. We have strong world-class partnerships with the most influential companies in the XR/Metaverse industry. The founding team is visionary, seasoned, and balanced. We have kept the company self-funded and post-revenue since 2017. Our client has recently completed a successful funding round from world-class investors for the expansion of its core technology team. Come join us to make a difference by building a public good and defining the future of the internet.\n\nAbout the Role\n\nIn this position, you will work with a small team of multidisciplinary developers that perform a wide range of tasks. Our client is looking for a person with great problem solving skills and a solid computer science foundation.\n\nYou will mainly interact with our systems, which are GPU servers and cloud services. We have to embrace continuous integration, and need to set up correct automated tests. Our goal is to automate all our DevOps processes to run smoothly unsupervised. Ideally you’re passionate about emerging technologies like AR/VR and own a headset.\n\nKey Responsibilities:\n• Setup backend services;\n• Deploy and support GPU-powered services for the Network;\n• Creating asynchronous APIs.\n\nKey skills:\n• Development experience with Python (3+ years);\n• Creation of asynchronous APIs;\n• Working with SQL;\n• Understanding Docker and have experience with deployment and setup;\n• Good practices of DevOps and CI/CD;\n• Ability to communicate with the engineering team in English.\n\nGood to have skills:\n• Experience with Kubernetes;\n• Experience for deployment GPU-infrastructure on Windows and Linux;\n• Experience with cloud providers services setup (AWS, Google Cloud, MS Azure);\n• noSQL;\n• Aiohttp, Aiortc;\n• Ansible, WinRM.\n\nEducation and Experience\n\nWe are most interested in what you have accomplished and your demonstrated ability to succeed in this role. You may have some or all of the following:\n• A degree in engineering or computer science\n• 3 or more years of experience in a similar position\n• Experience working with local and remote teams, including experience working internationally\n\nCompensation and Benefits\n\nWe offer a competitive salary, stock option plan, extended health benefits (Medical, dental, prescription and more) and a wellness program.\n\nPerks and Work-Life Balance\n\nWe’re establishing our office at the Waterloo Accelerator Centre - a modern and vibrant facility adjacent to the University of Waterloo campus. It’s conveniently located on the Ion electric light rail system running North-South here in Waterloo Region. The Waterloo Accelerator is a modern work environment with plenty of natural light, open space and flexible meeting areas as well as free coffee/tea/beverages. We offer Flex-time work schedules, and vacation time"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=Recruiting+From+Scratch&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCKgJ",
+          "text": "See web results for Recruiting From Scratch"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-ksK3h046nbi2z9ZgXHr6vY7GOdPo2EmFpiciG4&s",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIEVuZ2luZWVyLCBEaXN0cmlidXRlZCBDb21wdXRpbmcgU3RhcnR1cCIsImh0aWRvY2lkIjoiQ1ZqUG1wSHI2ellBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFJlY3J1aXRlcmZsb3ciLCJsaW5rIjoiaHR0cHM6Ly9yZWNydWl0ZXJmbG93LmNvbS9yZWNydWl0aW5nZnJvbXNjcmF0Y2gvam9icy8xODc0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Lead Python Engineer - Big Data",
+      "company_name": "Capgemini Engineering",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "About Capgemini Engineering\n\nCapgemini Engineering combines, under one brand, a unique set of strengths from across the Capgemini Group: Altran's world leading engineering and R&D services – acquired by Capgemini in 2020 – and Capgemini’s digital manufacturing expertise. With broad industry knowledge and cutting-edge technologies in digital and software, Capgemini Engineering supports the convergence of the physical and digital worlds. Combined with the capabilities of the rest of the Group, it helps clients to accelerate their journey towards Intelligent Industry. Capgemini Engineering has more than 52,000 engineer and scientist team members in over 30 countries across sectors including aeronautics, automotive, railways, communications, energy, life sciences, semiconductors, software & internet, space & defence, and consumer products.\n\nCapgemini Engineering is an integral part of the Capgemini Group, a global leader in partnering with companies to transform and manage their business... by harnessing the power of technology. The Group is guided everyday by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of over 325,000 team members more than 50 countries. With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms. The Group reported in 2021 global revenues of €18 billion.\n\nVisit us at www.capgemini.com. People matter, results count.\n\nPURPOSE OF THE JOB\n\nAs Data Engineer, you will work on one of the world's largest social media platform which deals with a few petabytes of data coming to the system daily. You will contribute as part of R&D self-organized team working in a challenging, innovative environment for our client.\n\nInvestigate, create, and implement the solutions for many technical challenges using cutting edge technologies, including building/enhancing BigData processing platform enabling work of software used by hundreds of millions of users.\n\nKEY RESPONSIBILITIES:\n• Obtains tasks from the project lead or Team Lead (TL), prepares functional and design specifications, approves them with all stakeholders.\n• Ensures that assigned area/areas are delivered within set deadlines and required quality objectives.\n• Provides estimations, agrees task duration with the manager and contributes to project plan of assigned area.\n• Evaluating existing data systems.\n• Developing best practices for data coding to ensure consistency within the system.\n• Updating and optimizing local and metadata models.\n• Evaluating implemented data systems for variances, discrepancies, and efficiency.\n• Troubleshooting and optimizing data systems.\n• Understand the business drivers and analytical use-cases and translate these to data products\n• Design, implement and maintain pipelines that produce business critical data reliably and efficiently using cloud technology\n• Addresses area-level risks, provides and implements mitigation plan.\n• Reports about area readiness/quality, and raise red flags in crisis situations which are beyond his/her responsibility.\n• Responsible for resolving crisis situations within his/her AOR.\n• Initiates and conducts code reviews, creates code standards, conventions, and guidelines.\n• Suggests technical and functional improvements to add value to the product;\n• Constantly improves his/her professional level.\n• Collaborates with other teams.\n\nRequired Skills:\n• University degree in Computer Related Sciences or similar\n• •Date Engineer Over 5+ years of Python experience with frameworks Flask/CPython/PyPy/FastAPI/Falcon.\n• Familiarity with BIG Data technologies and concepts.\n• Hands-on experience in performance tuning and scaling high-throughput.\n• Have strong experience in ensuring the integrity and freshness of the data while working on Data Mart, as well as cost attribution frameworks for various multi-tenant platforms.\n• Rigor in high code quality, automated testing, and other engineering best practices\n\nCritical Ask:\n• Deep Python understanding\n• Experience with AWS EC2, Docker, and Jenkins\n• Background in scaling high-throughput, low-latency HTTP services\n• Contributions to Python frameworks or interpreters like Flask, CPython, PyPy, FastAPI, Falcon, Sanic.\n• Excellent project management skills\n• Problem Solving Capability(with code):\n• Expert in Python coding skill.\n• Can work with ambiguous problem statement, ask clarifying questions and build a high level design\n• Expert in debugging the issues.\n• Able to write effective unit tests.\n• Strong OOPs skills\n• Effective communication, collaboration, and interpersonal skills\n• Result oriented approach\n• Good English (oral & written) and communication skills in general\n\nWould be a plus:\n• Experience with GraphQL.\n\nCapgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status, or any other characteristic protected by law.\n\nThis is a general description of the Duties, Responsibilities, and Qualifications required for this position. Physical, mental, sensory, or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.\n\nClick the following link for more information on your rights as an Applicant http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law",
+      "job_highlights": [
+        {
+          "items": [
+            "About Capgemini Engineering\n\nCapgemini Engineering combines, under one brand, a unique set of strengths from across the Capgemini Group: Altran's world leading engineering and R&D services – acquired by Capgemini in 2020 – and Capgemini’s digital manufacturing expertise. With broad industry knowledge and cutting-edge technologies in digital and software, Capgemini Engineering supports the convergence of the physical and digital worlds. Combined with the capabilities of the rest of the Group, it helps clients to accelerate their journey towards Intelligent Industry. Capgemini Engineering has more than 52,000 engineer and scientist team members in over 30 countries across sectors including aeronautics, automotive, railways, communications, energy, life sciences, semiconductors, software & internet, space & defence, and consumer products.\n\nCapgemini Engineering is an integral part of the Capgemini Group, a global leader in partnering with companies to transform and manage their business... by harnessing the power of technology. The Group is guided everyday by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of over 325,000 team members more than 50 countries. With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms. The Group reported in 2021 global revenues of €18 billion.\n\nVisit us at www.capgemini.com. People matter, results count.\n\nPURPOSE OF THE JOB\n\nAs Data Engineer, you will work on one of the world's largest social media platform which deals with a few petabytes of data coming to the system daily. You will contribute as part of R&D self-organized team working in a challenging, innovative environment for our client.\n\nInvestigate, create, and implement the solutions for many technical challenges using cutting edge technologies, including building/enhancing BigData processing platform enabling work of software used by hundreds of millions of users.\n\nKEY RESPONSIBILITIES:\n• Obtains tasks from the project lead or Team Lead (TL), prepares functional and design specifications, approves them with all stakeholders.\n• Ensures that assigned area/areas are delivered within set deadlines and required quality objectives.\n• Provides estimations, agrees task duration with the manager and contributes to project plan of assigned area.\n• Evaluating existing data systems.\n• Developing best practices for data coding to ensure consistency within the system.\n• Updating and optimizing local and metadata models.\n• Evaluating implemented data systems for variances, discrepancies, and efficiency.\n• Troubleshooting and optimizing data systems.\n• Understand the business drivers and analytical use-cases and translate these to data products\n• Design, implement and maintain pipelines that produce business critical data reliably and efficiently using cloud technology\n• Addresses area-level risks, provides and implements mitigation plan.\n• Reports about area readiness/quality, and raise red flags in crisis situations which are beyond his/her responsibility.\n• Responsible for resolving crisis situations within his/her AOR.\n• Initiates and conducts code reviews, creates code standards, conventions, and guidelines.\n• Suggests technical and functional improvements to add value to the product;\n• Constantly improves his/her professional level.\n• Collaborates with other teams.\n\nRequired Skills:\n• University degree in Computer Related Sciences or similar\n• •Date Engineer Over 5+ years of Python experience with frameworks Flask/CPython/PyPy/FastAPI/Falcon.\n• Familiarity with BIG Data technologies and concepts.\n• Hands-on experience in performance tuning and scaling high-throughput.\n• Have strong experience in ensuring the integrity and freshness of the data while working on Data Mart, as well as cost attribution frameworks for various multi-tenant platforms.\n• Rigor in high code quality, automated testing, and other engineering best practices\n\nCritical Ask:\n• Deep Python understanding\n• Experience with AWS EC2, Docker, and Jenkins\n• Background in scaling high-throughput, low-latency HTTP services\n• Contributions to Python frameworks or interpreters like Flask, CPython, PyPy, FastAPI, Falcon, Sanic.\n• Excellent project management skills\n• Problem Solving Capability(with code):\n• Expert in Python coding skill.\n• Can work with ambiguous problem statement, ask clarifying questions and build a high level design\n• Expert in debugging the issues.\n• Able to write effective unit tests.\n• Strong OOPs skills\n• Effective communication, collaboration, and interpersonal skills\n• Result oriented approach\n• Good English (oral & written) and communication skills in general\n\nWould be a plus:\n• Experience with GraphQL.\n\nCapgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status, or any other characteristic protected by law.\n\nThis is a general description of the Duties, Responsibilities, and Qualifications required for this position. Physical, mental, sensory, or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.\n\nClick the following link for more information on your rights as an Applicant http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.altran.com/",
+          "text": "altran.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=Capgemini+Engineering&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCNkJ",
+          "text": "See web results for Capgemini Engineering"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QB0k9O39_CWVB2DBytnXcJh05WT2Oo2QVgdd7uc&s",
+      "extensions": [
+        "23 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "23 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFB5dGhvbiBFbmdpbmVlciAtIEJpZyBEYXRhIiwiaHRpZG9jaWQiOiJWaUtTT3o2VXBuRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVUxck1teHNURWhtZUV4MWN6RTJXVGR6U0U4ek5FbENORFJsV0VscWVEQk9PSGt5VEdOVVMySnlNVXBqUmpsMFlXZGhTazlGUkdzeWEwZENPR2xzV1dKS00yTnRXbmRCTUhGRk9UYzRlVXBLZGw5dlVXUmlkMmhmWlhKT05tTlRjV28xUzBWeFZVcFNVRUZ4U0VoMlFsbFVaV1JGUWs1Q1JpMXFjRTB0WWxSeWMyWlhjbnBEUjJWZlZUYzBUMDlDTUhOVVlsRTRXRWw0ZUdObldXdERkMWxCY2trME1sSm9VRGRpWlZnMldWcG1OblZIVkc1WkVoZFpTM0ptV2t0bVlrMVpTMjgxVG05UWNTMVRTakJCTUJvaVFVeEZVemwxVFhWVGFUaFBZbDlNYVU4eVYzQnBjWEZOVGpZeFZWRlhkbEpzWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vY2EubGlua2VkaW4uY29tL2pvYnMvdmlldy9sZWFkLXB5dGhvbi1lbmdpbmVlci1iaWctZGF0YS1hdC1jYXBnZW1pbmktZW5naW5lZXJpbmctMzY3MzMwNjAzMT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "#3942 Python Engineer",
+      "company_name": "The Tal Group",
+      "location": "  Canada   ",
+      "via": "via Monster.ca",
+      "description": "Our client, a global leader in virtual engagement, is hiring a remote Python Engineer! Our client is hiring an engineer with a solid technical foundation who is curious and compassionate. Their team sources data from a variety of systems and processes the data for use in both internal and external products.\n\nThey are a remote-first engineering team spanning multiple time zones and countries. The daily team collaboration heavily utilizes GitHub, Slack, Zoom, and Jira. Their focus is on the business needs with an eye toward data flows and integrity. The team strives to provide high-quality code through practices such as TDD, pair programming, continuous delivery, scalable design, and individual knowledge growth. They maintain a commitment to balancing resources across new features, emerging technologies, and technical debt.\n\nPerks You'll Love\n- 100% Remote work option\n- Great benefits and bonuses, including 401K\n- Fantastic culture and team, which prioritizes work/life balance & offers... generous vacation including PTO\n\nSkills/Experience You're Bringing\n- Develop a deep appreciation and understanding of data, systems, and scale.\n- Develop and deploy scalable and globally accessible APIs for AI and Data services being utilized by multiple products.\n- Engage in fluid communication, transparency, and accountability within the engineering team and other teams in the company.\n- Work collaboratively with a distributed team to deliver modern, scalable, SaaS software across multiple cloud providers (AWS and Heroku).\n- Work directly with product owners to refine internal and external requirements, so we build the right solution to a problem.\n- Write understandable, extensible, maintainable, and testable code.\n- Be curious, empathetic, and humble.\n- Engage in the continued pursuit of improved skills and knowledge.\n- Engage in sharing knowledge and feedback.\n- Work with cross-department SREs to contribute to the platform stability, availability, and quality.\n\nTechnology Summary\n- Python\n- Other languages a plus: Ruby on Rails, NODE JS\n- Databases: PostgreSQL, Redis, Couchbase, and graph databases\n- APIs: REST or GraphQL\n- New Relic\n- GitHub\n- AWS, Heroku, or similar\n- CircleCI or similar CI/CD solution\n\nOther Requirements\n- Education: Formal higher-education degrees in STEM fields or vocational certificates related to software development are preferred but not required. Real-world experience and proven track records count as much, if not more.\n- 2+ years of professional programming experience with languages and frameworks such as Python, etc.\n- Proficient with relational and NoSQL databases with direct experience using at least one of PostgreSQL, MySQL, Couchbase, Redis, or DynamoDB.\n- Solid understanding of modern API design patterns (REST, GraphQL, JSON, etc.)\n- Experience in Social Network Analytics, graph theory, and community models a plus\n- Experience in training, implementation and deployment of analytics and ML libraries such as Pandas, NLTK, or Scikit-learn is a plus.\n- Strong collaboration and communication (verbal and written) skills.\n- Flourishes in a team that focuses on collaborating, building each other up, and continuous learning.\n- Ability to foster cross-team relationships with empathy and respect.\n- Enthusiastic and passionate about data, service-oriented architectures, and scalable systems.\n- Experience with SOA, job queues, concurrent programming, and observability is a plus.\n- Understanding privacy-by-design frameworks and code-level security techniques is a plus.\n\nWe Are An Equal Opportunity Employer\nAll qualified applicants will receive equal consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.\n\nAbout the Company:\nThe Tal Group",
+      "job_highlights": [
+        {
+          "items": [
+            "Our client, a global leader in virtual engagement, is hiring a remote Python Engineer! Our client is hiring an engineer with a solid technical foundation who is curious and compassionate. Their team sources data from a variety of systems and processes the data for use in both internal and external products.\n\nThey are a remote-first engineering team spanning multiple time zones and countries. The daily team collaboration heavily utilizes GitHub, Slack, Zoom, and Jira. Their focus is on the business needs with an eye toward data flows and integrity. The team strives to provide high-quality code through practices such as TDD, pair programming, continuous delivery, scalable design, and individual knowledge growth. They maintain a commitment to balancing resources across new features, emerging technologies, and technical debt.\n\nPerks You'll Love\n- 100% Remote work option\n- Great benefits and bonuses, including 401K\n- Fantastic culture and team, which prioritizes work/life balance & offers... generous vacation including PTO\n\nSkills/Experience You're Bringing\n- Develop a deep appreciation and understanding of data, systems, and scale.\n- Develop and deploy scalable and globally accessible APIs for AI and Data services being utilized by multiple products.\n- Engage in fluid communication, transparency, and accountability within the engineering team and other teams in the company.\n- Work collaboratively with a distributed team to deliver modern, scalable, SaaS software across multiple cloud providers (AWS and Heroku).\n- Work directly with product owners to refine internal and external requirements, so we build the right solution to a problem.\n- Write understandable, extensible, maintainable, and testable code.\n- Be curious, empathetic, and humble.\n- Engage in the continued pursuit of improved skills and knowledge.\n- Engage in sharing knowledge and feedback.\n- Work with cross-department SREs to contribute to the platform stability, availability, and quality.\n\nTechnology Summary\n- Python\n- Other languages a plus: Ruby on Rails, NODE JS\n- Databases: PostgreSQL, Redis, Couchbase, and graph databases\n- APIs: REST or GraphQL\n- New Relic\n- GitHub\n- AWS, Heroku, or similar\n- CircleCI or similar CI/CD solution\n\nOther Requirements\n- Education: Formal higher-education degrees in STEM fields or vocational certificates related to software development are preferred but not required. Real-world experience and proven track records count as much, if not more.\n- 2+ years of professional programming experience with languages and frameworks such as Python, etc.\n- Proficient with relational and NoSQL databases with direct experience using at least one of PostgreSQL, MySQL, Couchbase, Redis, or DynamoDB.\n- Solid understanding of modern API design patterns (REST, GraphQL, JSON, etc.)\n- Experience in Social Network Analytics, graph theory, and community models a plus\n- Experience in training, implementation and deployment of analytics and ML libraries such as Pandas, NLTK, or Scikit-learn is a plus.\n- Strong collaboration and communication (verbal and written) skills.\n- Flourishes in a team that focuses on collaborating, building each other up, and continuous learning.\n- Ability to foster cross-team relationships with empathy and respect.\n- Enthusiastic and passionate about data, service-oriented architectures, and scalable systems.\n- Experience with SOA, job queues, concurrent programming, and observability is a plus.\n- Understanding privacy-by-design frameworks and code-level security techniques is a plus.\n\nWe Are An Equal Opportunity Employer\nAll qualified applicants will receive equal consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.\n\nAbout the Company:\nThe Tal Group"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=The+Tal+Group&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCIgK",
+          "text": "See web results for The Tal Group"
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiIjMzk0MiBQeXRob24gRW5naW5lZXIiLCJodGlkb2NpZCI6Ikx2aHAzbWdxREFvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBNb25zdGVyLmNhIiwibGluayI6Imh0dHBzOi8vd3d3Lm1vbnN0ZXIuY2Evam9iLW9wZW5pbmdzLy0zOTQyLXB5dGhvbi1lbmdpbmVlci0tYTRlODA4NTktNmY0Ni00NTUzLThhZjAtYWI4YjgzNTlmOWUzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Python Engineer - Analytics (remote)",
+      "company_name": "Ample Insight Inc.",
+      "location": "  Canada   ",
+      "via": "via Karkidi",
+      "description": "We are looking for an ambitious Python Engineer/Developer. You are passionate about technology but very pragmatic in the application of it to real-world engineering problems. You are experienced in launching new products and scaling them. Critical thinking and problem-solving skills are essential for this role.\n\nAs a Python Engineer, you will contribute in a multitude of ways, from architecting phenomenal systems, creating and encouraging good software development practices, driving strategic technical improvements, and mentoring other engineers.\n\nAt Ample Insight, you will have a unique opportunity to work with best-in-class engineers on large engineering problems, but in an environment with small teams and abundant opportunities for personal impact and growth.\n\nPlease note that although this role is remote, you are required to be located in Canada/US.\n\nQualifications\n\nResponsibilities\n• You will be part of a small but highly impactful team, with a large amount of ownership and... autonomy for managing things directly\n• You will architect important systems and anticipate strategic and scaling-related challenges via thoughtful long-term planning\n• You will need to design, prototype, and create solutions that support highly reliable, scalable, performant AI and analytics products\n\nRequirements\n• BS (or MS, or PhD) in Computer Science or related engineering field involving coding\n• 3+ years of professional software development experience\n• 3+ years of experience working with Python and data/ML related Python libraries such as Pandas, NumPy and scikit-learn\n• Hands on experience working with data and analytics relating to user engagement, social, marketing, and/or finance data\n• Extensive experience working on relational databases, designing complex data schemas, and writing SQL queries\n• Deep knowledge on performance tuning of ETL jobs, SQL, and databases\n• Solid CS fundamentals with thorough understanding of and demonstrated experience in Object-Oriented Design\n• Strong understanding of design patterns and capable of incorporating them in software design\n• Experience setting technical strategy for a large or important company initiative\n• Strong knowledge of shipping impactful and complex software projects\n• Experience working with Airflow is a strong plus\n• Devops experience is a plus\n\nAdditional Information\n\nCompensation\n• We have competitive compensation\n\nRemote\n• You can be fully remote if you'd prefer. Our employees have strong autonomy. You will need to have great work ethics and be someone that is responsible and dependable.\n• We have amazing team outings that you definitely wouldn't want to miss",
+      "job_highlights": [
+        {
+          "items": [
+            "We are looking for an ambitious Python Engineer/Developer. You are passionate about technology but very pragmatic in the application of it to real-world engineering problems. You are experienced in launching new products and scaling them. Critical thinking and problem-solving skills are essential for this role.\n\nAs a Python Engineer, you will contribute in a multitude of ways, from architecting phenomenal systems, creating and encouraging good software development practices, driving strategic technical improvements, and mentoring other engineers.\n\nAt Ample Insight, you will have a unique opportunity to work with best-in-class engineers on large engineering problems, but in an environment with small teams and abundant opportunities for personal impact and growth.\n\nPlease note that although this role is remote, you are required to be located in Canada/US.\n\nQualifications\n\nResponsibilities\n• You will be part of a small but highly impactful team, with a large amount of ownership and... autonomy for managing things directly\n• You will architect important systems and anticipate strategic and scaling-related challenges via thoughtful long-term planning\n• You will need to design, prototype, and create solutions that support highly reliable, scalable, performant AI and analytics products\n\nRequirements\n• BS (or MS, or PhD) in Computer Science or related engineering field involving coding\n• 3+ years of professional software development experience\n• 3+ years of experience working with Python and data/ML related Python libraries such as Pandas, NumPy and scikit-learn\n• Hands on experience working with data and analytics relating to user engagement, social, marketing, and/or finance data\n• Extensive experience working on relational databases, designing complex data schemas, and writing SQL queries\n• Deep knowledge on performance tuning of ETL jobs, SQL, and databases\n• Solid CS fundamentals with thorough understanding of and demonstrated experience in Object-Oriented Design\n• Strong understanding of design patterns and capable of incorporating them in software design\n• Experience setting technical strategy for a large or important company initiative\n• Strong knowledge of shipping impactful and complex software projects\n• Experience working with Airflow is a strong plus\n• Devops experience is a plus\n\nAdditional Information\n\nCompensation\n• We have competitive compensation\n\nRemote\n• You can be fully remote if you'd prefer. Our employees have strong autonomy. You will need to have great work ethics and be someone that is responsible and dependable.\n• We have amazing team outings that you definitely wouldn't want to miss"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=Ample+Insight+Inc.&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCLcK",
+          "text": "See web results for Ample Insight Inc."
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS70FCYqA2VwdG58YFjElFMivANUjhqUQfamS1Men8&s",
+      "extensions": [
+        "$95K–$170K a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRW5naW5lZXIgLSBBbmFseXRpY3MgKHJlbW90ZSkiLCJodGlkb2NpZCI6IlBNOG50eGJ2UW1RQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBLYXJraWRpIiwibGluayI6Imh0dHBzOi8vd3d3LmthcmtpZGkuY29tL2pvYi1kZXRhaWxzLzIyNzkzLXB5dGhvbi1lbmdpbmVlci1hbmFseXRpY3MtcmVtb3RlLWpvYj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Python Developer with Data exp",
+      "company_name": "Apexon",
+      "location": "  Canada   ",
+      "via": "via SimplyHired",
+      "description": "Company Description:\n\nApexon is a digital-first technology services firm backed by Goldman Sachs Asset Management and Everstone Capital. We specialize in accelerating business transformation and delivering human-centric digital experiences. For over 17 years, Apexon has been meeting customers wherever they are in the digital lifecycle and helping them outperform their competition through speed and innovation.\n\nRESPONSIBILITIES\n\nBackground & Project\n\nWe are looking for a Python software engineer to join the development of scalable, performant data analysis platforms for high-throughput single-cell genomic applications. Project team will implement analysis workflows for genomic data stored in the cloud, leveraging and extending existing infrastructure and APIs in Python.\n\nOur Business Partners and users of the software are based in the USA in South San Francisco (PST time zone) with many members of the team based in Poland. Please note that meetings or live slack interactions will be in... the working hours of San Francisco (PST) time zone. We anticipate more collaboration and overlap with the PST time zone, probably more in the beginning and maybe less in the future as the developer gets familiar with the projects, teams and the program.\n\nResponsibilities\n\nCollaboratively and pragmatically solve scientific software engineering challenges encountered at the forefront of genomics data analysis infrastructure.\n\nCollaborate with local and off-shore engineering teams to support software development efforts.\n\nContribute to the broader scientific community through open-source software development.\n\nRequirements\n\nBS or higher in computer science.\n\n3+ years experience (including any graduate school) developing tools in Python for High Performing Computers and cloud solutions. Seniority of position will depend on experience and other factors.\n\nSelf-motivated and enthusiastic about programming and tool development.\n\nGood knowledge of the FastAPI, Celery, SQL Alchemy, Boto3, Keycloak\n\nExpertise with performant file formats for data analysis and scientific computation (e.g., hdf5, zarr, tiledb).\n\nUSAGE-level knowledge of such technologies: EKS, ECS, S3, SQS, SNS, ALB, EC2, RDS (Postgres), ElastiCache Redis\n\nExperience with Kubernetes, Docker and Helm\n\nExperience with GitLab CI\n\nExperience deploying performant software in cloud environments (AWS preferred)\n\nDemonstrated adherence to best practices in software engineering, particularly usability, version control, testing, and appropriate use of abstraction.\n\nDemonstrated ability to effectively communicate about complex problems to peers, users and leadership.\n\nIn addition\n\nYou are a quick learner, are curious about new areas and the opportunity to build expertise, and courageously and creatively take initiative to see your ideas implemented.\n\nYou are attracted by the challenges of developing software that solves universal problems.\n\nYou are able to perform at a high level in a fast changing and demanding environment.\n\nYou are pragmatic about the tradeoffs between features, quality, and timeliness.\n\nQualifications\n\nBachelor's Degree in Computer Science or Computer Engineering is required\n\nDisclaimer:\n\nIf you feel that this is a good match for your skillsets, please submit a current word version of your resume along with a cover letter describing your skills, experience and salary expectations. We are an Equal Opportunity Employer (EOE",
+      "job_highlights": [
+        {
+          "items": [
+            "Company Description:\n\nApexon is a digital-first technology services firm backed by Goldman Sachs Asset Management and Everstone Capital. We specialize in accelerating business transformation and delivering human-centric digital experiences. For over 17 years, Apexon has been meeting customers wherever they are in the digital lifecycle and helping them outperform their competition through speed and innovation.\n\nRESPONSIBILITIES\n\nBackground & Project\n\nWe are looking for a Python software engineer to join the development of scalable, performant data analysis platforms for high-throughput single-cell genomic applications. Project team will implement analysis workflows for genomic data stored in the cloud, leveraging and extending existing infrastructure and APIs in Python.\n\nOur Business Partners and users of the software are based in the USA in South San Francisco (PST time zone) with many members of the team based in Poland. Please note that meetings or live slack interactions will be in... the working hours of San Francisco (PST) time zone. We anticipate more collaboration and overlap with the PST time zone, probably more in the beginning and maybe less in the future as the developer gets familiar with the projects, teams and the program.\n\nResponsibilities\n\nCollaboratively and pragmatically solve scientific software engineering challenges encountered at the forefront of genomics data analysis infrastructure.\n\nCollaborate with local and off-shore engineering teams to support software development efforts.\n\nContribute to the broader scientific community through open-source software development.\n\nRequirements\n\nBS or higher in computer science.\n\n3+ years experience (including any graduate school) developing tools in Python for High Performing Computers and cloud solutions. Seniority of position will depend on experience and other factors.\n\nSelf-motivated and enthusiastic about programming and tool development.\n\nGood knowledge of the FastAPI, Celery, SQL Alchemy, Boto3, Keycloak\n\nExpertise with performant file formats for data analysis and scientific computation (e.g., hdf5, zarr, tiledb).\n\nUSAGE-level knowledge of such technologies: EKS, ECS, S3, SQS, SNS, ALB, EC2, RDS (Postgres), ElastiCache Redis\n\nExperience with Kubernetes, Docker and Helm\n\nExperience with GitLab CI\n\nExperience deploying performant software in cloud environments (AWS preferred)\n\nDemonstrated adherence to best practices in software engineering, particularly usability, version control, testing, and appropriate use of abstraction.\n\nDemonstrated ability to effectively communicate about complex problems to peers, users and leadership.\n\nIn addition\n\nYou are a quick learner, are curious about new areas and the opportunity to build expertise, and courageously and creatively take initiative to see your ideas implemented.\n\nYou are attracted by the challenges of developing software that solves universal problems.\n\nYou are able to perform at a high level in a fast changing and demanding environment.\n\nYou are pragmatic about the tradeoffs between features, quality, and timeliness.\n\nQualifications\n\nBachelor's Degree in Computer Science or Computer Engineering is required\n\nDisclaimer:\n\nIf you feel that this is a good match for your skillsets, please submit a current word version of your resume along with a cover letter describing your skills, experience and salary expectations. We are an Equal Opportunity Employer (EOE"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.apexon.com/",
+          "text": "apexon.com"
+        },
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=Apexon&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCOkK",
+          "text": "See web results for Apexon"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTJB_ZS9VtBPKgIyxkZh5KlTTwzOapb-7x2Y9&s=0",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIHdpdGggRGF0YSBleHAiLCJodGlkb2NpZCI6IkVkRDRUUGZHRzJnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUTJGdVlXUmgiLCJnbCI6ImNhIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTFyTW14c1REa3hPRlV3ZEdoRE1scGphMTkyWnpnNVkyMXFYMFZQZDBnMWJsSjVXalEyUjBSME9YUXlORGgwTkRkVk5EWllUbWx6TUVsRGFrbFJjWHBmY0VOWWF6STNZekJITFVWd01rWldkRmw2TXpSQlRGTkxiVFozVkZoS2RVWXdXbmhtWW5aMFJWSjBjR3RDWmxOVWNqZFpPWFJTYVZaVlFuUlRNME5ETTFSNWNVbzRPRTVwYVhZU0YxbExjbVphUzJaaVRWbExielZPYjFCeExWTktNRUV3R2lKQlRFVlRPWFZPZURWalkySm1jbWcwYVdsaE5FVm5NWFF4UXprNWQwOXZhbkJuIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTaW1wbHlIaXJlZCIsImxpbmsiOiJodHRwczovL2ZyLnNpbXBseWhpcmVkLmNhL2pvYi9fRGJWRjJQTWNZOU5YcnpxUUV1Q0czSTBGajdpbVljTGo3OWtnYnc1N1RoX3Z2Smo2d1NGMHc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company_name": "Terminal",
+      "location": "  Canada   ",
+      "via": "via LinkedIn",
+      "description": "What you bring\n\nMust Haves\n• 3-4 years in Machine Learning roles, building, prototyping and deploying language models\n• Proficiency with core ML and LLM tech stack: Python ecosystem, Vector Databases (Weaviate, Pinecone) Tensorflow/Pytorch, Huggingface, Langchain, AWS (SageMaker, etc.).\n• Deep understanding of LLM concepts, including prompt engineering, transformers, reinforcement learning from human feedback (RLHF), model fine-tuning, and embeddings.\n• Experience with retrieval, recommendation and search algorithms\n\nNice To Haves\n• Have published papers at ML/NLP conferences like ACL, EMNLP, CoNLL, ICML, RecSys, etc.\n• Experience of working with data processing tools at scale (Python, Spark, Hadoop, etc. )\n• Knowledge of working with containerized cloud environments (Docker, Kubernetes, AWS/GCP)",
+      "job_highlights": [
+        {
+          "items": [
+            "What you bring\n\nMust Haves\n• 3-4 years in Machine Learning roles, building, prototyping and deploying language models\n• Proficiency with core ML and LLM tech stack: Python ecosystem, Vector Databases (Weaviate, Pinecone) Tensorflow/Pytorch, Huggingface, Langchain, AWS (SageMaker, etc.).\n• Deep understanding of LLM concepts, including prompt engineering, transformers, reinforcement learning from human feedback (RLHF), model fine-tuning, and embeddings.\n• Experience with retrieval, recommendation and search algorithms\n\nNice To Haves\n• Have published papers at ML/NLP conferences like ACL, EMNLP, CoNLL, ICML, RecSys, etc.\n• Experience of working with data processing tools at scale (Python, Spark, Hadoop, etc. )\n• Knowledge of working with containerized cloud environments (Docker, Kubernetes, AWS/GCP)"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=Terminal&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCJcL",
+          "text": "See web results for Terminal"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn4fVqJf3jwEQJROXtYhNhGZPolRnHGXRh8IH3QyI&s",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJMYTlvT2k5eEVXc0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1EyRnVZV1JoIiwiZ2wiOiJjYSIsImhsIjoiZW4iLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L21hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItYXQtdGVybWluYWwtMzY5Mjk5NDIwMz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Senior Python Engineer (Cloud Network)",
+      "company_name": "Careers - Find Your Dream Job in the GCore",
+      "location": "  Canada   ",
+      "via": "via ZipRecruiter",
+      "description": "Here at Gcore, our mission is to make the Internet faster, more reliable, and more secure. We are currently seeking a Senior Python Engineer (Cloud Network) to join our dynamic team of over 500+ professionals spanning 30+ locations worldwide! What you will do: As a Senior Python Engineer, you'll join a team you can always rely on for feedback and continuous professional growth.\n\nWorking in Gore Cloud Team is: Develop a complex, engrossing and fast-growing product with thousands of real users Make the acquaintance of popular technologies and tools, such as Python, Go, FastAPI, Kubernetes, Kafka, RabbitMQ, Redis, PostgreSQL, Clickhouse, OpenStack, Elastic, Sentry, Prometheus, Grafana, GitLab, etc Develop and deploy services that power the Cloud from within Have 100% remote work, a lot of freedom in decision making and a minimum of bureaucracy Create and establish effective workflows with the team jointly Get in-demand cloud experience Your Responsibilities: Write efficient and... maintainable Python code to extend OpenStack networking modules and develop automated network solutions for virtual and dedicated servers Write RESTful APIs using Python FastAPI Design, and implement products including firewall, IP address management, load balancers, and VPN as a Service Debug and resolve networking issues, such as network performance and security problems Participate in code reviews, technical discussions, and design decisions, leveraging an in-depth understanding of networking protocols and technologies We expect you to have: Familiarity with cloud networking concepts such as overlaying networks, security groups, and load balancers Knowledge of OpenStack architecture and its components Strong understanding of networking protocols and technologies and their implementation inside Linux systems - TCP/IP, Open vSwitch, VXLAN, etc Experience with HAProxy and NGINX VPN technologies such as IPsec and OpenVPN Monitoring and logging tools such as Prometheus, Grafana, and Loki Strong familiarity with Linux operating systems Nice to Have: Experience with cloud computing platforms such as OpenStack, AWS, Azure, and Google Cloud Experience with DevOps practices and tools, such as GitLab CI, Ansible, Kolla CCNA or CCNP certification, or other relevant certifications in network engineering What We Offer: We aim to offer benefits that ensure you feel and give your best. The benefits vary by region, but you can expect perks like: Competitive salary Flexible schedule Remote, hybrid, or office work Educational support Medical insurance (depending on the contract type and your location) Business trips (depending on your role) About the Company: Gcore is an international cloud and edge leader in providing first-class web performance, content delivery, and security. Headquartered in Luxembourg, with offices around the world, the company provides its solutions to global leaders in numerous industries.\n\nWe manage our own global IT infrastructure across 6 continents, with one of the best network performances in Europe, North America, Asia, and LATAM. Gcore's network consists of 140+ points of presence around the world in reliable Tier IV and Tier III data centers, with a total capacity exceeding 110 Tbps. Equal Opportunity Employer We provide equal opportunity to all applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity, gender expression, national origin, disability, or any other legally protected characteristics.\n\nTo find out more about Gcore, please check out our product website, our Careers page, LinkedIn page, and Instagram account. Let's transform the Internet together",
+      "job_highlights": [
+        {
+          "items": [
+            "Here at Gcore, our mission is to make the Internet faster, more reliable, and more secure. We are currently seeking a Senior Python Engineer (Cloud Network) to join our dynamic team of over 500+ professionals spanning 30+ locations worldwide! What you will do: As a Senior Python Engineer, you'll join a team you can always rely on for feedback and continuous professional growth.\n\nWorking in Gore Cloud Team is: Develop a complex, engrossing and fast-growing product with thousands of real users Make the acquaintance of popular technologies and tools, such as Python, Go, FastAPI, Kubernetes, Kafka, RabbitMQ, Redis, PostgreSQL, Clickhouse, OpenStack, Elastic, Sentry, Prometheus, Grafana, GitLab, etc Develop and deploy services that power the Cloud from within Have 100% remote work, a lot of freedom in decision making and a minimum of bureaucracy Create and establish effective workflows with the team jointly Get in-demand cloud experience Your Responsibilities: Write efficient and... maintainable Python code to extend OpenStack networking modules and develop automated network solutions for virtual and dedicated servers Write RESTful APIs using Python FastAPI Design, and implement products including firewall, IP address management, load balancers, and VPN as a Service Debug and resolve networking issues, such as network performance and security problems Participate in code reviews, technical discussions, and design decisions, leveraging an in-depth understanding of networking protocols and technologies We expect you to have: Familiarity with cloud networking concepts such as overlaying networks, security groups, and load balancers Knowledge of OpenStack architecture and its components Strong understanding of networking protocols and technologies and their implementation inside Linux systems - TCP/IP, Open vSwitch, VXLAN, etc Experience with HAProxy and NGINX VPN technologies such as IPsec and OpenVPN Monitoring and logging tools such as Prometheus, Grafana, and Loki Strong familiarity with Linux operating systems Nice to Have: Experience with cloud computing platforms such as OpenStack, AWS, Azure, and Google Cloud Experience with DevOps practices and tools, such as GitLab CI, Ansible, Kolla CCNA or CCNP certification, or other relevant certifications in network engineering What We Offer: We aim to offer benefits that ensure you feel and give your best. The benefits vary by region, but you can expect perks like: Competitive salary Flexible schedule Remote, hybrid, or office work Educational support Medical insurance (depending on the contract type and your location) Business trips (depending on your role) About the Company: Gcore is an international cloud and edge leader in providing first-class web performance, content delivery, and security. Headquartered in Luxembourg, with offices around the world, the company provides its solutions to global leaders in numerous industries.\n\nWe manage our own global IT infrastructure across 6 continents, with one of the best network performances in Europe, North America, Asia, and LATAM. Gcore's network consists of 140+ points of presence around the world in reliable Tier IV and Tier III data centers, with a total capacity exceeding 110 Tbps. Equal Opportunity Employer We provide equal opportunity to all applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity, gender expression, national origin, disability, or any other legally protected characteristics.\n\nTo find out more about Gcore, please check out our product website, our Careers page, LinkedIn page, and Instagram account. Let's transform the Internet together"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.ca/search?sca_esv=558159101&gl=ca&hl=en&q=Careers+-+Find+Your+Dream+Job+in+the+GCore&sa=X&ved=0ahUKEwini4_s3eaAAxUCFFkFHStyAtoQmJACCMcL",
+          "text": "See web results for Careers - Find Your Dream Job in the GCore"
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIEVuZ2luZWVyIChDbG91ZCBOZXR3b3JrKSIsImh0aWRvY2lkIjoiWXA2dzJpcEM2MTBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdRMkZ1WVdSaCIsImdsIjoiY2EiLCJobCI6ImVuIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvQ2FyZWVycy1GaW5kLVlvdXItRHJlYW0tSm9iLWluLXRoZS1HQ29yZS9Kb2IvU2VuaW9yLVB5dGhvbi1FbmdpbmVlci0oQ2xvdWQtTmV0d29yaykvLWluLVBvbGFuZCxPTj9qaWQ9ZjlkZmI2NjEyNDg2YjQ1NFx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Data engineer",
+          "value": "data engineer"
+        },
+        {
+          "text": "Learning engineer",
+          "value": "learning engineer"
+        },
+        {
+          "text": "Automation engineer",
+          "value": "automation engineer"
+        },
+        {
+          "text": "Backend engineer",
+          "value": "backend engineer"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Exp",
+          "value": "exp"
+        },
+        {
+          "text": "Platform engineer",
+          "value": "platform engineer"
+        },
+        {
+          "text": "Qa engineer",
+          "value": "qa engineer"
+        },
+        {
+          "text": "Support engineer",
+          "value": "support engineer"
+        },
+        {
+          "text": "Sw engineer",
+          "value": "sw engineer"
+        },
+        {
+          "text": "Technical engineer",
+          "value": "technical engineer"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Capgemini Engineering",
+          "value": "/m/0410vv"
+        },
+        {
+          "text": "Canonical",
+          "value": "/m/045s92"
+        },
+        {
+          "text": "Algolux",
+          "value": "/g/11dxp_m583"
+        },
+        {
+          "text": "Altinity, Inc.",
+          "value": "/g/11mp7ghvk0"
+        },
+        {
+          "text": "Altus Group Limited/Groupe Altus Limitée",
+          "value": "/g/11fy20j154"
+        },
+        {
+          "text": "Apexon",
+          "value": "/m/03dzs7z"
+        },
+        {
+          "text": "CSC Generation",
+          "value": "/g/11g9mlsn9_"
+        },
+        {
+          "text": "Capgemini",
+          "value": "/m/03vlk0"
+        },
+        {
+          "text": "Central Business Solutions, Inc",
+          "value": "/g/11g705bmnr"
+        },
+        {
+          "text": "Clevertech",
+          "value": "/g/11k5bhnc_f"
+        },
+        {
+          "text": "CyberCoders",
+          "value": "/g/11f0139r1n"
+        },
+        {
+          "text": "Emtec Global Services",
+          "value": "/g/11fy2g6v54"
+        },
+        {
+          "text": "Insight Global",
+          "value": "/m/0b773zq"
+        },
+        {
+          "text": "KX",
+          "value": "/g/11c3tkl01t"
+        },
+        {
+          "text": "Leap Tools",
+          "value": "/g/11jpjmb7x2"
+        },
+        {
+          "text": "Omnipresent",
+          "value": "/g/11fmmv0cyc"
+        },
+        {
+          "text": "Resemble AI",
+          "value": "/g/11k45jyv03"
+        },
+        {
+          "text": "Svitla Systems",
+          "value": "/g/11f01j4_nx"
+        },
+        {
+          "text": "Syncron",
+          "value": "/m/0h3xgkd"
+        },
+        {
+          "text": "ETeam",
+          "value": "/g/11fy26_wgn"
+        },
+        {
+          "text": "IVedha Inc.",
+          "value": "/g/11g70cn5ty"
+        }
+      ]
+    }
+  ]
+}
