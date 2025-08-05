@@ -1,0 +1,20 @@
+[
+    {
+        "userName" : "admin",
+        "password" : "admin",
+        "userCreated" : "2022-Jul-19 10:25:09 EST",
+        "userActive" : true
+    },
+    {
+        "userName" : "superUser",
+        "password" : "superUser",
+        "userCreated" : "2022-Feb-11 23:37:15 GST",
+        "userActive" : false
+    },
+    {
+        "userName" : "root",
+        "password" : "root",
+        "userCreated" : "2023-Jun-17 11:43:20 IST",
+        "userActive" : true
+    }
+]

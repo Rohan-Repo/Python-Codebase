@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" name="viewport" content="initial-scale=1, width=device-width">
+    <title> Base Parent Layout </title>
+</head>
+<body>
+    <!-- INJECT HTML FROM OTHER FILES & MAINTAIN THE LAYOUT -->
+    <!-- We do this because the base layout stays the same just the underlying bodies are different -->
+    <!-- So generate a basic Layout at once and extend it in all the underlying web pages -->
+    {% block body %} {% endblock %}
+</body>
+</html>

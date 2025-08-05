@@ -1,0 +1,12 @@
+{% extends "baseLayout.html" %}
+
+{% block body %}
+
+<!--        <form action="/greet" method="post">-->
+<!--Because of the final change to hidel the /greet URL from user send it to root (/) directly-->
+        <form action="/" method="post">
+                <input autocomplete="off" autofocus placeholder="Enter Name" type="text" name="name">
+                <button type="submit"> Greet </button>
+        </form>
+
+{% endblock %}

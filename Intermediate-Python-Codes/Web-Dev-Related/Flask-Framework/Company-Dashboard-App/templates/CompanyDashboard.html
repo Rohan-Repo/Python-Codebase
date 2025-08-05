@@ -1,0 +1,32 @@
+{% extends "BaseLayout.html" %}
+
+{% block body %}
+    <table class="table table-dark table-hover">
+        <thead>
+            <tr>
+                <th scope="col">rating</th>
+                <th scope="col">name</th>
+                <th scope="col">numberOfEmployees</th>
+                <th scope="col">companyAddress</th>
+                <th scope="col">ceo</th>
+                <th scope="col">isNonProfit</th>
+                <th scope="col">clientType</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for company in plcCompanyInfo | sort(attribute='rating', reverse = True) %}
+                <tr>
+                    <th scope="row"> {{ company['rating'] }} </th>
+                    <td> {{ company['name'] }} </td>
+                    <td> {{ company['numberOfEmployees'] }} </td>
+                    <td> {{ company['companyAddress']['Street'] + ' , ' + company['companyAddress']['City'] + ' , ' + company['companyAddress']['Province']  }} </td>
+                    <td> {{ company['ceo'] }} </td>
+                    <td> {{ company['isNonProfit'] }} </td>
+                    <td> {{ company['clientType'] | join(' , ') }} </td>
+                    <!-- <td> {{ ' , '.join(company['clientType']) }} </td> -->
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+{% endblock %}

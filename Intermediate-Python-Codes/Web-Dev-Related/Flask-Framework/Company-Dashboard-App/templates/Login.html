@@ -1,0 +1,22 @@
+{% extends "BaseLayout.html" %}
+{% block body %}
+  <form action="/api/login" method="post">
+    <div class="container">
+      <div class="col-xl-2">
+        <label for="inpUserName" class="form-label"> UserName </label>
+        <input type="text" class="form-control" name="inpUserName" id="inpUserName" aria-describedby="emailHelp" required autocomplete="off">
+        <div id="emailHelp" class="form-text"> We'll never share your credentials with anyone else. </div>
+      </div>
+      <div class="col-xl-2">
+        <label for="inpPassword" class="form-label">Password</label>
+        <input type="password" class="form-control" name="inpPassword" id="inpPassword" required autocomplete="off">
+      </div>
+      <div class="p-1">
+        <div class="col-xl-2">
+          <button type="submit" class="btn btn-dark"> Login </button>
+          <button type="reset" class="btn btn-info"> Reset </button>
+        </div>
+      </div>
+    </div>
+  </form>
+{% endblock %}

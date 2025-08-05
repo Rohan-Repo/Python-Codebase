@@ -1,0 +1,83 @@
+[
+    {
+        "name" : "Shopify",
+        "numberOfEmployees" : 20000,
+        "companyAddress": {
+            "Street" : "123 Main St.",
+            "City" : "Toronto",
+            "Province" : "Ontario"
+        },
+        "ceo" : "Jack",
+        "isNonProfit" : false,
+        "clientType" : [
+            "Banking",
+            "E-Commerce",
+            "Manufacturing"
+        ],
+        "rating" : 4.1 
+    },
+    {
+        "name" : "Neo Financial",
+        "numberOfEmployees" : 9000,
+        "companyAddress": {
+            "Street" : "987 Union St.",
+            "City" : "Edmonton",
+            "Province" : "Alberta"
+        },
+        "ceo" : "Otto",
+        "isNonProfit" : false,
+        "clientType" : [
+            "Crypto",
+            "Customer Service"
+        ],
+        "rating" : 3.7 
+    },
+    {
+        "name" : "World Vision Canada",
+        "numberOfEmployees" : 700,
+        "companyAddress": {
+            "Street" : "456 Yonge St.",
+            "City" : "Surrey",
+            "Province" : "British Columbia"
+        },
+        "ceo" : "Jane",
+        "isNonProfit" : true,
+        "clientType" : [
+            "Non-Profit",
+            "Government"
+        ],
+        "rating" : 4.3 
+    },
+	{
+        "name" : "McGill University",
+        "numberOfEmployees" : 2300,
+        "companyAddress": {
+            "Street" : "973 Island St.",
+            "City" : "Montreal",
+            "Province" : "Quebec"
+        },
+        "ceo" : "Sean",
+        "isNonProfit" : false,
+		"clientType" : [
+            "Students",
+            "Working Professionals"
+        ],
+        "rating" : 3.8 
+    },
+	{
+        "name" : "Social Media 55",
+        "numberOfEmployees" : 1500,
+        "companyAddress": {
+            "Street" : "137 Vaughn St.",
+            "City" : "Fredericton",
+            "Province" : "New Brunswick"
+        },
+        "isNonProfit" : false,
+        "ceo" : "Jia",
+        "clientType" : [
+            "Social Media Influencers",
+            "Small and Medium Business Owners"
+        ],
+        "rating" : 3.3 
+    }
+]

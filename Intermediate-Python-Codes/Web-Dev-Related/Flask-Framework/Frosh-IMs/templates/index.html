@@ -1,0 +1,23 @@
+{% extends "baseLayout.html" %}
+{% block body %}
+    <form action="/register" method="post">
+        <input autofocus autocomplete="off" name="name" placeholder="Enter name" type="text"/>
+        <span style="padding-left: 20px" ></span>
+        <select name="sport">
+<!-- By default user's shouldn't select first option so give a blank disabled option with a text -->
+            <option disabled selected> Select Game </option>
+<!--            <option value="Basketball"> Basketball </option>-->
+<!--            <option value="Badminton"> Badminton </option>-->
+<!--            <option value="Football"> Football </option>-->
+<!--             Populate the sport from the Backend -->
+            {% for sport in plcSports %}
+                <option value="{{sport}}"> {{sport}} </option>
+            {% endfor %}
+        </select>
+        <br /> <br />
+        <button type="submit"> Register </button>
+        <span style="padding-left: 20px" ></span>
+        <button type="reset"> Clear Contents </button>
+    </form>
+
+{% endblock %}

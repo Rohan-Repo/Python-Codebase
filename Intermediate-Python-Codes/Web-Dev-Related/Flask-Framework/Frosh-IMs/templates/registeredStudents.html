@@ -1,0 +1,10 @@
+{% extends "baseLayout.html" %}
+{% block body %}
+    <ul style="color:darkCyan; font-weight: bold;">
+        <!--        Foreach loop ran here on the registrants placeholder sent from app.py-->
+        {% for name in registrants %}
+        <li> {{ name }} is registered for {{ registrants[name] }}</li>
+        {% endfor %}
+    </ul>
+
+{% endblock %}
