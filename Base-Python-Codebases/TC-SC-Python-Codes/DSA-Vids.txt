@@ -1,0 +1,8 @@
+Linear Search - https://www.youtube.com/watch?v=TwsgCHYmbbA
+Binary Search - https://www.youtube.com/watch?v=T98PIp4omUA
+Linear & Binary Search Visualization - https://www.cs.usfca.edu/~galles/visualization/Search.html
+
+Binary Search Tree Introduction - https://www.youtube.com/watch?v=QuyI_68s1bA
+Binary Search Tree Operations - https://www.youtube.com/watch?v=wcIRPqTR3Kc
+Balanced Binary Search Trees - https://www.javatpoint.com/balanced-binary-search-tree
+Binary Search Tree Visualization - https://www.cs.usfca.edu/~galles/visualization/BST.html
