@@ -1,0 +1,1 @@
+wordList = [ 'Bonjour', 'Guten Tag', 'Ahlan bik', 'Merci Beaucoup', 'Vielen Danke', 'Shukran' ]
