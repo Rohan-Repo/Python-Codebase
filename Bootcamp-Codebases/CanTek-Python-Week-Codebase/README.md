@@ -8,6 +8,4 @@ In the second week, I worked on a Data Web Scraping Project, scraping data from 
 I also Consumed <b> [SERP's Google Jobs API](https://serpapi.com/google-jobs-api) </b> to Grab Job Descriptions and Analyse and Visualize the Skill Data.
 <br /> <br />
 
-Thank you <b> [Will]( https://github.com/tomwillcode ) </b> for teaching and mentoring this Data Analysis Cohort.
-
-Thank you <b> [CanTek](https://www.cantekcanada.com) </b> for conducting this Data Analysis Cohort.
+Thank you <b> [Will]( https://github.com/tomwillcode ) </b> for teaching and mentoring me during this Data Analysis Cohort.
