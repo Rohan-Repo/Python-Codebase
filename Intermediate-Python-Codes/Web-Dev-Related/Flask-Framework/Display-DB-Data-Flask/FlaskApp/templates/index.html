@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Order Data Display </title>
+    <style>
+        body {
+            background-color: black;
+            color: aquamarine;
+        }
+        table {
+            border: 1px solid darkslategrey;
+            border-collapse: collapse;
+            table-layout: auto;            
+        }
+        table:hover {
+            background-color: aliceblue;
+            color: darkslategray;
+        }
+        td,th {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body align="center">
+    <h1> Order Data Display </h1>
+    
+        <table border="1" align="center">
+            <tr>
+                <th> productName </th>
+                <th> productType </th>
+                <th> productPrice </th>
+                <th> orderQuantity </th>
+                <th> orderQuantity </th>
+            </tr>
+            
+            {% for row in data %}
+            <tr>
+                <td>{{ row[0] }}</td>
+                <td>{{ row[1] }}</td>
+                <td>{{ row[2] }}</td>
+                <td>{{ row[3] }}</td>
+                <td>{{ row[4] }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+</body>
+</html>
