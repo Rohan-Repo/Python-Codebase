@@ -1,0 +1,27 @@
+TransactionID,Date,Time,Item,Quantity,PricePerItem,TotalPrice,PaymentMethod
+TX1001,2025-09-08,08:15:23,Cappuccino,1.0,3.5,3.5,Credit Card
+TX1002,2025-09-01,08:22:11,Latte,2.0,4.0,8.0,Cash
+TX1003,2025-09-12,08:35:46,Espresso,1.0,2.75,2.75,Mobile Pay
+TX1004,2025-09-03,08:50:39,Croissant,1.0,2.5,2.5,Credit Card
+TX1005,2025-09-07,09:00:02,Americano,1.0,3.0,3.0,
+TX1006,2025-09-02,09:05:55,Mocha,,4.25,,Mobile Pay
+TX1007,2025-09-15,09:15:08,Tea,1.0,,2.25,Credit Card
+TX1008,2025-09-05,09:30:42,Latte,1.0,4.0,4.0,Mobile Pay
+TX1009,2025-09-04,09:45:14,Bagel,1.0,2.75,2.75,Cash
+TX1010,2025-09-10,10:00:27,Cappuccino,2.0,3.5,7.0,Credit Card
+TX1011,2025-09-18,10:15:50,Espresso,1.0,2.75,,Cash
+TX1012,2025-09-21,10:30:19,,1.0,3.25,3.25,Credit Card
+TX1013,2025-09-06,10:45:34,Mocha,2.0,,,Mobile Pay
+TX1014,2025-09-09,11:00:06,Bagel,1.0,2.75,2.75,
+TX1015,2025-09-14,11:15:51,Croissant,,2.5,,Credit Card
+TX1016,2025-09-11,11:30:45,Latte,1.0,4.0,4.0,Credit Card
+TX1017,2025-09-13,11:45:29,Cappuccino,2.0,3.5,7.0,Cash
+TX1018,2025-09-16,12:00:03,,,,,
+TX1019,2025-09-17,12:15:59,Tea,1.0,2.25,2.25,Credit Card
+TX1020,2025-09-19,12:30:12,Americano,1.0,3.0,3.0,Cash
+TX1021,2025-09-20,12:45:36,Cappuccino,1.0,3.5,3.5,Credit Card
+TX1022,2025-09-22,13:00:28,Latte,2.0,4.0,8.0,Mobile Pay
+TX1023,2025-09-23,13:15:17,Muffin,1.0,2.75,2.75,Cash
+TX1024,2025-09-24,13:30:54,Brownie,1.0,2.5,2.5,
+TX1025,2025-09-25,13:45:31,Espresso,,2.75,,Credit Card
+TX1026,2025-09-26,14:00:09,Latte,1.0,,,Cash
