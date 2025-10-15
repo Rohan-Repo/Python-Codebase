@@ -1,0 +1,147 @@
+{
+	"info": {
+		"_postman_id": "f8ee2494-71cf-4d69-b4ed-281e6ff7c38c",
+		"name": "Django-REST-API-TVShow",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "8992760"
+	},
+	"item": [
+		{
+			"name": "Get Actors Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/actorapi/actors",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"actorapi",
+						"actors"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Actor",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"showName\":\"AFC Richmond\", \r\n    \"actorShowName\":\"Ted Lasso\", \r\n    \"actorRealName\": \"Jason Sudeikis\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/actorapi/actor/create",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"actorapi",
+						"actor",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Selected Actor",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/actorapi/actor/105",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"actorapi",
+						"actor",
+						"105"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Actor Data",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"showName\": \"Forever\",\r\n    \"actorShowName\": \"Henry Morgan\",\r\n    \"actorRealName\": \"Ioan Gruffudd\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/actorapi/actor/105",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"actorapi",
+						"actor",
+						"105"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Actor Data",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/actorapi/actor/106",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"actorapi",
+						"actor",
+						"106"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
