@@ -20,6 +20,7 @@ Special thanks to [WikiHow](https://www.wikihow.com/Install-Python) and the Cana
 - **Python Scripts (.py):** Practical examples, utility functions, demos
 - **Topic Highlights:**
 - Python Core : Variables, loops, functions, file I/O, error handling, list/dictionary operations
+- Intermediate Python Concepts like DataClasses and Logging Module
 - DB Connectivity - MySQL and SQLite
 - Web Development with Flask and Django
 - EDA, ML, NLP and Web Scraping
