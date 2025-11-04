@@ -1,0 +1,5 @@
+2025-11-03 21:53:30,411 - root - DEBUG - This is a App Debug Message
+2025-11-03 21:53:30,411 - root - INFO - This is a App Info Message
+2025-11-03 21:53:30,412 - root - WARNING - This is a App Warning Message
+2025-11-03 21:53:30,412 - root - ERROR - This is a App Error Message
+2025-11-03 21:53:30,412 - root - CRITICAL - This is a App Crtical Message

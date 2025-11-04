@@ -1,0 +1,9 @@
+2025-11-03 21:54:02 - myApp - INFO - Hostname : Windows-System
+2025-11-03 21:54:02 - myApp - INFO - Username : Admin
+2025-11-03 21:54:02 - myApp - INFO - Home Directory : C:\Users\Admin
+2025-11-03 21:54:02 - myApp - INFO - Platform Info : Windows-10-10.0.16299-SP0
+2025-11-03 21:54:02 - myApp - INFO - uName : uname_result(system='Windows', node='Windows-System', release='10', version='10.0.16299', machine='AMD64')
+2025-11-03 21:54:02 - myApp - INFO - This is a App Info Message
+2025-11-03 21:54:02 - myApp - WARNING - This is a App Warning Message
+2025-11-03 21:54:02 - myApp - ERROR - This is a App Error Message
+2025-11-03 21:54:02 - myApp - CRITICAL - This is a App Crtical Message
