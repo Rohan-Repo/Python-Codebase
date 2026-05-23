@@ -1,0 +1,11 @@
+Python and Data Analysis
+
+Python has become the leading language for data analysis due to its simple syntax and powerful libraries.
+
+The core libraries include NumPy for numerical computing, Pandas for data manipulation, and Matplotlib for visualization. These work together to provide a complete analysis toolkit.
+
+Pandas introduces the DataFrame, making it easy to work with structured data from CSV files, Excel, and databases. NumPy handles arrays and mathematical operations efficiently.
+
+Machine learning libraries like Scikit-learn enable predictive modeling and statistical analysis. The Jupyter Notebook environment combines code, visualizations, and text in interactive documents.
+
+Python's popularity continues to grow because of its versatility, strong community, and constant development of new tools for data work.
