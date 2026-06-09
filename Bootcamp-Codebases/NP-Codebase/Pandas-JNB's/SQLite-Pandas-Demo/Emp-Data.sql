@@ -11,3 +11,6 @@ INSERT INTO Employee VALUES ( 4, 'Louis Litt', 'COO', 150000, 'London', 'UK' );
 
 -- READ - How to retrieve data from a table.
 SELECT * FROM Employee ORDER BY empSalary DESC;
+
+-- To see Autoincremented Values
+SELECT * FROM sqlite_sequence;
