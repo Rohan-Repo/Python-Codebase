@@ -1,0 +1,36 @@
+[
+    {
+        "firstName" : "John",
+        "lastName" : "Doe",
+        "age" : 25,
+        "driversLicenceNumber" : null,
+        "isProgrammer" : true,
+        "isTester" : false,
+        "contactDetails" : {
+            "emailAddress" : "JohnDoe@gmail.com",
+            "phoneNumber" : "(987) 654-3210"
+        },
+        "hobbies" : [ 
+            "Reading Books", 
+            "Cycling", 
+            "Music"
+        ]
+    },
+    {
+        "firstName" : "Jane",
+        "lastName" : "Doe",
+        "age" : 30,
+        "driversLicenceNumber" : "987-654-321",
+        "isProgrammer" : false,
+        "isTester" : true,
+        "contactDetails" : {
+            "emailAddress" : "JaneDoe@outlook.com",
+            "phoneNumber" : "(123) 456-7890"
+        },
+        "hobbies" : [ 
+            "Mountain Climbing", 
+            "Dancing", 
+            "Travelling" 
+        ]
+    }
+]

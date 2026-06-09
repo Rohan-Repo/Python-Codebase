@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "age": 25,
+        "driversLicenceNumber": null,
+        "isProgrammer": true,
+        "isTester": false,
+        "emailAddress": "JohnDoe@gmail.com",
+        "phoneNumber": "(987) 654-3210",
+        "country": "USA",
+        "city": "New York",
+        "address": "123 Main St."
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "age": 30,
+        "driversLicenceNumber": "987-654-321",
+        "isProgrammer": false,
+        "isTester": true,
+        "emailAddress": "JaneDoe@outlook.com",
+        "phoneNumber": "(123) 456-7890",
+        "country": "Canada",
+        "city": "Toronto",
+        "address": "987 Yonge St."
+
+    }
+]

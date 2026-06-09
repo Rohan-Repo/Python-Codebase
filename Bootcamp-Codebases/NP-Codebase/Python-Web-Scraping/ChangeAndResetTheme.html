@@ -1,0 +1,49 @@
+<!-- 
+    HTML - https://www.w3schools.com/Html/ 
+    CSS - https://www.w3schools.com/css/default.asp
+    JS - https://www.w3schools.com/js/default.asp
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Change Theme Example </title>
+    <style>
+        /* # targets the specified ID for changing the style  */
+        body, #light{
+            background-color: lemonchiffon;
+            color: purple;
+            font-weight: bold;
+        }
+        #dark{
+            background-color: black;
+            color: aquamarine;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div align="center">
+        <h1> NPower Canada </h1>
+        <h2> Site #1 : HQ - 700 Lawrence Ave. West, Suite #380, Toronto, Ontario, M6A 3B4 </h2>
+        <h3> Site #2 : 727 7th Ave S.W, Suite #120, Calgary, Alberta, T2P 0Z5 </h3>
+
+        <button onclick="changeTheme()" id="dark"> Change To Dark Theme </button>
+        <button onclick="resetTheme()" id="light"> Reset Theme </button>
+    </div>
+
+    <script>
+        function changeTheme(){
+            document.body.style.backgroundColor = 'black';
+            document.body.style.color = 'aquamarine';
+        }
+        function resetTheme(){
+            document.body.style.backgroundColor = 'lemonchiffon';
+            document.body.style.color = 'purple';
+        }
+    </script>
+</body>
+</html>

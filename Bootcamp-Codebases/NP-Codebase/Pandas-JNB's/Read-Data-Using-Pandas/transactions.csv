@@ -1,0 +1,11 @@
+TransactionID,Date,Time,Item,Quantity,PricePerItem,TotalPrice,PaymentMethod
+TX1001,2025-09-08,08:15:23,Cappuccino,1,3.5,3.5,Credit Card
+TX1002,2025-09-01,08:22:11,Latte,2,4,8,Cash
+TX1003,2025-09-12,08:35:46,Espresso,1,2.75,2.75,Mobile Pay
+TX1004,2025-09-03,08:50:39,Croissant,1,2.5,2.5,Credit Card
+TX1005,2025-09-07,09:00:02,Americano,1,3,3,
+TX1006,2025-09-02,09:05:55,Mocha,,4.25,,Mobile Pay
+TX1007,2025-09-15,09:15:08,Tea,1,,2.25,Credit Card
+TX1008,2025-09-05,09:30:42,Latte,1,4,4,Mobile Pay
+TX1009,2025-09-04,09:45:14,Bagel,1,2.75,2.75,Cash
+TX1010,2025-09-10,10:00:27,Cappuccino,2,3.5,7,Credit Card
