@@ -31,6 +31,10 @@ SELECT productName, productType, productPrice, orderQuantity, productPrice * ord
 -- RIGHT JOIN - All Values from Right Table and only Matching Values from the Left Table
 SELECT productName, productType, productPrice, orderQuantity, productPrice * orderQuantity AS totalAmount FROM Products RIGHT JOIN Orders ON Products.productID = Orders.productID;
 
+-- Full Join or Full Outer Join – This combines the results of a Left Join and a Right Join.
+
+SELECT productName, productType, productPrice, orderQuantity, productPrice * orderQuantity AS totalAmount FROM Products FULL JOIN Orders ON Products.productID = Orders.productID;
+
 -- Cross Join – Here we get the cartesian product
 -- Cartesian Product = number of rows of table1 * number of rows of table2
 SELECT * FROM Products CROSS JOIN Orders;
