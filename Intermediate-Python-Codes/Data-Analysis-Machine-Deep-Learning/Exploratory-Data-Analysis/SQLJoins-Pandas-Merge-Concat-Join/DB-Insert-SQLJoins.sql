@@ -23,7 +23,8 @@ VALUES
 ('Lenovo ThinkPad X1', 1999, 'Laptop'),
 ('GoPro Hero 12', 449, 'Camera'),
 ('Canon EOS R10', 1399, 'Camera'),
-('Fitbit Charge 6', 179, 'Smartwatch');
+('Fitbit Charge 6', 179, 'Smartwatch'),
+('Unordered Product', 999, 'Other');
 
 
 
@@ -38,23 +39,25 @@ CREATE TABLE Customers (
 -- Insert Customers
 INSERT INTO Customers (customerName, customerEmail, customerCity)
 VALUES
-('chandler.bing', 'chandler.bing@friends.com', 'New York'),
-('monica.geller', 'monica.geller@friends.com', 'New York'),
-('ross.geller', 'ross.geller@friends.com', 'New York'),
-('joey.tribbiani', 'joey.tribbiani@friends.com', 'New York'),
-('phoebe.buffay', 'phoebe.buffay@friends.com', 'New York'),
-('rachel.greene', 'rachel.greene@friends.com', 'New York'),
-('gunther', 'gunther@centralperk.com', 'New York'),
-('janice', 'janice@ohmygod.com', 'New York'),
-('ms.chanandler bong', 'ms.chanandler.bong@friends.com', 'New York'),
-('ken addams', 'ken.addams@friends.com', 'New York'),
-('princess consuela bananahammock', 'princess.bananahammock@friends.com', 'New York'),
-('mike.hannigan', 'mike.hannigan@friends.com', 'New York'),
-('ben.geller', 'ben.geller@friends.com', 'New York'),
-('emma.geller', 'emma.geller@friends.com', 'New Jersey'),
-('frank.buffay.jr.jr', 'frank.buffay.jr.jr@friends.com', 'Long Island'),
-('leslie.buffay', 'leslie.buffay@friends.com', 'Long Island'),
-('chandler.buffay', 'chandler.buffay@friends.com', 'Long Island');
+('chandler.bing', 'chandler.bing@friends.com', 'Toronto'),
+('monica.geller', 'monica.geller@friends.com', 'Toronto'),
+('ross.geller', 'ross.geller@friends.com', 'Toronto'),
+('joey.tribbiani', 'joey.tribbiani@friends.com', 'Toronto'),
+('phoebe.buffay', 'phoebe.buffay@friends.com', 'Toronto'),
+('rachel.greene', 'rachel.greene@friends.com', 'Toronto'),
+('gunther', 'gunther@centralperk.com', 'Toronto'),
+('janice', 'janice@ohmygod.com', 'Toronto'),
+('ms.chanandler bong', 'ms.chanandler.bong@friends.com', 'Toronto'),
+('ken addams', 'ken.addams@friends.com', 'Toronto'),
+('princess consuela bananahammock', 'princess.bananahammock@friends.com', 'Toronto'),
+('mike.hannigan', 'mike.hannigan@friends.com', 'Toronto'),
+('ben.geller', 'ben.geller@friends.com', 'Toronto'),
+('emma.geller', 'emma.geller@friends.com', 'Toronto'),
+('frank.buffay.jr.jr', 'frank.buffay.jr.jr@friends.com', 'Calgary'),
+('leslie.buffay', 'leslie.buffay@friends.com', 'Calgary'),
+('chandler.buffay', 'chandler.buffay@friends.com', 'Calgary'),
+('unmatched.customer', 'unmatched@example.com', 'Montreal');
+
 
 
 -- ORDERS TABLE
@@ -139,6 +142,26 @@ LEFT JOIN Orders o ON o.customerID = c.customerID
 LEFT JOIN Products p ON o.productID = p.productID;
 
 -- SELECT o.orderDateTime, c.customerName, p.productName, p.productPrice, o.orderQuantity, p.productPrice * o.orderQuantity AS totalAmount FROM Customers c LEFT JOIN Orders o ON o.customerID = c.customerID LEFT JOIN Products p ON o.productID = p.productID;
+
+-- Full Join or Full Outer Join – This is similar to combining a Left Join and a Right Join.
+-- Support Added in Version 3.39+
+
+SELECT 
+    o.orderDateTime,
+    c.customerName,
+    p.productName,
+    p.productPrice,
+    o.orderQuantity,
+    p.productPrice * o.orderQuantity AS totalAmount
+    
+FROM Customers c 
+FULL OUTER JOIN Orders o 
+    ON o.customerID = c.customerID
+FULL OUTER JOIN Products p 
+    ON o.productID = p.productID;
+
+
+-- SELECT o.orderDateTime, c.customerName, p.productName, p.productPrice, o.orderQuantity, p.productPrice * o.orderQuantity AS totalAmount FROM Customers c FULL OUTER JOIN Orders o ON o.customerID = c.customerID FULL OUTER JOIN Products p ON o.productID = p.productID;
 
 -- Cross Join
 SELECT c.customerName, p.productName FROM Customers c CROSS JOIN Products p;
