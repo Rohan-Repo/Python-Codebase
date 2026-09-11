@@ -1,0 +1,8 @@
+# requirements.txt
+# Install everything with: pip install -r requirements.txt
+
+sqlalchemy        # talks to any database using Python
+pyodbc            # needed for SQL Server
+pymysql           # needed for MySQL
+psycopg2-binary   # needed for PostgreSQL
+# SQLite needs nothing extra — it comes built into Python
