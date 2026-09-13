@@ -495,7 +495,7 @@ Py-OOP-Obj-Comparison-Sorting-1.ipynb  ← Extended version with more operators
 Py-OOP-Obj-Comparison-Sorting-2.ipynb  ← Final version with functools.total_ordering
 ```
 
-> **New in this section vs existing README:** The three OOP sorting notebooks were previously unlisted. They demonstrate implementing Python's comparison dunder methods (`__eq__`, `__lt__`, `__gt__`) to make custom objects sortable with the built-in `sorted()` function.
+> The three OOP sorting notebooks were previously unlisted. They demonstrate implementing Python's comparison dunder methods (`__eq__`, `__lt__`, `__gt__`) to make custom objects sortable with the built-in `sorted()` function.
 
 ---
 
@@ -527,7 +527,7 @@ Tkinter-Codes/
 - `relief="groove"` — visible borders to create card-style layouts
 - Scrollbars linked to a Treeview with `yscrollcommand` / `xscrollcommand`
 
-> **This section was missing from the existing README.** The Tkinter folder contains 8 scripts across 3 real-world scenarios (welcome app, CSV viewer, JSON viewer), each provided in both a clean and a fully commented teaching version.
+> The Tkinter folder contains 8 scripts across 3 real-world scenarios (welcome app, CSV viewer, JSON viewer), each provided in both a clean and a fully commented teaching version.
 
 ---
 
