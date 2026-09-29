@@ -556,6 +556,8 @@ data/
   AdminUsers.json           ← Admin credentials for auth demos
   CanadianCompanies.json    ← Company dataset for dashboard demos
   Movie-Series-Characters.csv ← TV/movie character data
+  AuditTableData.csv ← Audit Table Data
+  AD-User-Info.csv ← Active Directory User data
   words.txt                 ← Word list for text utilities
   *.jpg                     ← QR code output images
 ```
