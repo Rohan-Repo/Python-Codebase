@@ -507,6 +507,7 @@ Tkinter-Codes/
   Display-Welcome-Msg-1.py          ← Welcome app: fully commented teaching version
   Display-Welcome-Msg-2.py          ← Welcome app: minimal one-liner version
   Display-Welcome-Msg-GUI.py        ← Welcome app: GUI-focused named version
+  Display-Clock-RealTime.py         ← Welcome app: Display Current Time Dynamic
 
   Python-Display-CSV-Data-1.py      ← CSV viewer: reads transactions.csv into Treeview grid
   Python-Display-CSV-Data-2.py      ← CSV viewer: same with full inline comments
