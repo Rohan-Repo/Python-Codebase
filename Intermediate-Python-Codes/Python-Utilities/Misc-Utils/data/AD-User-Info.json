@@ -1,0 +1,51 @@
+[
+    {
+        "Name": "Chandler Muriel Bing",
+        "UserName": "chandler.bing",
+        "EmailID": "chandler.bing@easysystems.in",
+        "DepartmentRole": "Project-Manager",
+        "Country": "Canada"
+    },
+    {
+        "Name": "Ross Eustace Geller",
+        "UserName": "ross.geller",
+        "EmailID": "ross.geller@easysystems.in",
+        "DepartmentRole": "Developer",
+        "Country": "India"
+    },
+    {
+        "Name": "Phoebe Pamela Buffay",
+        "UserName": "phoebe.buffay",
+        "EmailID": "phoebe.buffay@easysystems.in",
+        "DepartmentRole": "Tester",
+        "Country": "India"
+    },
+    {
+        "Name": "Monica Elizabeth Geller",
+        "UserName": "monica.geller",
+        "EmailID": "monica.geller@easysystems.in",
+        "DepartmentRole": "Team-Lead",
+        "Country": "Canada"
+    },
+    {
+        "Name": "Joseph Francis Tribbiani",
+        "UserName": "joey.tribbiani",
+        "EmailID": "joey.tribbiani@easysystems.in",
+        "DepartmentRole": "SystemAdmin",
+        "Country": "Philippines"
+    },
+    {
+        "Name": "Rachel Karen Greene",
+        "UserName": "rachel.greene",
+        "EmailID": "rachel.greene@easysystems.in",
+        "DepartmentRole": "Support",
+        "Country": "Philippines"
+    },
+    {
+        "Name": "Gunther Central Perk",
+        "UserName": "gunther",
+        "EmailID": "gunther@easysystems.in",
+        "DepartmentRole": "Sales",
+        "Country": "South-Korea"
+    }
+]

@@ -1,0 +1,24 @@
+﻿auditEntryId,dbName,tableName,operation,affectedUserId,initiatedByDBUser,systemName,appName,auditEntryDate
+1,CompDB,Employee,INS,1000,SQLAdmin,CA-Win11,SSMS,2024-02-12 12:54:14.230
+3,CompDB,Employee,UPD,1100,SQLAdmin,US-Win10,SSMS,2024-02-12 23:54:04.430
+5,CompDB,Employee,DEL,1100,SQLAdmin,US-Win11,SSMS,2024-02-13 00:00:29.020
+7,CompDB,Department,INS,125,SQLAdmin,CA-Win10,UMG-App,2024-02-13 00:04:07.957
+9,CompanyDatabase,Employee,UPD,150,SQLAdmin,CA-Win2K19,UMG-App,2024-02-13 00:04:26.890
+11,CompanyDatabase,Employee,DEL,175,SQLAdmin,CA-Win2K22,UMG-App,2024-02-13 00:05:53.137
+13,ADUserDB,Employees,INS,300,WindowsAdmin,CA-Win2K22,AD-App,2024-02-13 00:06:11.830
+15,ADUserDB,Employees,UPD,550,WindowsAdmin,CA-Win2K19,AD-App,2024-02-13 00:17:44.493
+17,ADUserDB,Employees,DEL,550,SQLAdmin,CA-Win2K22,Website,2024-02-13 00:19:04.127
+19,ADUserDB,Employees,INS,325,WindowsAdmin,PH-Win2K22,Website,2025-04-07 22:41:11.033
+21,ADUserDB,EmpCountry,UPD,105,WindowsAdmin,PH-Win2K19,MobileApp,2025-04-07 22:43:16.617
+23,ADUserDB,EmpUserGroup,DEL,250,SQLAdmin,SK-Win11,MobileApp,2025-04-08 00:34:47.827
+25,CompDB,Department,UPD,150,WindowsAdmin,SK-Win10,Website,2025-04-08 18:15:15.603
+27,CompDB,Department,DEL,125,WindowsAdmin,SK-Win2K19,Website,2025-04-08 18:16:23.910
+2025,ADUserDB,Employees,INS,975,WindowsAdmin,SK-Win2K22,AD-App,2025-04-08 18:58:13.713
+2027,ADUserDB,Employees,UPD,975,WindowsAdmin,SK-Win2K19,UMG-App,2025-04-08 18:58:13.837
+2029,ADUserDB,Employees,DEL,975,WindowsAdmin,CA-Win2K19,SSMS,2025-04-08 18:58:13.970
+2045,ADUserDB,Employees,INS,1275,WindowsAdmin,SK-Win2K22,AD-App,2025-11-30 00:30:09.620
+2047,ADUserDB,Employees,UPD,1275,WindowsAdmin,SK-Win2K19,UMG-App,2025-11-30 00:30:09.820
+2049,ADUserDB,Employees,DEL,1275,WindowsAdmin,CA-Win2K19,SSMS,2025-11-30 00:30:09.973
+2051,ADUserDB,Employees,INS,1300,WindowsAdmin,SK-Win2K22,AD-App,2025-11-30 00:30:28.810
+2053,ADUserDB,Employees,UPD,1300,WindowsAdmin,SK-Win2K19,UMG-App,2025-11-30 00:30:28.943
+2055,ADUserDB,Employees,DEL,1300,WindowsAdmin,CA-Win2K19,SSMS,2025-11-30 00:30:29.100
