@@ -542,6 +542,7 @@ Tkinter-Codes/
 | **QR Code Generator** | `Generate-QR-Code.py` | Validates URL input, generates a QR code image with `qrcode`, saves with a UUID filename to avoid collisions |
 | **Date & Time** | `Date-Time.py` | datetime formatting, timezone handling, timedelta arithmetic |
 | **Text to Speech** | `Py-Text-To-Speech.py` | Convert text to audio using pyttsx3 |
+| **CSV to JSON Converter** | `Convert-CSV-To-JSON.py` | Convert CSV data to JSON file |
 | **CSV Reader** | `Read-CSV-File.py` | Read and process CSV data with csv module |
 | **JSON Reader** | `Read-JSON-File.py` `Read-Multiple-JSON-Files.py` | Parse single and batch JSON files — `Read-Multiple-JSON-Files.py` loops a directory |
 | **Crypto Demo** | `CryptoEg.py` | Symmetric encryption basics with the cryptography library |
