@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRON // CALENDAR_SYSTEM</title>
+    <style>
+        /* Base Reset & Cyberpunk Grid Background */
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #02060c;
+            background-image:
+                linear-gradient(rgba(0, 242, 254, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 242, 254, 0.03) 1px, transparent 1px);
+            background-size: 30px 30px;
+            font-family: 'Courier New', Courier, monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #00f2fe;
+            overflow: hidden;
+        }
+
+        /* Ambient background glow effect */
+        body::before {
+            content: '';
+            position: absolute;
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, rgba(0, 242, 254, 0.08) 0%, transparent 70%);
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        /* Tron Terminal Container */
+        .terminal-container {
+            position: relative;
+            background: rgba(4, 12, 24, 0.85);
+            border: 2px solid #00f2fe;
+            border-radius: 4px;
+            padding: 30px;
+            box-shadow: 0 0 20px rgba(0, 242, 254, 0.2), inset 0 0 15px rgba(0, 242, 254, 0.1);
+            z-index: 1;
+            backdrop-filter: blur(5px);
+        }
+
+        /* Override Calendar Table Selectors */
+        table.month {
+            border-collapse: separate;
+            border-spacing: 6px;
+            width: 350px;
+        }
+
+        /* Header Month/Year Text */
+        th.month {
+            color: #fff;
+            font-size: 1.4rem;
+            font-weight: bold;
+            letter-spacing: 3px;
+            padding-bottom: 20px;
+            text-shadow: 0 0 10px rgba(0, 242, 254, 0.6);
+            text-transform: uppercase;
+        }
+
+        /* Days of the week headers (Sun, Mon, etc) */
+        th {
+            color: rgba(0, 242, 254, 0.6);
+            font-size: 0.8rem;
+            font-weight: bold;
+            padding: 8px 0;
+            text-transform: uppercase;
+            border-bottom: 1px solid rgba(0, 242, 254, 0.3);
+        }
+
+        /* Calendar Numerical Cells */
+        td {
+            text-align: center;
+            padding: 12px 0;
+            font-size: 1.1rem;
+            color: #90e0ef;
+            border: 1px solid rgba(0, 242, 254, 0.15);
+            background: rgba(0, 242, 254, 0.02);
+            transition: all 0.25s ease;
+            cursor: pointer;
+        }
+
+        /* Hover Data Cell Trace Line Effect */
+        td:not(.noday):hover {
+            background: rgba(0, 242, 254, 0.2);
+            border-color: #00f2fe;
+            color: #fff;
+            box-shadow: 0 0 12px rgba(0, 242, 254, 0.5);
+            transform: scale(1.05);
+        }
+
+        /* Off-month filler blocks */
+        td.noday {
+            border: 1px dashed rgba(0, 242, 254, 0.05);
+            background: transparent;
+            color: rgba(0, 242, 254, 0.1);
+            cursor: default;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="terminal-container">
+        <!-- Renders the calendar string safely without stripping HTML nodes -->
+        {{ calendar_table|safe }}
+    </div>
+
+    <script>
+        // Live-reload hook: periodically pings the server to see if it restarted
+        setInterval(function () {
+            fetch(window.location.href, { method: 'HEAD' })
+                .then(response => {
+                    if (response.status === 200) {
+                        // Check if page headers changed or server cycled
+                    }
+                })
+                .catch(() => {
+                    // Server went down temporarily for a reload
+                    setTimeout(() => window.location.reload(), 1000);
+                });
+        }, 2000); // Check every 2 seconds
+    </script>
+
+</body>
+
+</html>

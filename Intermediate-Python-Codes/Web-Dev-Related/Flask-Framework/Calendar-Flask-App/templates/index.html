@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRON // FULL YEAR CALENDAR SYSTEM</title>
+    <style>
+        /* Base Reset & Cyberpunk Grid Background */
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #02060c;
+            background-image:
+                linear-gradient(rgba(0, 242, 254, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 242, 254, 0.03) 1px, transparent 1px);
+            background-size: 30px 30px;
+            font-family: 'Courier New', Courier, monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #00f2fe;
+            overflow-y: auto;
+        }
+
+        /* Ambient background glow effect */
+        body::before {
+            content: '';
+            position: fixed;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(0, 242, 254, 0.06) 0%, transparent 70%);
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        /* Tron Terminal Container for Full Year */
+        .terminal-container {
+            position: relative;
+            background: rgba(4, 12, 24, 0.90);
+            border: 2px solid #00f2fe;
+            border-radius: 4px;
+            padding: 30px;
+            box-shadow: 0 0 25px rgba(0, 242, 254, 0.25), inset 0 0 15px rgba(0, 242, 254, 0.1);
+            z-index: 1;
+            backdrop-filter: blur(5px);
+            max-width: 1200px;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+
+        /* Custom Scrollbar for Terminal */
+        .terminal-container::-webkit-scrollbar {
+            width: 8px;
+        }
+        .terminal-container::-webkit-scrollbar-track {
+            background: rgba(0, 242, 254, 0.05);
+        }
+        .terminal-container::-webkit-scrollbar-thumb {
+            background: rgba(0, 242, 254, 0.3);
+            border-radius: 4px;
+        }
+
+        /* Main Year Table & Month Table overrides */
+        table.year {
+            border-collapse: separate;
+            border-spacing: 20px;
+            width: 100%;
+        }
+
+        table.month {
+            border-collapse: separate;
+            border-spacing: 4px;
+            width: 100%;
+            background: rgba(0, 242, 254, 0.01);
+            border: 1px solid rgba(0, 242, 254, 0.1);
+            padding: 5px;
+        }
+
+        /* Year Header Title */
+        th.year {
+            color: #fff;
+            font-size: 1.8rem;
+            font-weight: bold;
+            letter-spacing: 5px;
+            padding-bottom: 15px;
+            text-align: center;
+            text-shadow: 0 0 12px rgba(0, 242, 254, 0.8);
+            text-transform: uppercase;
+            border-bottom: 2px solid rgba(0, 242, 254, 0.4);
+        }
+
+        /* Individual Month Name Header */
+        th.month {
+            color: #fff;
+            font-size: 1.1rem;
+            font-weight: bold;
+            letter-spacing: 2px;
+            padding: 8px 0;
+            text-shadow: 0 0 8px rgba(0, 242, 254, 0.6);
+            text-transform: uppercase;
+            background: rgba(0, 242, 254, 0.08);
+        }
+
+        /* Days of the week headers (Sun, Mon, etc) */
+        th {
+            color: rgba(0, 242, 254, 0.7);
+            font-size: 0.75rem;
+            font-weight: bold;
+            padding: 5px 0;
+            text-transform: uppercase;
+            border-bottom: 1px solid rgba(0, 242, 254, 0.3);
+        }
+
+        /* Calendar Numerical Cells */
+        td {
+            text-align: center;
+            padding: 8px 0;
+            font-size: 0.95rem;
+            color: #90e0ef;
+            border: 1px solid rgba(0, 242, 254, 0.15);
+            background: rgba(0, 242, 254, 0.02);
+            transition: all 0.2s ease;
+            cursor: pointer;
+            width: 28px;
+        }
+
+        /* Hover Data Cell Trace Line Effect */
+        td:not(.noday):hover {
+            background: rgba(0, 242, 254, 0.25);
+            border-color: #00f2fe;
+            color: #fff;
+            box-shadow: 0 0 10px rgba(0, 242, 254, 0.6);
+            transform: scale(1.08);
+        }
+
+        /* Off-month filler blocks */
+        td.noday {
+            border: 1px dashed rgba(0, 242, 254, 0.03);
+            background: transparent;
+            color: rgba(0, 242, 254, 0.05);
+            cursor: default;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="terminal-container">
+        <!-- Renders the full 12-month calendar string safely without stripping HTML nodes -->
+        {{ calendar_table|safe }}
+    </div>
+
+    <script>
+        // Live-reload hook: periodically pings the server to see if it restarted
+        setInterval(function () {
+            fetch(window.location.href, { method: 'HEAD' })
+                .then(response => {
+                    if (response.status === 200) {
+                        // Server is up
+                    }
+                })
+                .catch(() => {
+                    // Server went down temporarily for a reload
+                    setTimeout(() => window.location.reload(), 1000);
+                });
+        }, 2000);
+    </script>
+
+</body>
+
+</html>
